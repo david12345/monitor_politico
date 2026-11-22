@@ -141,7 +141,7 @@ async function vistaDia(dataPedida) {
         h('h3', {}, a.titulo),
         h('p', {}, a.resumo),
         h('ul', { class: 'fontes', 'aria-label': 'Fontes' }, a.fontes.map((f) => h('li', {},
-          ligacao(f.url, f.titulo), ` — ${f.meio}`, f.data_publicacao ? `, ${fmtData(f.data_publicacao, { day: 'numeric', month: 'short' })}` : '')))))
+          ligacao(f.url, f.titulo), ` — ${f.meio}`, f.data_publicacao ? `, ${fmtData(f.data_publicacao, { day: 'numeric', month: 'short' })}` : ''))))))
       : h('p', { class: 'vazio' }, 'Sem acontecimentos relevantes neste período.'));
 
   // afirmações + filtros
