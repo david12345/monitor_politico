@@ -1,1 +1,21 @@
-{"atualizado_em": null, "dias": []}
+{
+  "atualizado_em": "2026-11-22T23:03:40+00:00",
+  "dias": [
+    {
+      "data": "2026-11-22",
+      "ficheiro": "data/relatorios/2026-11-22.json",
+      "resumo": "O fim de semana foi dominado pela 7.ª Convenção do Chega, no Entroncamento: a direção de André Ventura foi reeleita com 85,66%, a convenção aprovou uma moção sobre \"remigração\" e Ventura disse estar pronto para ser primeiro-ministro. O primeiro dia foi cancelado por uma falsa ameaça de bomba. Das três afirmações factuais verificadas, nenhuma se confirmou por inteiro.",
+      "n_acontecimentos": 9,
+      "n_afirmacoes": 7,
+      "por_veredicto": {
+        "verdadeiro": 0,
+        "maioritariamente_verdadeiro": 0,
+        "enganador": 1,
+        "maioritariamente_falso": 1,
+        "falso": 0,
+        "nao_verificavel": 1,
+        "sem_veredicto": 4
+      }
+    }
+  ]
+}

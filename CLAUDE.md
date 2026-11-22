@@ -45,7 +45,7 @@ agente/instrucoes.md        o "programa" da tarefa diária — afinar aqui
 schema/relatorio.schema.json esquema do relatório (referência)
 data/relatorios/            um JSON por dia
 data/indice.json            GERADO por atualizar_indice.py
-scripts/                    validar.py, atualizar_indice.py
+scripts/                    validar.py, atualizar_indice.py, texto.py (HTML → texto)
 index.html app.js estilo.css dashboard
 ```
 

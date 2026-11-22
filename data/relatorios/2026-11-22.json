@@ -1,0 +1,395 @@
+{
+  "data": "2026-11-22",
+  "gerado_em": "2026-11-22T23:05:00+00:00",
+  "janela": {
+    "de": "2026-11-21",
+    "ate": "2026-11-22"
+  },
+  "resumo": "O fim de semana foi dominado pela 7.ª Convenção do Chega, no Entroncamento: a direção de André Ventura foi reeleita com 85,66%, a convenção aprovou uma moção sobre \"remigração\" e Ventura disse estar pronto para ser primeiro-ministro. O primeiro dia foi cancelado por uma falsa ameaça de bomba. Das três afirmações factuais verificadas, nenhuma se confirmou por inteiro.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Lista de André Ventura eleita para a Direção Nacional do Chega com 85,66%",
+      "resumo": "Na 7.ª Convenção Nacional, no Pavilhão Municipal do Entroncamento, a lista única de Ventura à Direção Nacional obteve 85,66%, acima dos dois terços exigidos pelos estatutos. Em janeiro de 2024 a mesma lista tinha tido 90,2%. Não foram divulgados o número de votantes nem os brancos e nulos. A convenção extraordinária visou regularizar órgãos cuja eleição anterior foi invalidada pelo Tribunal Constitucional.",
+      "data": "2026-11-22",
+      "categoria": "interno",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "André Ventura reeleito para a Direção Nacional do Chega com 85,66% dos votos",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/geral/andre-ventura-reeleito-para-a-direcao-nacional-do-chega-com-85-66-dos-votos/20261122/6b03190dd34e08e17ee2c3fe",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "\"Estou pronto para ser primeiro-ministro\", diz Ventura no discurso de encerramento da convenção do Chega",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/estou-pronto-para-ser-primeiro-ministro-diz-ventura-no-discurso-de-encerramento-da-conveno-do-chega",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Ventura diz-se \"pronto para ser primeiro-ministro\" no encerramento da convenção",
+      "resumo": "No discurso de encerramento, com cerca de uma hora, André Ventura afirmou que o partido está pronto para governar, admitindo que pode ser \"daqui a uns meses\" ou anos, e criticou PS e PSD. PSD, CDS e IL estiveram presentes; os partidos de esquerda, convidados, não compareceram.",
+      "data": "2026-11-22",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "\"Estou pronto para ser primeiro-ministro\", diz Ventura no discurso de encerramento da convenção do Chega",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/estou-pronto-para-ser-primeiro-ministro-diz-ventura-no-discurso-de-encerramento-da-conveno-do-chega",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "Chega promete entregar em janeiro no Parlamento \"a maior reforma da justiça feita em Portugal\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/chega/parlamento/chega-promete-entregar-em-janeiro-no-parlamento-a-maior-reforma-da-justica-feita-em-portugal/20261122/6b03423cd34e08e17ee2c43c",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Ameaça de bomba, que se revelou falsa, cancela o primeiro dia da convenção",
+      "resumo": "Na sexta-feira, 20 de novembro, uma ameaça de bomba obrigou à evacuação do Pavilhão Municipal do Entroncamento perto das 23:00 e ao cancelamento dos trabalhos desse dia. A ameaça revelou-se falsa e a convenção retomou no sábado.",
+      "data": "2026-11-20",
+      "categoria": "outro",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Ventura pede unidade no Chega e diz estar \"na curva da história\" para governar",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
+          "data_publicacao": "2026-11-21"
+        },
+        {
+          "titulo": "Chega impõe lei da rolha para Ventura ensaiar partido capaz de governar",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/21/politica/noticia/chega-impoe-lei-rolha-ventura-ensaiar-partido-capaz-governar-2195835",
+          "data_publicacao": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Convenção aprova moção sobre \"remigração\"; Ventura assume a posição no discurso",
+      "resumo": "Os delegados aprovaram no domingo de manhã uma moção temática a defender a \"remigração\". No encerramento, Ventura disse que o partido é favorável à remigração de imigrantes que não aceitem os \"valores nacionais\".",
+      "data": "2026-11-22",
+      "categoria": "interno",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Ventura afirma na convenção do Chega: \"Sim, nós queremos a remigração\"",
+          "meio": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3088397/ventura-afirma-sim-nos-queremos-a-remigracao",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Ventura responde às críticas do PSD sobre as votações conjuntas com o PS no OE2027",
+      "resumo": "Questionado sobre a acusação de Hugo Soares (PSD) de que PS e Chega formaram uma \"geringonça\" que aumentou impostos sobre rendas, Ventura disse que \"só há coligações porque o primeiro-ministro não fez o seu trabalho\" e que também aprovou medidas da AD no Orçamento.",
+      "data": "2026-11-22",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Ventura diz que \"só há coligações porque o primeiro-ministro não fez o seu trabalho\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-diz-que-so-ha-coligacoes-porque-o-primeiro-ministro-nao-fez-o-seu-trabalho-senao-nao-havia-coligacoes-nenhumas/20261122/6b02f44a0cf22114c9128755",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "Governo, IL e CDS-PP dizem que o Chega não está pronto para governar",
+      "resumo": "O ministro dos Assuntos Parlamentares, Carlos Abreu Amorim, que representou o Governo no encerramento, disse que o Chega \"não está pronto para governar\" e criticou as aprovações conjuntas de PS e Chega no Orçamento. Os vice-presidentes da IL e do CDS-PP acusaram o partido de posições próximas do PS.",
+      "data": "2026-11-22",
+      "categoria": "media",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Ministro dos Assuntos Parlamentares diz que Chega \"não está pronto para governar\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/ministro-dos-assuntos-parlamentares/chega/ministro-dos-assuntos-parlamentares-diz-que-chega-nao-esta-pronto-para-governar/20261122/6b033cbad34e08e17ee2c433",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "IL e CDS-PP acusam partido de Ventura de estar próximo do socialismo",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/il/cds-pp/il-e-cds-pp-acusam-partido-de-ventura-de-estar-proximo-do-socialismo/20261122/6b03403dd34e08e17ee2c434",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "titulo": "Chega anuncia proposta de reforma da Justiça para janeiro",
+      "resumo": "Ventura anunciou que o partido vai entregar no Parlamento, no início de janeiro, \"a maior reforma da justiça feita em Portugal\", sem detalhar propostas. Definiu também como prioridade que nenhum reformado seja pobre, sem medidas concretas.",
+      "data": "2026-11-22",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Chega promete entregar em janeiro no Parlamento \"a maior reforma da justiça feita em Portugal\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/chega/parlamento/chega-promete-entregar-em-janeiro-no-parlamento-a-maior-reforma-da-justica-feita-em-portugal/20261122/6b03423cd34e08e17ee2c43c",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a8",
+      "titulo": "Delegados ratificam eleição direta de Ventura com 98% e lista de Ventura ganha o Conselho de Jurisdição",
+      "resumo": "Os delegados ratificaram por unanimidade a eleição de Ventura nas diretas de 31 de outubro, em que foi candidato único com 98% (dados do partido). Para o Conselho de Jurisdição, a lista indicada por Ventura teve 70,9% e a lista alternativa 19,02%, sem eleger membros.",
+      "data": "2026-11-21",
+      "categoria": "interno",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Ventura pede unidade no Chega e diz estar \"na curva da história\" para governar",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
+          "data_publicacao": "2026-11-21"
+        },
+        {
+          "titulo": "André Ventura reeleito para a Direção Nacional do Chega com 85,66% dos votos",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/geral/andre-ventura-reeleito-para-a-direcao-nacional-do-chega-com-85-66-dos-votos/20261122/6b03190dd34e08e17ee2c3fe",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a9",
+      "titulo": "Pedro Pinto rejeita divisões internas: \"a única fação\" é a de Ventura",
+      "resumo": "O líder parlamentar Pedro Pinto acusou a imprensa de criar uma \"guerra artificial\" em torno de fações, depois de o deputado Bruno Nunes ter desistido de apresentar lista ao Conselho de Jurisdição.",
+      "data": "2026-11-21",
+      "categoria": "interno",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Pedro Pinto rejeita \"guerra artificial\" e diz que \"única fação\" é a de Ventura",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/pedro-pinto/chega/pedro-pinto-rejeita-guerra-artificial-e-diz-que-unica-facao-e-a-de-ventura/20261121/6b0207d5d34e08e17ee2c32f",
+          "data_publicacao": "2026-11-21"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Hoje o Chega é o partido mais jovem de Portugal, lideramos em todas as sondagens do voto jovem em todo o país.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da 7.ª Convenção Nacional, no Entroncamento.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/estou-pronto-para-ser-primeiro-ministro-diz-ventura-no-discurso-de-encerramento-da-conveno-do-chega",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "sondagens",
+      "veredicto": "maioritariamente_falso",
+      "explicacao": "O Chega liderou entre os eleitores dos 18 aos 34 anos no barómetro DN/Aximage de outubro de 2025 (30,1%), mas no barómetro de abril de 2026 caiu para quinto lugar (12,5%), atrás de AD, PS, IL e Livre. Basta esta sondagem para a afirmação \"todas as sondagens\" não se verificar. A subamostra jovem é pequena (111 entrevistas) e não encontrámos sondagens mais recentes por idade; se existirem, podem mudar a conclusão.",
+      "evidencias": [
+        {
+          "titulo": "Chega perde terreno entre os mais jovens, que se aproximam da Iniciativa Liberal, diz barómetro",
+          "entidade": "Observador (barómetro DN/Aximage)",
+          "url": "https://observador.pt/2026/05/04/chega-perde-terreno-entre-os-mais-jovens-que-se-aproximam-da-iniciativa-liberal-diz-barometro/",
+          "data": "2026-05-04",
+          "sentido": "contraria"
+        },
+        {
+          "titulo": "Jovens continuam inclinados para a direita, mas estão mais liberais",
+          "entidade": "Diário de Notícias (barómetro DN/Aximage)",
+          "url": "https://www.dn.pt/pol%C3%ADtica/jovens-continuam-inclinados-para-a-direita-mas-esto-mais-liberais",
+          "data": "2026-05-03",
+          "sentido": "contraria"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "[Portugal] continua a ser invadido, inundado, preenchido, mês após mês, com pessoas que vêm da Índia, do Paquistão, do Bangladesh.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da convenção, a justificar a moção sobre \"remigração\". \"Invadido\" é uma caracterização; verifica-se a parte factual: o crescimento contínuo destas comunidades.",
+      "origem": {
+        "meio": "Notícias ao Minuto",
+        "url": "https://www.noticiasaominuto.com/politica/3088397/ventura-afirma-sim-nos-queremos-a-remigracao",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "imigracao",
+      "veredicto": "enganador",
+      "explicacao": "Continuam a chegar imigrantes destes países, mas os dados oficiais mais recentes (AIMA, Relatório de Migrações e Asilo 2025) não mostram um crescimento contínuo: a comunidade indiana diminuiu de 98 616 (2024) para 91 405 (2025), e as do Bangladesh (55 199 → 55 579) e do Paquistão (41 508 → 42 042) ficaram praticamente estáveis. No total, os três países somam cerca de 189 mil dos 1,59 milhões de estrangeiros residentes; a maior comunidade é a brasileira (493 622). Os dados de 2026 ainda não foram publicados.",
+      "evidencias": [
+        {
+          "titulo": "Brasileiros são quase um terço dos 1,58 milhões de estrangeiros em Portugal (Relatório de Migrações e Asilo 2025)",
+          "entidade": "Observador, com dados da AIMA",
+          "url": "https://observador.pt/2026/09/22/brasileiros-sao-quase-um-terco-dos-158-milhoes-de-estrangeiros-em-portugal-crescimento-abranda-face-a-anos-anteriores-diz-aima/",
+          "data": "2026-09-22",
+          "sentido": "contraria"
+        },
+        {
+          "titulo": "Maioria dos imigrantes são do Paquistão, Índia e Bangladesh? Não é bem assim",
+          "entidade": "Público (fact-check, dados AIMA 2024)",
+          "url": "https://www.publico.pt/2025/11/04/sociedade/noticia/maioria-imigrantes-portugal-sao-paquistao-india-bangladesh-nao-bem-assim-2153279",
+          "data": "2025-11-04",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Irresponsabilidade é ir jogar golfe no meio da maior crise de habitação que este país já teve, é nunca estar para dar a cara quando é preciso.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-21",
+      "contexto": "Discurso de abertura da convenção, dirigido ao primeiro-ministro Luís Montenegro.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
+        "data_publicacao": "2026-11-21"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "nao_verificavel",
+      "explicacao": "A frase pressupõe que o primeiro-ministro jogou golfe durante a crise da habitação. Nas fontes consultadas não encontrámos registo público do episódio a que Ventura se refere, nem desmentido. \"Maior crise de habitação\" é uma avaliação e não um dado mensurável.",
+      "evidencias": [],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Sim, nós queremos a remigração. [...] Quem vem para cá ou aceita os nossos valores ou terá uma viagem de regresso aos seus países de origem.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento, depois da aprovação de uma moção temática sobre o tema.",
+      "origem": {
+        "meio": "Notícias ao Minuto",
+        "url": "https://www.noticiasaominuto.com/politica/3088397/ventura-afirma-sim-nos-queremos-a-remigracao",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "imigracao",
+      "veredicto": null,
+      "explicacao": "Proposta política: regista-se, sem veredicto. Ventura não detalhou como seria aplicada.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "No início de janeiro o Chega vai entregar na Assembleia da República \"a maior reforma da justiça feita em Portugal\".",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da convenção.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/chega/parlamento/chega-promete-entregar-em-janeiro-no-parlamento-a-maior-reforma-da-justica-feita-em-portugal/20261122/6b03423cd34e08e17ee2c43c",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "justica",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro, sem propostas concretas divulgadas. A acompanhar em janeiro.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "A prioridade fundamental é garantir que nenhum reformado seja pobre em Portugal.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento, sobre o que faria como primeiro-ministro.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/chega/parlamento/chega-promete-entregar-em-janeiro-no-parlamento-a-maior-reforma-da-justica-feita-em-portugal/20261122/6b03423cd34e08e17ee2c43c",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "pensoes",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro, sem medidas nem custo apresentados.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "Só há coligações porque o primeiro-ministro não fez o seu trabalho, senão não havia coligações nenhumas.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Declarações aos jornalistas sobre as votações conjuntas de PS e Chega no Orçamento do Estado para 2027.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-diz-que-so-ha-coligacoes-porque-o-primeiro-ministro-nao-fez-o-seu-trabalho-senao-nao-havia-coligacoes-nenhumas/20261122/6b02f44a0cf22114c9128755",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político sobre as causas das votações conjuntas; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "CNN Portugal",
+      "Diário de Notícias",
+      "Público",
+      "Observador",
+      "Notícias ao Minuto"
+    ],
+    "limitacoes": [
+      "Primeiro relatório, gerado manualmente para testar o processo.",
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "chega.pt não respondeu (servidor inacessível a partir daqui).",
+      "Renascença (rr.pt) bloqueia leitura automática (HTTP 403).",
+      "Polígrafo mudou para poligrafo.iol.pt, domínio ainda não permitido na rede; aima.gov.pt e dnbrasil.dn.pt também não.",
+      "Artigo do Público sobre a convenção está atrás de paywall; usado só para o facto da ameaça de bomba, que está no excerto aberto.",
+      "Afirmações relatadas por terceiros sem citação direta de Ventura (ex.: comparação entre bombeiros e presos, referida pela IL) não foram incluídas."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 9,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 1,
+      "maioritariamente_falso": 1,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 4
+    }
+  }
+}
