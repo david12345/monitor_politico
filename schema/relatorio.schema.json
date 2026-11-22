@@ -1,0 +1,389 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "relatorio.schema.json",
+  "title": "Relatório diário do Monitor Chega",
+  "description": "Referência. A validação bloqueante é scripts/validar.py, que acrescenta regras que o esquema não exprime (≥2 evidências por veredicto, estatísticas = contagens, data = nome do ficheiro).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "data",
+    "gerado_em",
+    "janela",
+    "resumo",
+    "acontecimentos",
+    "afirmacoes",
+    "cobertura",
+    "estatisticas"
+  ],
+  "properties": {
+    "data": {
+      "type": "string",
+      "format": "date"
+    },
+    "gerado_em": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "janela": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "de",
+        "ate"
+      ],
+      "properties": {
+        "de": {
+          "type": "string",
+          "format": "date"
+        },
+        "ate": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "resumo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "acontecimentos": {
+      "type": "array",
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "titulo",
+          "resumo",
+          "data",
+          "categoria",
+          "relevancia",
+          "fontes"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^a\\d+$"
+          },
+          "titulo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "resumo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "data": {
+            "type": "string",
+            "format": "date"
+          },
+          "categoria": {
+            "enum": [
+              "parlamento",
+              "campanha",
+              "declaracao",
+              "justica",
+              "interno",
+              "media",
+              "outro"
+            ]
+          },
+          "relevancia": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "fontes": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "titulo",
+                "meio",
+                "url",
+                "data_publicacao"
+              ],
+              "properties": {
+                "titulo": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "meio": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://"
+                },
+                "data_publicacao": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "format": "date"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "afirmacoes": {
+      "type": "array",
+      "maxItems": 15,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "texto",
+          "literal",
+          "autor",
+          "cargo",
+          "data",
+          "contexto",
+          "origem",
+          "tipo",
+          "tema",
+          "veredicto",
+          "explicacao",
+          "evidencias",
+          "confianca",
+          "ver_tambem"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^f\\d+$"
+          },
+          "texto": {
+            "type": "string",
+            "minLength": 1
+          },
+          "literal": {
+            "type": "boolean"
+          },
+          "autor": {
+            "type": "string",
+            "minLength": 1
+          },
+          "cargo": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "data": {
+            "type": "string",
+            "format": "date"
+          },
+          "contexto": {
+            "type": "string",
+            "minLength": 1
+          },
+          "origem": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "meio",
+              "url",
+              "data_publicacao"
+            ],
+            "properties": {
+              "meio": {
+                "type": "string",
+                "minLength": 1
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "data_publicacao": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date"
+              }
+            }
+          },
+          "tipo": {
+            "enum": [
+              "factual",
+              "promessa",
+              "opiniao"
+            ]
+          },
+          "tema": {
+            "type": "string",
+            "pattern": "^[a-z_]+$"
+          },
+          "veredicto": {
+            "enum": [
+              "verdadeiro",
+              "maioritariamente_verdadeiro",
+              "enganador",
+              "maioritariamente_falso",
+              "falso",
+              "nao_verificavel",
+              null
+            ]
+          },
+          "explicacao": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidencias": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "titulo",
+                "entidade",
+                "url",
+                "data",
+                "sentido"
+              ],
+              "properties": {
+                "titulo": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "entidade": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://"
+                },
+                "data": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "format": "date"
+                },
+                "sentido": {
+                  "enum": [
+                    "apoia",
+                    "contraria",
+                    "contexto"
+                  ]
+                }
+              }
+            }
+          },
+          "confianca": {
+            "enum": [
+              "alta",
+              "media",
+              "baixa",
+              null
+            ]
+          },
+          "ver_tambem": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}#f\\d+$"
+          }
+        }
+      }
+    },
+    "cobertura": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fontes_consultadas",
+        "limitacoes"
+      ],
+      "properties": {
+        "fontes_consultadas": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "limitacoes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "estatisticas": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "n_acontecimentos",
+        "n_afirmacoes",
+        "por_veredicto"
+      ],
+      "properties": {
+        "n_acontecimentos": {
+          "type": "integer"
+        },
+        "n_afirmacoes": {
+          "type": "integer"
+        },
+        "por_veredicto": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "verdadeiro",
+            "maioritariamente_verdadeiro",
+            "enganador",
+            "maioritariamente_falso",
+            "falso",
+            "nao_verificavel",
+            "sem_veredicto"
+          ],
+          "properties": {
+            "verdadeiro": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "maioritariamente_verdadeiro": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "enganador": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "maioritariamente_falso": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "falso": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "nao_verificavel": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "sem_veredicto": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

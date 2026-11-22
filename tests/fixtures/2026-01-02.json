@@ -1,0 +1,62 @@
+{
+  "data": "2026-01-02",
+  "gerado_em": "2026-01-02T06:50:00+00:00",
+  "janela": {"de": "2026-01-01", "ate": "2026-01-02"},
+  "resumo": "Relatório fictício usado apenas nos testes do validador.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Acontecimento de teste",
+      "resumo": "Texto de teste.",
+      "data": "2026-01-01",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [{"titulo": "Artigo de teste", "meio": "Exemplo", "url": "https://example.org/a", "data_publicacao": "2026-01-01"}]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Afirmação factual de teste.",
+      "literal": true,
+      "autor": "Pessoa de Teste",
+      "cargo": "Deputado",
+      "data": "2026-01-01",
+      "contexto": "Contexto de teste.",
+      "origem": {"meio": "Exemplo", "url": "https://example.org/b", "data_publicacao": "2026-01-01"},
+      "tipo": "factual",
+      "tema": "economia",
+      "veredicto": "falso",
+      "explicacao": "Explicação de teste.",
+      "evidencias": [
+        {"titulo": "Dado A", "entidade": "INE", "url": "https://example.org/c", "data": null, "sentido": "contraria"},
+        {"titulo": "Dado B", "entidade": "Pordata", "url": "https://example.org/d", "data": "2025-12-01", "sentido": "contexto"}
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Promessa de teste.",
+      "literal": false,
+      "autor": "Pessoa de Teste",
+      "cargo": null,
+      "data": "2026-01-01",
+      "contexto": "Contexto de teste.",
+      "origem": {"meio": "Exemplo", "url": "https://example.org/e", "data_publicacao": null},
+      "tipo": "promessa",
+      "tema": "habitacao",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {"fontes_consultadas": ["Exemplo"], "limitacoes": ["Teste."]},
+  "estatisticas": {
+    "n_acontecimentos": 1,
+    "n_afirmacoes": 2,
+    "por_veredicto": {"verdadeiro": 0, "maioritariamente_verdadeiro": 0, "enganador": 0, "maioritariamente_falso": 0, "falso": 1, "nao_verificavel": 0, "sem_veredicto": 1}
+  }
+}

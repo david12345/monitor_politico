@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Monitor Chega</title>
+  <meta name="description" content="Relatório diário sobre o partido Chega: acontecimentos, afirmações e verificação de factos.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231c5cab'/%3E%3Cpath d='M4 8.5l2.5 2.5L12 5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <a class="saltar" href="#conteudo">Saltar para o conteúdo</a>
+  <header class="topo">
+    <div class="topo-int">
+      <a class="marca" href="#/">Monitor Chega</a>
+      <nav aria-label="Principal">
+        <a href="#/" data-nav="dia">Hoje</a>
+        <a href="#/historico" data-nav="historico">Histórico</a>
+        <a href="#/metodologia" data-nav="metodologia">Metodologia</a>
+      </nav>
+    </div>
+  </header>
+  <main id="conteudo" tabindex="-1">
+    <p class="estado">A carregar…</p>
+  </main>
+  <footer class="rodape">
+    <p>Relatórios gerados automaticamente a partir de fontes públicas, com ligação a cada fonte.
+      Podem conter erros: confirme nas fontes antes de citar.
+      <a href="#/metodologia">Como é feito</a>.</p>
+  </footer>
+  <div id="dica" class="dica" role="tooltip" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

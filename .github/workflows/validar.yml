@@ -1,0 +1,34 @@
+name: Validar relatórios
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Testes
+        run: python3 -m unittest discover tests
+      - name: Validar relatórios
+        run: |
+          shopt -s nullglob
+          f=(data/relatorios/*.json)
+          if [ ${#f[@]} -gt 0 ]; then python3 scripts/validar.py "${f[@]}"; fi
+      - name: Índice atualizado
+        run: |
+          cp data/indice.json /tmp/indice.json
+          python3 scripts/atualizar_indice.py
+          python3 - <<'PY'
+          import json
+          a = json.load(open("/tmp/indice.json")); b = json.load(open("data/indice.json"))
+          assert a["dias"] == b["dias"], "data/indice.json desatualizado: correr scripts/atualizar_indice.py"
+          PY
