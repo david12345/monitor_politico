@@ -1,0 +1,201 @@
+{
+  "data": "2026-11-23",
+  "gerado_em": "2026-11-23T07:05:00+00:00",
+  "janela": {
+    "de": "2026-11-22",
+    "ate": "2026-11-23"
+  },
+  "resumo": "Dia sem novos acontecimentos de fundo: a cobertura continuou centrada no encerramento da convenção do Chega, já tratado no relatório de ontem. Do discurso de Ventura ficam o desafio a Montenegro (\"se quer eleições, aqui estaremos\") e duas afirmações sobre saúde, ambas certas no essencial mas sem contexto relevante. A votação final global do Orçamento do Estado para 2027 está marcada para 24 de novembro.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Ventura desafia Montenegro: \"Se Luís Montenegro quer eleições, aqui estaremos\"",
+      "resumo": "No discurso de encerramento da convenção, a 22 de novembro, no Entroncamento, André Ventura acusou o primeiro-ministro de \"chantagem com eleições\" e disse que o Chega não se deixa condicionar pela ameaça de uma crise política. Afirmou também que já não tem \"desculpas\" para não ganhar as próximas legislativas. Desenvolvimento do discurso referido no relatório de 22 de novembro.",
+      "data": "2026-11-22",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Ventura encerra convenção do Chega: \"Não tenho desculpas para não ganhar as próximas eleições legislativas\"",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/politica/ventura-encerra-convencao-do-chega-nao-tenho-desculpas-para-nao-ganhar-as-proximas-eleicoes-legislativas_n1780954",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "Ventura vai apresentar a \"maior reforma da Justiça\" (liveblog da Convenção do Chega)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega/",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Lista alternativa ao Conselho de Jurisdição foi apupada; cabeça de lista diz ter sido pressionada a desistir",
+      "resumo": "Quando foi anunciado o resultado da lista liderada pela advogada Mayza Consentino (19,02%), que concorreu contra a lista apoiada por Ventura (70,90%), os delegados apuparam e assobiaram, segundo o Observador. O Correio da Manhã refere que a candidata é advogada de membros do grupo neonazi 1143 e que se queixou de ter sido pressionada para desistir. A Mesa Nacional foi reeleita com 82,40% (lista única). Novo detalhe sobre a eleição referida no relatório de 22 de novembro.",
+      "data": "2026-11-22",
+      "categoria": "interno",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Ventura vai apresentar a \"maior reforma da Justiça\" (liveblog da Convenção do Chega)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega/",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "André Ventura assume: \"Sim, nós queremos a remigração\"",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/andre-ventura-assume-sim-nos-queremos-a-remigracao",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Este Governo fez a primeira descida de investimento na saúde neste país desde a troika.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da 7.ª Convenção Nacional, a criticar a situação do SNS. Refere-se, presumivelmente, à proposta de Orçamento do Estado para 2027, ainda não aprovada em votação final global.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "saude",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Segundo o relatório da proposta de OE2027, a despesa do programa da Saúde desce 1,5% (de 18 125,9 para 17 858,4 milhões de euros) e o investimento público na Saúde cai mais de 33% (de 1022 para 678 milhões). A RTP descreve-o como o primeiro corte desde a troika. Falta contexto relevante: a descida deve-se ao fim do PRR; sem as verbas do PRR, o orçamento da Saúde sobe 2,9%. Trata-se ainda de uma proposta, não de despesa executada.",
+      "evidencias": [
+        {
+          "titulo": "Redução de 1,5% no orçamento da Saúde no OE2027",
+          "entidade": "Notícias ao Minuto/Lusa, com dados do relatório da proposta de OE2027",
+          "url": "https://www.noticiasaominuto.com/pais/3063545/reducao-de-1-5-no-orcamento-da-saude-no-oe2027",
+          "data": "2026-10-08",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "OE2027. Bastonário da Ordem dos Médicos critica proposta contraditória e de retrocesso",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-bastonario-da-ordem-dos-medicos-critica-proposta-contraditoria-e-de-retrocesso_n1770720",
+          "data": null,
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "4 pessoas morreram no Algarve, mas não é só em Portimão.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da convenção, sobre as mortes relatadas nas urgências do Hospital de Portimão, como exemplo de que \"a saúde está um desastre flagrante\".",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "saude",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A Entidade Reguladora da Saúde tem em curso uma avaliação ao serviço de urgência de Portimão na sequência de quatro mortes noticiadas publicamente por alegada falta de assistência médica, e a IGAS vai investigar a qualidade dos cuidados. O número coincide, mas a relação entre as mortes e falhas de assistência ainda não foi apurada pelas entidades competentes; no início de novembro só duas estavam confirmadas publicamente e uma terceira era dada como provável.",
+      "evidencias": [
+        {
+          "titulo": "Reclamações nas urgências de Portimão já superam as de todo o ano de 2025",
+          "entidade": "Diário de Notícias/Lusa, com dados da ERS",
+          "url": "https://www.dn.pt/sociedade/reclamaes-nas-urgncias-de-portimo-j-superam-as-de-todo-o-ano-de-2025",
+          "data": "2026-11-12",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Hospital de Portimão. Carneiro sinaliza provável terceira morte e quer ouvir ministra no Parlamento",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/politica/ps-vai-chamar-ministra-da-saude-ao-parlamento-sobre-mortes-no-hospital-de-portimao_n1777730",
+          "data": "2026-11-08",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Nunca pediremos desculpa pela nossa história.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da convenção, a propósito do debate sobre um eventual pedido de desculpas às antigas colónias.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso político sobre posição futura; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "[...] não temos desculpas e eu não tenho desculpas para não ganhar as próximas eleições legislativas em Portugal.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-22",
+      "contexto": "Discurso de encerramento da convenção, depois da eleição da direção nacional com 85,66%.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ventura-encerra-convencao-do-chega-nao-tenho-desculpas-para-nao-ganhar-as-proximas-eleicoes-legislativas_n1780954",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Avaliação política sobre as condições do partido; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "RTP",
+      "Observador",
+      "Correio da Manhã",
+      "Diário de Notícias",
+      "Notícias ao Minuto"
+    ],
+    "limitacoes": [
+      "Janela sobrepõe-se ao relatório de 22 de novembro (gerado às 23:05): acontecimentos e afirmações já tratados não foram repetidos.",
+      "À hora da recolha (cerca das 07:00 de Lisboa) não havia notícias do próprio dia 23 sobre o partido.",
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "jornaleconomico.sapo.pt, healthnews.pt e postal.pt recusados pela rede (HTTP 403); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "Não incluídas por serem vagas ou retóricas: \"deixaram entrar um milhão e construíram 30 mil casas\" (sem período definido) e \"Aceitamos que um preso a trabalhar ganhe mais do que um bombeiro?\" (pergunta retórica sem valores concretos).",
+      "Sentido de voto do Chega na votação final global do OE2027 (24 de novembro) ainda não anunciado nas fontes consultadas."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 2,
+    "n_afirmacoes": 4,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 2,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 2
+    }
+  }
+}

@@ -1,6 +1,22 @@
 {
-  "atualizado_em": "2026-11-22T23:37:43+00:00",
+  "atualizado_em": "2026-11-23T06:52:46+00:00",
   "dias": [
+    {
+      "data": "2026-11-23",
+      "ficheiro": "data/relatorios/2026-11-23.json",
+      "resumo": "Dia sem novos acontecimentos de fundo: a cobertura continuou centrada no encerramento da convenção do Chega, já tratado no relatório de ontem. Do discurso de Ventura ficam o desafio a Montenegro (\"se quer eleições, aqui estaremos\") e duas afirmações sobre saúde, ambas certas no essencial mas sem contexto relevante. A votação final global do Orçamento do Estado para 2027 está marcada para 24 de novembro.",
+      "n_acontecimentos": 2,
+      "n_afirmacoes": 4,
+      "por_veredicto": {
+        "verdadeiro": 0,
+        "maioritariamente_verdadeiro": 2,
+        "enganador": 0,
+        "maioritariamente_falso": 0,
+        "falso": 0,
+        "nao_verificavel": 0,
+        "sem_veredicto": 2
+      }
+    },
     {
       "data": "2026-11-22",
       "ficheiro": "data/relatorios/2026-11-22.json",
