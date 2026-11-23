@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Valida relatórios diários do Monitor Chega.
+"""Valida relatórios diários do Monitor Político.
 
-Uso: python3 scripts/validar.py data/relatorios/2026-11-22.json [...]
+Uso: python3 scripts/validar.py data/relatorios/<partido>/2026-11-22.json [...]
 Sai com 1 se algum relatório falhar. Só biblioteca padrão.
 """
 from __future__ import annotations
@@ -26,6 +26,14 @@ CONFIANCAS = {"alta", "media", "baixa"}
 SENTIDOS = {"apoia", "contraria", "contexto"}
 RE_TEMA = re.compile(r"^[a-z_]+$")
 RE_VER_TAMBEM = re.compile(r"^\d{4}-\d{2}-\d{2}#f\d+$")
+# Teto absoluto; as instruções do agente pedem menos (7 e 10 por partido).
+MAX_ACONTECIMENTOS = 10
+MAX_AFIRMACOES = 15
+PARTIDOS_JSON = Path(__file__).resolve().parent.parent / "data" / "partidos.json"
+
+
+def partidos_validos() -> set[str]:
+    return {p["id"] for p in json.loads(PARTIDOS_JSON.read_text(encoding="utf-8"))}
 
 
 class Erros(list):
@@ -68,6 +76,12 @@ def validar(rel: dict, nome: str = "") -> Erros:
         e.add("raiz", "tem de ser objeto")
         return e
 
+    partido = rel.get("partido")
+    if partido not in partidos_validos():
+        e.add("partido", f"desconhecido: {partido!r} (ver data/partidos.json)")
+    elif nome and Path(nome).parent.name != partido:
+        e.add("partido", f"'{partido}' mas o ficheiro está na pasta '{Path(nome).parent.name}'")
+
     dia = _data(rel.get("data"), e, "data")
     if dia and nome and Path(nome).stem != dia.isoformat():
         e.add("data", f"não coincide com o nome do ficheiro ({Path(nome).name})")
@@ -94,6 +108,8 @@ def validar(rel: dict, nome: str = "") -> Erros:
     if not isinstance(acs, list):
         e.add("acontecimentos", "tem de ser lista")
         acs = []
+    if len(acs) > MAX_ACONTECIMENTOS:
+        e.add("acontecimentos", f"mais de {MAX_ACONTECIMENTOS}")
     ids = set()
     for i, a in enumerate(acs):
         c = f"acontecimentos[{i}]"
@@ -126,6 +142,8 @@ def validar(rel: dict, nome: str = "") -> Erros:
     if not isinstance(afs, list):
         e.add("afirmacoes", "tem de ser lista")
         afs = []
+    if len(afs) > MAX_AFIRMACOES:
+        e.add("afirmacoes", f"mais de {MAX_AFIRMACOES}")
     ids = set()
     contagem = {v: 0 for v in VEREDICTOS}
     contagem["sem_veredicto"] = 0

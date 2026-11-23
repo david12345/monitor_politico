@@ -1,11 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "relatorio.schema.json",
-  "title": "Relatório diário do Monitor Chega",
-  "description": "Referência. A validação bloqueante é scripts/validar.py, que acrescenta regras que o esquema não exprime (≥2 evidências por veredicto, estatísticas = contagens, data = nome do ficheiro).",
+  "title": "Relatório diário do Monitor Político (um partido, um dia)",
+  "description": "Referência. A validação bloqueante é scripts/validar.py, que acrescenta regras que o esquema não exprime (≥2 evidências por veredicto, estatísticas = contagens, data = nome do ficheiro). O validador também confere que 'partido' coincide com a pasta.",
   "type": "object",
   "additionalProperties": false,
   "required": [
+    "partido",
     "data",
     "gerado_em",
     "janela",
@@ -16,6 +17,14 @@
     "estatisticas"
   ],
   "properties": {
+    "partido": {
+      "enum": [
+        "chega",
+        "psd",
+        "ps"
+      ],
+      "description": "Igual ao nome da pasta; lista em data/partidos.json"
+    },
     "data": {
       "type": "string",
       "format": "date"

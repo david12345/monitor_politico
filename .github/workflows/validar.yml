@@ -21,7 +21,7 @@ jobs:
       - name: Validar relatórios
         run: |
           shopt -s nullglob
-          f=(data/relatorios/*.json)
+          f=(data/relatorios/*/*.json)
           if [ ${#f[@]} -gt 0 ]; then python3 scripts/validar.py "${f[@]}"; fi
       - name: Índice atualizado
         run: |

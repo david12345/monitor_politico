@@ -1,0 +1,23 @@
+[
+  {
+    "id": "chega",
+    "nome": "Chega",
+    "sigla": "CH",
+    "sitio": "https://chega.pt/",
+    "ambito": "Dirigentes, deputados, eurodeputados e autarcas do Chega e canais oficiais do partido."
+  },
+  {
+    "id": "psd",
+    "nome": "Partido Social Democrata",
+    "sigla": "PSD",
+    "sitio": "https://www.psd.pt/",
+    "ambito": "Dirigentes, deputados, eurodeputados e autarcas do PSD, e membros do Governo filiados no PSD (incluindo o primeiro-ministro), com o cargo indicado."
+  },
+  {
+    "id": "ps",
+    "nome": "Partido Socialista",
+    "sigla": "PS",
+    "sitio": "https://ps.pt/",
+    "ambito": "Dirigentes, deputados, eurodeputados e autarcas do PS e canais oficiais do partido."
+  }
+]

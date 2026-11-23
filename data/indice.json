@@ -1,37 +1,41 @@
 {
-  "atualizado_em": "2026-11-23T06:52:46+00:00",
-  "dias": [
-    {
-      "data": "2026-11-23",
-      "ficheiro": "data/relatorios/2026-11-23.json",
-      "resumo": "Dia sem novos acontecimentos de fundo: a cobertura continuou centrada no encerramento da convenção do Chega, já tratado no relatório de ontem. Do discurso de Ventura ficam o desafio a Montenegro (\"se quer eleições, aqui estaremos\") e duas afirmações sobre saúde, ambas certas no essencial mas sem contexto relevante. A votação final global do Orçamento do Estado para 2027 está marcada para 24 de novembro.",
-      "n_acontecimentos": 2,
-      "n_afirmacoes": 4,
-      "por_veredicto": {
-        "verdadeiro": 0,
-        "maioritariamente_verdadeiro": 2,
-        "enganador": 0,
-        "maioritariamente_falso": 0,
-        "falso": 0,
-        "nao_verificavel": 0,
-        "sem_veredicto": 2
+  "atualizado_em": "2026-11-23T08:48:34+00:00",
+  "partidos": {
+    "chega": [
+      {
+        "data": "2026-11-23",
+        "ficheiro": "data/relatorios/chega/2026-11-23.json",
+        "resumo": "Dia sem novos acontecimentos de fundo: a cobertura continuou centrada no encerramento da convenção do Chega, já tratado no relatório de ontem. Do discurso de Ventura ficam o desafio a Montenegro (\"se quer eleições, aqui estaremos\") e duas afirmações sobre saúde, ambas certas no essencial mas sem contexto relevante. A votação final global do Orçamento do Estado para 2027 está marcada para 24 de novembro.",
+        "n_acontecimentos": 2,
+        "n_afirmacoes": 4,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 2,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 2
+        }
+      },
+      {
+        "data": "2026-11-22",
+        "ficheiro": "data/relatorios/chega/2026-11-22.json",
+        "resumo": "O fim de semana foi dominado pela 7.ª Convenção do Chega, no Entroncamento: a direção de André Ventura foi reeleita com 85,66%, a convenção aprovou uma moção sobre \"remigração\" e Ventura disse estar pronto para ser primeiro-ministro. O primeiro dia foi cancelado por uma falsa ameaça de bomba. Das três afirmações factuais verificadas, nenhuma se confirmou por inteiro.",
+        "n_acontecimentos": 9,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 1,
+          "maioritariamente_falso": 1,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 4
+        }
       }
-    },
-    {
-      "data": "2026-11-22",
-      "ficheiro": "data/relatorios/2026-11-22.json",
-      "resumo": "O fim de semana foi dominado pela 7.ª Convenção do Chega, no Entroncamento: a direção de André Ventura foi reeleita com 85,66%, a convenção aprovou uma moção sobre \"remigração\" e Ventura disse estar pronto para ser primeiro-ministro. O primeiro dia foi cancelado por uma falsa ameaça de bomba. Das três afirmações factuais verificadas, nenhuma se confirmou por inteiro.",
-      "n_acontecimentos": 9,
-      "n_afirmacoes": 7,
-      "por_veredicto": {
-        "verdadeiro": 0,
-        "maioritariamente_verdadeiro": 0,
-        "enganador": 1,
-        "maioritariamente_falso": 1,
-        "falso": 0,
-        "nao_verificavel": 1,
-        "sem_veredicto": 4
-      }
-    }
-  ]
+    ],
+    "ps": [],
+    "psd": []
+  }
 }
