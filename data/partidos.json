@@ -1,6 +1,7 @@
 [
   {
     "id": "chega",
+    "curto": "Chega",
     "nome": "Chega",
     "sigla": "CH",
     "sitio": "https://chega.pt/",
@@ -8,6 +9,7 @@
   },
   {
     "id": "psd",
+    "curto": "PSD",
     "nome": "Partido Social Democrata",
     "sigla": "PSD",
     "sitio": "https://www.psd.pt/",
@@ -15,6 +17,7 @@
   },
   {
     "id": "ps",
+    "curto": "PS",
     "nome": "Partido Socialista",
     "sigla": "PS",
     "sitio": "https://ps.pt/",

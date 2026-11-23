@@ -1,4 +1,4 @@
-// Monitor Chega — dashboard. Só lê data/indice.json e data/relatorios/*.json.
+// Monitor Político — dashboard. Só lê data/partidos.json, data/indice.json e data/relatorios/<partido>/*.json.
 // Todo o texto vem de fontes externas: é inserido como texto, nunca como HTML.
 
 const VEREDICTOS = [
@@ -22,6 +22,7 @@ const ND = 'Dado não disponível';
 const main = document.getElementById('conteudo');
 const dica = document.getElementById('dica');
 let indice = null;
+let partidos = [];
 const cache = new Map();
 
 // ---------- utilitários ----------
@@ -80,19 +81,66 @@ function mostrar(...nos) {
   main.replaceChildren(...nos);
 }
 
-// ---------- vista: um dia ----------
-async function vistaDia(dataPedida) {
-  marcarNav(dataPedida ? '' : 'dia');
-  const dias = indice.dias;
-  if (!dias.length) {
+const nomePartido = (p) => partidos.find((x) => x.id === p)?.curto ?? p;
+const diasDe = (p) => indice.partidos?.[p] ?? [];
+
+// Cabeçalho comum das vistas de um partido: nome + Relatórios / Histórico.
+function cabecalhoPartido(p, ativo) {
+  const info = partidos.find((x) => x.id === p);
+  return h('div', { class: 'cab-partido' },
+    h('p', { class: 'partido-nome' }, info.curto, info.nome !== info.curto && h('span', { class: 'meta' }, ` · ${info.nome}`)),
+    h('nav', { class: 'subnav', 'aria-label': `Secções de ${info.curto}` },
+      h('a', { href: `#/${p}`, 'aria-current': ativo === 'dia' ? 'page' : null }, 'Relatórios'),
+      h('a', { href: `#/${p}/historico`, 'aria-current': ativo === 'historico' ? 'page' : null }, 'Histórico')));
+}
+
+// ---------- vista: hoje (os três partidos) ----------
+async function vistaHoje() {
+  marcarNav('hoje');
+  const ultimas = partidos.map((p) => diasDe(p.id)[0]?.data).filter(Boolean).sort();
+  if (!ultimas.length) {
     mostrar(h('h1', {}, 'Ainda não há relatórios'),
       h('p', { class: 'vazio' }, 'O primeiro relatório diário aparece aqui depois da primeira execução.'));
     return;
   }
+  const dia = ultimas[ultimas.length - 1];
+  const cartoes = partidos.map((p) => {
+    const e = diasDe(p.id).find((d) => d.data === dia);
+    const cab = h('h2', {}, h('a', { href: `#/${p.id}` }, p.curto), p.nome !== p.curto && h('span', { class: 'meta' }, ` · ${p.nome}`));
+    if (!e) {
+      const ult = diasDe(p.id)[0];
+      return h('li', { class: 'cartao partido' }, cab,
+        h('p', { class: 'vazio' }, `${ND}: sem relatório para este dia.`),
+        ult && h('p', {}, h('a', { href: `#/${p.id}/dia/${ult.data}` }, `Ver o último (${fmtData(ult.data, { day: 'numeric', month: 'short' })})`)));
+    }
+    return h('li', { class: 'cartao partido' }, cab,
+      h('p', {}, e.resumo),
+      h('p', { class: 'meta' }, `${e.n_acontecimentos} acontecimento${e.n_acontecimentos === 1 ? '' : 's'} · ${e.n_afirmacoes} afirmaç${e.n_afirmacoes === 1 ? 'ão' : 'ões'}`),
+      h('ul', { class: 'contagem contagem-compacta', 'aria-label': `Afirmações de ${p.curto} por veredicto` },
+        VEREDICTOS.map(([v, rot]) => h('li', {}, amostra(v), h('strong', {}, e.por_veredicto[v] ?? 0), rot)),
+        h('li', {}, amostra('sem_veredicto'), h('strong', {}, e.por_veredicto.sem_veredicto ?? 0), 'Promessas e opiniões')),
+      h('p', {}, h('a', { class: 'botao', href: `#/${p.id}/dia/${dia}` }, 'Ver o relatório completo')));
+  });
+  mostrar(
+    h('h1', {}, fmtData(dia)),
+    h('p', { class: 'nota' }, 'As contagens dependem do que cada partido disse e do que foi noticiado nesse dia; não comparam a veracidade dos partidos. Os três são verificados com o mesmo critério. ',
+      h('a', { href: '#/metodologia' }, 'Como é feito')),
+    h('ol', { class: 'lista partidos' }, cartoes));
+}
+
+// ---------- vista: um dia de um partido ----------
+async function vistaDia(p, dataPedida) {
+  marcarNav(p);
+  const dias = diasDe(p);
+  if (!dias.length) {
+    mostrar(cabecalhoPartido(p, 'dia'), h('h1', {}, 'Ainda não há relatórios'),
+      h('p', { class: 'vazio' }, `${ND}: o primeiro relatório de ${nomePartido(p)} aparece aqui depois da próxima execução diária.`));
+    return;
+  }
   const pos = dataPedida ? dias.findIndex((d) => d.data === dataPedida) : 0;
   if (pos < 0) {
-    mostrar(h('h1', {}, fmtData(dataPedida)), h('p', { class: 'vazio' }, `${ND}: não há relatório para este dia.`),
-      h('p', {}, h('a', { href: '#/' }, 'Ver o relatório mais recente')));
+    mostrar(cabecalhoPartido(p, 'dia'), h('h1', {}, fmtData(dataPedida)), h('p', { class: 'vazio' }, `${ND}: não há relatório de ${nomePartido(p)} para este dia.`),
+      h('p', {}, h('a', { href: `#/${p}` }, 'Ver o relatório mais recente')));
     return;
   }
   const entrada = dias[pos];
@@ -107,14 +155,15 @@ async function vistaDia(dataPedida) {
   // navegação entre dias (índice está do mais recente para o mais antigo)
   const anterior = dias[pos + 1];
   const seguinte = dias[pos - 1];
-  const sel = h('select', { 'aria-label': 'Escolher dia', onchange: (e) => { location.hash = `#/dia/${e.target.value}`; } },
+  const ir = (d) => { location.hash = `#/${p}/dia/${d}`; };
+  const sel = h('select', { 'aria-label': 'Escolher dia', onchange: (e) => ir(e.target.value) },
     dias.map((d) => h('option', { value: d.data, selected: d.data === entrada.data }, fmtData(d.data))));
   const nav = h('div', { class: 'dias' },
     h('button', { type: 'button', 'aria-label': 'Dia anterior', disabled: !anterior,
-      onclick: () => { location.hash = `#/dia/${anterior.data}`; } }, '‹'),
+      onclick: () => ir(anterior.data) }, '‹'),
     sel,
     h('button', { type: 'button', 'aria-label': 'Dia seguinte', disabled: !seguinte,
-      onclick: () => { location.hash = `#/dia/${seguinte.data}`; } }, '›'));
+      onclick: () => ir(seguinte.data) }, '›'));
 
   const est = rel.estatisticas;
   const contagem = h('ul', { class: 'contagem', 'aria-label': 'Afirmações por veredicto' },
@@ -155,7 +204,7 @@ async function vistaDia(dataPedida) {
       (!estado.tipo || f.tipo === estado.tipo) &&
       (!estado.tema || f.tema === estado.tema) &&
       (!q || `${f.texto} ${f.autor} ${f.explicacao} ${f.contexto}`.toLowerCase().includes(q)));
-    lista.replaceChildren(...vis.map(cartaoAfirmacao));
+    lista.replaceChildren(...vis.map((f) => cartaoAfirmacao(f, p)));
     contador.textContent = `${vis.length} de ${rel.afirmacoes.length} afirmações`;
   };
   const contador = h('p', { class: 'meta', 'aria-live': 'polite' });
@@ -180,10 +229,10 @@ async function vistaDia(dataPedida) {
       h('p', {}, h('strong', {}, 'Limitações: ')),
       cob.limitacoes.length ? h('ul', {}, cob.limitacoes.map((l) => h('li', {}, l))) : h('p', { class: 'vazio' }, 'Nenhuma registada.')));
 
-  mostrar(nav, resumo, secAcs, secAfs, secCob);
+  mostrar(cabecalhoPartido(p, 'dia'), nav, resumo, secAcs, secAfs, secCob);
 }
 
-function cartaoAfirmacao(f) {
+function cartaoAfirmacao(f, p) {
   const cor = f.veredicto ? `var(--v-${f.veredicto})` : 'var(--v-sem_veredicto)';
   const ev = f.evidencias ?? [];
   return h('li', { class: 'cartao afirmacao', style: `--cor: ${cor}` },
@@ -198,7 +247,7 @@ function cartaoAfirmacao(f) {
     h('p', { class: 'meta' }, f.contexto),
     h('p', { class: 'explicacao' }, f.explicacao),
     f.ver_tambem && h('p', { class: 'meta' }, 'Já verificada antes: ',
-      h('a', { href: `#/dia/${f.ver_tambem.split('#')[0]}` }, fmtData(f.ver_tambem.split('#')[0]))),
+      h('a', { href: `#/${p}/dia/${f.ver_tambem.split('#')[0]}` }, fmtData(f.ver_tambem.split('#')[0]))),
     ev.length > 0 && h('details', {},
       h('summary', {}, `Evidências (${ev.length})`),
       h('ul', { class: 'evidencias' }, ev.map((e) => h('li', {},
@@ -207,11 +256,11 @@ function cartaoAfirmacao(f) {
 }
 
 // ---------- vista: histórico ----------
-function vistaHistorico() {
-  marcarNav('historico');
-  const dias = [...indice.dias].slice(0, 30).reverse(); // cronológico
+function vistaHistorico(p) {
+  marcarNav(p);
+  const dias = [...diasDe(p)].slice(0, 30).reverse(); // cronológico
   if (!dias.length) {
-    mostrar(h('h1', {}, 'Histórico'), h('p', { class: 'vazio' }, 'Ainda não há relatórios.'));
+    mostrar(cabecalhoPartido(p, 'historico'), h('h1', {}, 'Histórico'), h('p', { class: 'vazio' }, `${ND}: ainda não há relatórios de ${nomePartido(p)}.`));
     return;
   }
   const chaves = [...VEREDICTOS.map(([v]) => v)];
@@ -219,7 +268,7 @@ function vistaHistorico() {
   const nVerif = Object.values(totais).reduce((a, b) => a + b, 0);
   const nFalsas = totais.falso + totais.maioritariamente_falso;
 
-  const grafico = graficoEmpilhado(dias, chaves);
+  const grafico = graficoEmpilhado(dias, chaves, p);
   const legenda = h('ul', { class: 'legenda', 'aria-label': 'Legenda' },
     VEREDICTOS.map(([v, r]) => h('li', {}, amostra(v), r)));
   const tabela = h('details', {},
@@ -228,16 +277,17 @@ function vistaHistorico() {
       h('thead', {}, h('tr', {}, h('th', { scope: 'col' }, 'Dia'), h('th', { scope: 'col' }, 'Acont.'),
         VEREDICTOS.map(([, r]) => h('th', { scope: 'col' }, r)), h('th', { scope: 'col' }, 'Sem veredicto'))),
       h('tbody', {}, [...dias].reverse().map((d) => h('tr', {},
-        h('th', { scope: 'row' }, h('a', { href: `#/dia/${d.data}` }, fmtData(d.data, { day: 'numeric', month: 'short' }))),
+        h('th', { scope: 'row' }, h('a', { href: `#/${p}/dia/${d.data}` }, fmtData(d.data, { day: 'numeric', month: 'short' }))),
         h('td', {}, d.n_acontecimentos),
         chaves.map((k) => h('td', {}, d.por_veredicto[k] ?? 0)),
         h('td', {}, d.por_veredicto.sem_veredicto ?? 0)))))));
 
   mostrar(
-    h('h1', {}, 'Histórico'),
+    cabecalhoPartido(p, 'historico'),
+    h('h1', {}, `Histórico — ${nomePartido(p)}`),
     h('section', { class: 'cartao resumo-dia' },
       h('p', {}, nVerif
-        ? `Nos últimos ${dias.length} relatórios foram verificadas ${nVerif} afirmações factuais; ${nFalsas} (${Math.round((100 * nFalsas) / nVerif)}%) foram classificadas como falsas ou maioritariamente falsas.`
+        ? `Nos últimos ${dias.length} relatórios de ${nomePartido(p)} foram verificadas ${nVerif} afirmações factuais; ${nFalsas} (${Math.round((100 * nFalsas) / nVerif)}%) foram classificadas como falsas ou maioritariamente falsas.`
         : `Nos últimos ${dias.length} relatórios não houve afirmações factuais verificadas.`),
       h('p', { class: 'meta' }, 'A contagem depende de quais afirmações tiveram cobertura em cada dia; não é uma amostra estatística de tudo o que foi dito.')),
     h('section', { 'aria-labelledby': 't-graf' },
@@ -245,7 +295,7 @@ function vistaHistorico() {
       h('div', { class: 'cartao' }, grafico, legenda, tabela)));
 }
 
-function graficoEmpilhado(dias, chaves) {
+function graficoEmpilhado(dias, chaves, p) {
   const L = 640, A = 260, m = { t: 12, r: 8, b: 26, l: 28 };
   const w = L - m.l - m.r, hh = A - m.t - m.b;
   const totalDia = (d) => chaves.reduce((s, k) => s + (d.por_veredicto[k] ?? 0), 0);
@@ -301,10 +351,10 @@ function graficoEmpilhado(dias, chaves) {
     alvo.addEventListener('blur', esconderDica);
     // rato: clique abre o dia; toque: 1.º toque mostra a dica, 2.º abre o dia
     alvo.addEventListener('click', (ev) => {
-      if (ev.pointerType === 'mouse' || alvo.classList.contains('ativo')) location.hash = `#/dia/${d.data}`;
+      if (ev.pointerType === 'mouse' || alvo.classList.contains('ativo')) location.hash = `#/${p}/dia/${d.data}`;
       else ver(ev);
     });
-    alvo.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') location.hash = `#/dia/${d.data}`; });
+    alvo.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') location.hash = `#/${p}/dia/${d.data}`; });
     s.append(alvo);
   });
   return s;
@@ -345,7 +395,11 @@ function vistaMetodologia() {
   };
   mostrar(h('div', { class: 'metodo' },
     h('h1', {}, 'Como é feito'),
-    h('p', {}, 'Todos os dias de manhã, um agente automático (Claude) pesquisa notícias, comunicados do partido, a atividade parlamentar e verificações já publicadas sobre o Chega no dia anterior. Escolhe até 10 acontecimentos e até 15 afirmações de dirigentes e deputados, e verifica as afirmações factuais contra fontes públicas. Cada item tem ligação para a fonte de onde foi tirado.'),
+    h('p', {}, 'Todos os dias de manhã, um agente automático (Claude) pesquisa notícias, comunicados dos partidos, a atividade parlamentar e verificações já publicadas sobre o Chega, o PSD e o PS no dia anterior. Para cada partido escolhe até 7 acontecimentos e até 10 afirmações, e verifica as afirmações factuais contra fontes públicas. Cada item tem ligação para a fonte de onde foi tirado.'),
+    h('h2', {}, 'Mesmo critério para os três'),
+    h('p', {}, 'Os três partidos são tratados da mesma forma: os mesmos limites, a mesma escala de veredictos, as mesmas fontes e o mesmo esforço de pesquisa. As afirmações são escolhidas pela relevância e pelo conteúdo verificável, nunca para equilibrar ou desequilibrar resultados entre partidos.'),
+    h('h2', {}, 'Quem conta em cada partido'),
+    h('ul', {}, partidos.map((x) => h('li', {}, h('strong', {}, `${x.curto}: `), x.ambito))),
     h('h2', {}, 'Tipos de afirmação'),
     h('ul', {},
       h('li', {}, h('strong', {}, 'Factual: '), 'diz algo sobre o mundo que se pode confirmar ou refutar. É a única que recebe veredicto.'),
@@ -374,15 +428,23 @@ async function encaminhar() {
   esconderDica();
   const rota = location.hash.replace(/^#\/?/, '');
   try {
-    if (!indice) indice = await obterJSON('data/indice.json');
+    if (!indice) [indice, partidos] = await Promise.all([obterJSON('data/indice.json'), obterJSON('data/partidos.json')]);
   } catch (e) {
     mostrar(h('p', { class: 'estado' }, `Não foi possível carregar o índice (${e.message}).`));
     return;
   }
-  if (rota === 'historico') vistaHistorico();
-  else if (rota === 'metodologia') vistaMetodologia();
-  else if (rota.startsWith('dia/')) await vistaDia(rota.slice(4));
-  else await vistaDia(null);
+  // Ligações antigas (só Chega): #/dia/AAAA-MM-DD e #/historico
+  if (rota.startsWith('dia/') || rota === 'historico') {
+    location.replace(`#/chega/${rota}`);
+    return;
+  }
+  const [p, sec, dia] = rota.split('/');
+  const ids = partidos.map((x) => x.id);
+  if (rota === 'metodologia') vistaMetodologia();
+  else if (ids.includes(p) && sec === 'historico') vistaHistorico(p);
+  else if (ids.includes(p) && sec === 'dia' && dia) await vistaDia(p, dia);
+  else if (ids.includes(p)) await vistaDia(p, null);
+  else await vistaHoje();
   if (rota) main.focus({ preventScroll: true });
   window.scrollTo(0, 0);
 }
