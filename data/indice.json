@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-23T08:48:34+00:00",
+  "atualizado_em": "2026-11-23T08:54:24+00:00",
   "partidos": {
     "chega": [
       {
@@ -35,7 +35,41 @@
         }
       }
     ],
-    "ps": [],
-    "psd": []
+    "ps": [
+      {
+        "data": "2026-11-23",
+        "ficheiro": "data/relatorios/ps/2026-11-23.json",
+        "resumo": "José Luís Carneiro defendeu as propostas do PS aprovadas no Orçamento para 2027, como o IVA zero em alimentos essenciais e o fim da taxa de IRS de 10% para rendas moderadas, e negou acordos com o Chega ou vontade de provocar uma crise política. A ausência do PS no encerramento da convenção do Chega foi criticada pelo Governo e pelo PSD.",
+        "n_acontecimentos": 2,
+        "n_afirmacoes": 5,
+        "por_veredicto": {
+          "verdadeiro": 1,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 2
+        }
+      }
+    ],
+    "psd": [
+      {
+        "data": "2026-11-23",
+        "ficheiro": "data/relatorios/psd/2026-11-23.json",
+        "resumo": "O PSD passou o fim de semana a responder às alterações ao Orçamento para 2027 aprovadas por PS e Chega: Hugo Soares falou de uma \"gerinsonsa\" e o porta-voz Sebastião Bugalho acusou o PS de não ser sério, garantindo que o partido não provoca uma crise política. A votação final do Orçamento está marcada para terça-feira.",
+        "n_acontecimentos": 3,
+        "n_afirmacoes": 5,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 3
+        }
+      }
+    ]
   }
 }

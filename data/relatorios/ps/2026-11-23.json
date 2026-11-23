@@ -1,0 +1,214 @@
+{
+  "partido": "ps",
+  "data": "2026-11-23",
+  "gerado_em": "2026-11-23T10:30:00+00:00",
+  "janela": {
+    "de": "2026-11-22",
+    "ate": "2026-11-23"
+  },
+  "resumo": "José Luís Carneiro defendeu as propostas do PS aprovadas no Orçamento para 2027, como o IVA zero em alimentos essenciais e o fim da taxa de IRS de 10% para rendas moderadas, e negou acordos com o Chega ou vontade de provocar uma crise política. A ausência do PS no encerramento da convenção do Chega foi criticada pelo Governo e pelo PSD.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Carneiro recusa \"jogos políticos\" e defende as propostas do PS aprovadas no Orçamento",
+      "resumo": "Em Bragança, o secretário-geral do PS, José Luís Carneiro, disse que o PS não negociou nem fez acordos com outros partidos para aprovar as suas propostas ao Orçamento para 2027, destacou o IVA zero em bens alimentares essenciais e justificou o fim da taxa de IRS de 10% para rendas moderadas com o objetivo de limitar a especulação. Rejeitou contribuir para uma crise política.",
+      "data": "2026-11-22",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Carneiro recusa \"jogos políticos\" e deixa \"palavra de conforto\" aos senhorios",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Ausência do PS no encerramento da convenção do Chega é criticada pelo Governo e pelo PSD",
+      "resumo": "O PS não esteve no encerramento da 7.ª Convenção do Chega, a que PSD, CDS e IL compareceram. O ministro dos Assuntos Parlamentares considerou a ausência \"incompreensível\" depois das aprovações conjuntas no Orçamento, e o porta-voz do PSD ironizou sobre ela.",
+      "data": "2026-11-22",
+      "categoria": "media",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Ministro dos Assuntos Parlamentares diz que Chega \"não está pronto para governar\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/ministro-dos-assuntos-parlamentares/chega/ministro-dos-assuntos-parlamentares-diz-que-chega-nao-esta-pronto-para-governar/20261122/6b033cbad34e08e17ee2c433",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "Um carro que virou triciclo depois de \"jogos de dissimulação\". Sebastião Bugalho acusa o PS de não ser sério",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/sebastiao-bugalho/ps/um-carro-que-virou-triciclo-depois-de-jogos-de-dissimulacao-sebastiao-bugalho-acusa-o-ps-de-nao-ser-serio/20261122/6b0351690cf22114c91287b5",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Nós estamos como terceira força política, apresentámos soluções para a vida das pessoas, elas foram aprovadas.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-22",
+      "contexto": "Declarações aos jornalistas em Bragança sobre o Orçamento para 2027.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "verdadeiro",
+      "explicacao": "Desde as legislativas de 2025 o PS é o terceiro grupo parlamentar, com 58 deputados, atrás da AD (91) e do Chega (60). Em votos o PS ficou em segundo, por cerca de 4 mil votos, mas a afirmação refere-se à posição atual no Parlamento, que está correta.",
+      "evidencias": [
+        {
+          "titulo": "Resultados oficiais das eleições: AD ganha com 33,15%; 3992 votos separam PS e Chega",
+          "entidade": "Público (mapa oficial publicado no Diário da República)",
+          "url": "https://www.publico.pt/2025/05/31/politica/noticia/resultados-oficiais-eleicoes-ad-ganha-3315-ps-chega-separados-3992-votos-2135089",
+          "data": "2025-05-31",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "Chega ultrapassa PS no Parlamento e Ventura é o líder da oposição",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2025/05/28/chega-ultrapassa-ps-no-parlamento-e-ventura-e-o-lider-da-oposicao/",
+          "data": "2025-05-28",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Aquilo que se procura evitar é que se continue a prosseguir o caminho que o Governo estava a fazer de, com a renda moderada de 2.300 euros, puxar para cima o valor das rendas.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-22",
+      "contexto": "Justificação do fim da taxa de IRS de 10% para senhorios com rendas \"moderadas\", aprovado por proposta do PS.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "O valor está certo: o regime do Governo aplicava a taxa de IRS de 10% a rendas até 2 300 euros por mês (2,5 vezes o salário mínimo de 2026), em vigor desde maio com efeito a janeiro. Já a ideia de que o regime estava a fazer subir as rendas não é demonstrada nas fontes consultadas; o ministro das Finanças defende o efeito contrário.",
+      "evidencias": [
+        {
+          "titulo": "Proposta socialista põe fim a taxa de IRS de 10% para rendas até 2.300 euros",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/proposta-socialista-poe-fim-a-taxa-de-irs-de-10-para-rendas-ate-2-300-euros_n1780511",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "APPII condena fim do IRS de 10% para rendas moderadas no OE2027",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/20/appii-condena-fim-do-irs-de-10-para-rendas-moderadas-no-oe2027-sinal-negativo-para-investidores-e-risco-de-contracao-da-oferta/",
+          "data": "2026-11-20",
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Nós não dialogámos, nós não negociámos, nós não fizemos quaisquer acordos com os outros partidos.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-22",
+      "contexto": "Resposta às acusações do PSD de uma aliança entre PS e Chega no Orçamento.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "Negociações entre partidos não são públicas e as fontes consultadas não trazem prova de acordos nem do contrário. As votações estão registadas, mas votar a favor da proposta de outro partido não implica um acordo.",
+      "evidencias": [],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "As pessoas não nos tolerariam se nós contribuíssemos para uma crise política.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-22",
+      "contexto": "Declarações em Bragança.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Se formar Governo, o PS quer pôr em prática \"contratos territoriais de desenvolvimento\", com políticas fiscais e a descentralização de serviços públicos para o interior.",
+      "literal": false,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-22",
+      "contexto": "Declarações em Bragança.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro, sem detalhe de medidas.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Observador",
+      "CNN Portugal",
+      "RTP",
+      "Público"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "Relatório gerado à mão no primeiro dia do alargamento a três partidos; a cobertura do dia 23 ainda era escassa à hora da recolha.",
+      "Polígrafo (poligrafo.iol.pt) e Renascença (rr.pt) recusam leitura automática.",
+      "ps.pt não está permitido na rede do ambiente; comunicados oficiais não consultados."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 2,
+    "n_afirmacoes": 5,
+    "por_veredicto": {
+      "verdadeiro": 1,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 2
+    }
+  }
+}

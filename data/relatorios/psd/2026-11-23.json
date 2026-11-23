@@ -1,0 +1,214 @@
+{
+  "partido": "psd",
+  "data": "2026-11-23",
+  "gerado_em": "2026-11-23T10:30:00+00:00",
+  "janela": {
+    "de": "2026-11-22",
+    "ate": "2026-11-23"
+  },
+  "resumo": "O PSD passou o fim de semana a responder às alterações ao Orçamento para 2027 aprovadas por PS e Chega: Hugo Soares falou de uma \"gerinsonsa\" e o porta-voz Sebastião Bugalho acusou o PS de não ser sério, garantindo que o partido não provoca uma crise política. A votação final do Orçamento está marcada para terça-feira.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Porta-voz do PSD acusa o PS de \"jogos de dissimulação\" no Orçamento para 2027",
+      "resumo": "Em entrevista à CNN Portugal, Sebastião Bugalho, porta-voz do PSD, disse que o Governo cumpriu as quatro condições do PS para viabilizar o Orçamento e acusou o PS de \"desfigurar\" o documento com medidas aprovadas com o Chega. Garantiu que o PSD não vai provocar uma crise política e que espera a aprovação do Orçamento na terça-feira.",
+      "data": "2026-11-22",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Um carro que virou triciclo depois de \"jogos de dissimulação\". Sebastião Bugalho acusa o PS de não ser sério",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/sebastiao-bugalho/ps/um-carro-que-virou-triciclo-depois-de-jogos-de-dissimulacao-sebastiao-bugalho-acusa-o-ps-de-nao-ser-serio/20261122/6b0351690cf22114c91287b5",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Hugo Soares acusa PS e Chega de formarem uma \"gerinsonsa\"",
+      "resumo": "O secretário-geral e líder parlamentar do PSD, Hugo Soares, acusou PS e Chega de se terem juntado para aprovar no Orçamento para 2027 medidas contra a vontade do Governo, entre elas o fim da taxa de IRS de 10% para rendas moderadas. Ventura e Carneiro responderam às críticas no mesmo dia.",
+      "data": "2026-11-22",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Ventura diz que \"só há coligações porque o primeiro-ministro não fez o seu trabalho\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-diz-que-so-ha-coligacoes-porque-o-primeiro-ministro-nao-fez-o-seu-trabalho-senao-nao-havia-coligacoes-nenhumas/20261122/6b02f44a0cf22114c9128755",
+          "data_publicacao": "2026-11-22"
+        },
+        {
+          "titulo": "Carneiro recusa \"jogos políticos\" e deixa \"palavra de conforto\" aos senhorios",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-deixa-palavra-de-conforto-aos-senhorios/",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Ministro dos Assuntos Parlamentares representa o Governo no encerramento da convenção do Chega",
+      "resumo": "Carlos Abreu Amorim esteve no encerramento da 7.ª Convenção do Chega, no Entroncamento, e disse depois que o Chega \"não está pronto para governar\". Criticou a ausência do PS e as aprovações conjuntas de PS e Chega no Orçamento.",
+      "data": "2026-11-22",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Ministro dos Assuntos Parlamentares diz que Chega \"não está pronto para governar\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/ministro-dos-assuntos-parlamentares/chega/ministro-dos-assuntos-parlamentares-diz-que-chega-nao-esta-pronto-para-governar/20261122/6b033cbad34e08e17ee2c433",
+          "data_publicacao": "2026-11-22"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Temos um partido que ficou em terceiro lugar a tentar substituir um Governo que ficou em primeiro.",
+      "literal": true,
+      "autor": "Sebastião Bugalho",
+      "cargo": "Porta-voz do PSD",
+      "data": "2026-11-22",
+      "contexto": "Entrevista à CNN Portugal sobre as alterações ao Orçamento para 2027 aprovadas por PS e Chega.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/sebastiao-bugalho/ps/um-carro-que-virou-triciclo-depois-de-jogos-de-dissimulacao-sebastiao-bugalho-acusa-o-ps-de-nao-ser-serio/20261122/6b0351690cf22114c91287b5",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Nas legislativas de 18 de maio de 2025 a AD ficou em primeiro e o PS em terceiro em deputados (58, contra 60 do Chega). Em votos, porém, o PS ficou em segundo: 1 442 546 (23,81%) contra 1 438 554 do Chega, segundo o mapa oficial. A frase é certa quanto ao Parlamento, mas omite que o PS foi o segundo mais votado.",
+      "evidencias": [
+        {
+          "titulo": "Resultados oficiais das eleições: AD ganha com 33,15%; 3992 votos separam PS e Chega",
+          "entidade": "Público (mapa oficial publicado no Diário da República)",
+          "url": "https://www.publico.pt/2025/05/31/politica/noticia/resultados-oficiais-eleicoes-ad-ganha-3315-ps-chega-separados-3992-votos-2135089",
+          "data": "2025-05-31",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "Chega ultrapassa PS no Parlamento e Ventura é o líder da oposição",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2025/05/28/chega-ultrapassa-ps-no-parlamento-e-ventura-e-o-lider-da-oposicao/",
+          "data": "2025-05-28",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Nós cumprimos com as quatro condições que o PS escolheu.",
+      "literal": true,
+      "autor": "Sebastião Bugalho",
+      "cargo": "Porta-voz do PSD",
+      "data": "2026-11-22",
+      "contexto": "Entrevista à CNN Portugal, sobre as condições que o PS pôs para viabilizar o Orçamento.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/sebastiao-bugalho/ps/um-carro-que-virou-triciclo-depois-de-jogos-de-dissimulacao-sebastiao-bugalho-acusa-o-ps-de-nao-ser-serio/20261122/6b0351690cf22114c91287b5",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "As fontes consultadas não enumeram as quatro condições do PS nem o modo como cada uma foi tratada na proposta do Governo, e o PS não respondeu a esta afirmação concreta. Sem isso não é possível confirmar nem desmentir.",
+      "evidencias": [],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Nós não vamos atirar o país para uma crise política. Era o que faltava.",
+      "literal": true,
+      "autor": "Sebastião Bugalho",
+      "cargo": "Porta-voz do PSD",
+      "data": "2026-11-22",
+      "contexto": "Entrevista à CNN Portugal.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/sebastiao-bugalho/ps/um-carro-que-virou-triciclo-depois-de-jogos-de-dissimulacao-sebastiao-bugalho-acusa-o-ps-de-nao-ser-serio/20261122/6b0351690cf22114c91287b5",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso político; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "PS e Chega formaram uma \"gerinsonsa\" que decidiu \"aumentar brutalmente\" os impostos sobre as rendas.",
+      "literal": false,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral e líder parlamentar do PSD",
+      "data": "2026-11-22",
+      "contexto": "Críticas às votações do Orçamento para 2027, tal como relatadas pela CNN Portugal.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-diz-que-so-ha-coligacoes-porque-o-primeiro-ministro-nao-fez-o-seu-trabalho-senao-nao-havia-coligacoes-nenhumas/20261122/6b02f44a0cf22114c9128755",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Caracterização política. O facto subjacente (fim da taxa de IRS de 10% para rendas moderadas, por proposta do PS com votos do Chega) está descrito no acontecimento a2.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "O Chega não está pronto para governar.",
+      "literal": false,
+      "autor": "Carlos Abreu Amorim",
+      "cargo": "Ministro dos Assuntos Parlamentares",
+      "data": "2026-11-22",
+      "contexto": "Declarações aos jornalistas depois do encerramento da convenção do Chega.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/ministro-dos-assuntos-parlamentares/chega/ministro-dos-assuntos-parlamentares-diz-que-chega-nao-esta-pronto-para-governar/20261122/6b033cbad34e08e17ee2c433",
+        "data_publicacao": "2026-11-22"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo político; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "CNN Portugal",
+      "Observador",
+      "Público"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "Relatório gerado à mão no primeiro dia do alargamento a três partidos; a cobertura do dia 23 ainda era escassa à hora da recolha.",
+      "Polígrafo (poligrafo.iol.pt) e Renascença (rr.pt) recusam leitura automática.",
+      "psd.pt e portugal.gov.pt não estão permitidos na rede do ambiente; comunicados oficiais não consultados."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 3,
+    "n_afirmacoes": 5,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 3
+    }
+  }
+}
