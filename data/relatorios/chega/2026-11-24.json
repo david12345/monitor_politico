@@ -1,0 +1,388 @@
+{
+  "partido": "chega",
+  "data": "2026-11-24",
+  "gerado_em": "2026-11-24T06:53:39+00:00",
+  "janela": {
+    "de": "2026-11-23",
+    "ate": "2026-11-24"
+  },
+  "resumo": "Na véspera da votação final global do Orçamento do Estado para 2027, André Ventura anunciou que o Chega vai votar contra, apesar de o partido ter aprovado várias alterações na especialidade, entre elas o congelamento das propinas, confirmado em plenário com os votos do PS. PSD e CDS-PP acusaram o Chega de se aliar ao PS. Das afirmações verificadas, três estão certas no essencial com imprecisões e uma não é verificável com os dados públicos.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Ventura anuncia voto contra do Chega na votação final global do Orçamento do Estado para 2027",
+      "resumo": "Em entrevista à TVI/CNN Portugal, a 23 de novembro, véspera da votação final global, André Ventura confirmou que o Chega vai votar contra o OE2027, apesar de o partido ter aprovado alterações na especialidade. Acusou o Governo de \"vitimização artificial\" e de \"tentar provocar uma crise a todo o momento\", e recusou ser \"muleta\" do executivo. Questionado sobre se se demitirá caso não vença as próximas legislativas, não respondeu diretamente. A aprovação do Orçamento depende da abstenção anunciada pelo PS.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Orçamento 2027. Chega vai votar contra proposta em votação final global",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-2027-chega-vai-votar-contra-proposta-em-votacao-final-global_n1781179",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Chega vai votar contra proposta do Orçamento do Estado para 2027 em votação final global",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/chega-vai-votar-contra-proposta-do-orcamento-do-estado-para-2027-em-votacao-final-global",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Chega vai votar contra Orçamento do Estado na votação final global",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/chega-vai-votar-contra-orcamento-do-estado-na-votacao-final-global/",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Plenário confirma congelamento das propinas proposto pelo Chega, com votos a favor do PS",
+      "resumo": "A 23 de novembro, numa votação avocada para plenário, o Parlamento confirmou a proposta do Chega que impede que as propinas do ensino superior público em 2027/2028 excedam os valores de 2026/2027, contra os votos de PSD e CDS-PP. A proposta tinha sido aprovada a 20 de novembro, nas votações na especialidade, com os votos de Chega, PS, BE e PAN. O líder parlamentar do PSD, Hugo Soares, falou de uma \"geringonça Chega/PS\" e o Governo acusou os partidos de irresponsabilidade orçamental.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "OE2027. Congelamento das propinas confirmado contra a vontade do Governo",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-congelamento-das-propinas-confirmado-contra-a-vontade-do-governo_v1781083",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado (acompanhamento ao minuto)",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "OE2027: Chega e PS congelam propinas para ano letivo de 2027-2028 contra vontade do Governo",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-chega-e-ps-congelam-propinas-para-ano-letivo-de-2027-2028-contra-vontade-do-governo",
+          "data_publicacao": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Chega vê 30 propostas aprovadas no quarto dia de votações na especialidade do OE2027",
+      "resumo": "No quarto dia de votações na especialidade, a 23 de novembro, foram aprovadas 134 propostas de alteração, 30 delas do Chega, segundo o ECO. Entre elas estão a obrigação de o Governo dar às Unidades Locais de Saúde meios para cobrar serviços prestados a estrangeiros não residentes sem cobertura pelo SNS, o financiamento da integração de operadores na plataforma 1bilhete.pt e a publicação anual do custo de cada canal da RTP. O Chega votou também a favor de uma proposta do PS que atualiza os suplementos da PSP e da GNR, aprovada contra a vontade de PSD e CDS-PP.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Programa Regressar marca o derradeiro dia de votações na especialidade do OE2027",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/programa-regressar-marca-o-derradeiro-dia-de-votacoes-na-especialidade-do-oe2027/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado (acompanhamento ao minuto)",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Pedro Pinto encerra o debate na especialidade a classificar o Orçamento de \"mau\" e \"socialista\"",
+      "resumo": "Na declaração final do Chega no último plenário antes da votação final global, a 23 de novembro, o líder parlamentar Pedro Pinto criticou o Orçamento como \"mau\" e \"socialista\", criticou uma proposta do Livre de 10 milhões de euros para a UNRWA e a não descida do IVA da botija de gás, e anunciou que o Chega vai apresentar \"nas próximas semanas\" uma proposta sobre as rendas. O anúncio provocou protestos das bancadas próximas do Governo e uma troca de palavras com a Mesa, que o presidente em exercício, Rodrigo Saraiva, considerou \"bastante excessiva\".",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado (acompanhamento ao minuto)",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Chega vai votar contra proposta do Orçamento do Estado para 2027 em votação final global",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/chega-vai-votar-contra-proposta-do-orcamento-do-estado-para-2027-em-votacao-final-global",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Ventura admite prolongar o IVA zero nos alimentos e propõe descer para 5% a taxa sobre rendas",
+      "resumo": "Na mesma entrevista à CNN Portugal, a 23 de novembro, Ventura admitiu que a isenção de IVA num cabaz de alimentos essenciais tenha de ser prolongada além dos três meses previstos, a financiar com cortes em \"despesa desnecessária\". Disse que o Chega voltará a propor descer de 10% para 5% a taxa de imposto paga pelos senhorios e classificou como \"uma escolha do mal menor\" o voto a favor da proposta do PS que acaba com a taxa reduzida para rendas moderadas.",
+      "data": "2026-11-23",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Ventura admite prolongar IVA 0 nos alimentos além de três meses e promete baixar imposto aos senhorios para 5%",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/ventura-admite-prolongar-iva-0-nos-alimentos-alm-de-trs-meses-e-promete-baixar-imposto-aos-senhorios-para-5",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Chega vai votar contra proposta do Orçamento do Estado para 2027 em votação final global",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/chega-vai-votar-contra-proposta-do-orcamento-do-estado-para-2027-em-votacao-final-global",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "CDS-PP diz que o Chega tem \"obrigação\" de se abster e PSD acusa Chega e PS de desvirtuarem o Orçamento",
+      "resumo": "No encerramento do quarto dia de debate na especialidade, a 23 de novembro, o líder parlamentar do CDS-PP, Paulo Núncio, disse que, com tantas medidas socialistas aprovadas, o Chega tem \"pelo menos a obrigação de se abster\", desafiou Chega e PS a concorrerem coligados e afirmou que o Chega se assumiu como \"um partido de esquerda\". O deputado do PSD Hugo Carneiro acusou PS e Chega de quererem pôr o Governo \"em gestão corrente\".",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado (acompanhamento ao minuto)",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "70% das propostas do PSD e do CDS-PP foram aprovadas pelo Chega",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à TVI/CNN Portugal na véspera da votação final global do OE2027, para rejeitar a acusação de que o Chega bloqueia a governação. Segundo o DN, na mesma entrevista falou em \"mais de dois terços das medidas propostas pelo PSD e pelo CDS\".",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/orcamento-2027-chega-vai-votar-contra-proposta-em-votacao-final-global_n1781179",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "Não foi encontrado um balanço público do número total de propostas de alteração do PSD e do CDS-PP votadas na especialidade nem do sentido de voto do Chega em cada uma, o que impede calcular a percentagem. Os números diários publicados na imprensa (por exemplo, 21 propostas de PSD e CDS-PP aprovadas a 23 de novembro, segundo o ECO) não indicam em quantas o voto do Chega foi a favor. A verificação poderá ser feita quando os guiões de votação da especialidade forem consolidados no sítio do Parlamento.",
+      "evidencias": [
+        {
+          "titulo": "Programa Regressar marca o derradeiro dia de votações na especialidade do OE2027",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/programa-regressar-marca-o-derradeiro-dia-de-votacoes-na-especialidade-do-oe2027/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "o primeiro Orçamento desde a Troika, portanto, desde 2011, que reduz o investimento em saúde",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à CNN Portugal, a justificar o voto contra o OE2027. Afirmação equivalente à feita no encerramento da convenção, a 22 de novembro.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/ventura-admite-prolongar-iva-0-nos-alimentos-alm-de-trs-meses-e-promete-baixar-imposto-aos-senhorios-para-5",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "saude",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Afirmação equivalente à verificada no relatório de 23 de novembro. Segundo o relatório da proposta de OE2027, a despesa do programa da Saúde desce 1,5% e o investimento público na Saúde cai mais de 33% (de 1022 para 678 milhões de euros). Falta contexto relevante: a descida deve-se ao fim do PRR e, sem essas verbas, o orçamento da Saúde sobe 2,9%; trata-se ainda de uma proposta, não de despesa executada.",
+      "evidencias": [
+        {
+          "titulo": "Redução de 1,5% no orçamento da Saúde no OE2027",
+          "entidade": "Notícias ao Minuto/Lusa, com dados do relatório da proposta de OE2027",
+          "url": "https://www.noticiasaominuto.com/pais/3063545/reducao-de-1-5-no-orcamento-da-saude-no-oe2027",
+          "data": "2026-10-08",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "OE2027. Bastonário da Ordem dos Médicos critica proposta contraditória e de retrocesso",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-bastonario-da-ordem-dos-medicos-critica-proposta-contraditoria-e-de-retrocesso_n1770720",
+          "data": null,
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": "2026-11-23#f1"
+    },
+    {
+      "id": "f3",
+      "texto": "Portugal registou recentemente a segunda ou terceira inflação alimentar mais elevada da zona euro.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à CNN Portugal, a defender o prolongamento do IVA zero num cabaz de alimentos essenciais. O DN cita entre aspas apenas a expressão \"a segunda ou terceira inflação alimentar mais elevada da Zona Euro\".",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/ventura-admite-prolongar-iva-0-nos-alimentos-alm-de-trs-meses-e-promete-baixar-imposto-aos-senhorios-para-5",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "economia",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Segundo o Eurostat (IHPC, taxa de variação homóloga do agregado \"alimentação\"), Portugal teve a segunda taxa mais elevada dos 21 países da zona euro em maio, junho e julho de 2026 e a terceira em agosto e setembro. No dado mais recente, outubro de 2026, ficou em quarto lugar (2,5%, atrás de Chipre, Itália e Espanha). No agregado \"alimentação e bebidas não alcoólicas\" a ordem é semelhante (segundo de maio a julho, terceiro em agosto, quarto em setembro e outubro). A afirmação está certa para os meses anteriores, mas não para o último mês publicado.",
+      "evidencias": [
+        {
+          "titulo": "IHPC (ECOICOP v2), taxa de variação homóloga, alimentação (CP011), maio a outubro de 2026",
+          "entidade": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=CP011&unit=RCH_A&lastTimePeriod=6&format=JSON&lang=EN",
+          "data": "2026-11-18",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "IHPC (ECOICOP v2), taxa de variação homóloga, alimentação e bebidas não alcoólicas (CP01), maio a outubro de 2026",
+          "entidade": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=CP01&unit=RCH_A&lastTimePeriod=6&format=JSON&lang=EN",
+          "data": "2026-11-18",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Quase 20% dos idosos vivem em pobreza ou em risco de pobreza.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à CNN Portugal, a justificar as propostas de aumento das pensões aprovadas pela oposição na especialidade do OE2027. Paráfrase do DN.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/ventura-admite-prolongar-iva-0-nos-alimentos-alm-de-trs-meses-e-promete-baixar-imposto-aos-senhorios-para-5",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "outro",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "No inquérito de 2025 (rendimentos de 2024), a taxa de risco de pobreza das pessoas com 65 ou mais anos foi de 17,8% (21,1% no inquérito anterior) e a taxa de risco de pobreza ou exclusão social deste grupo foi de 20,8%, segundo o Eurostat, com base no inquérito do INE. \"Quase 20%\" fica entre os dois indicadores e é uma aproximação razoável, embora a frase não distinga os conceitos e o indicador de pobreza em sentido estrito esteja mais perto de 18%.",
+      "evidencias": [
+        {
+          "titulo": "Taxa de risco de pobreza (limiar de 60% da mediana), 65 ou mais anos, Portugal, 2023–2025",
+          "entidade": "Eurostat (EU-SILC / INE)",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_li02?geo=PT&age=Y_GE65&sex=T&unit=PC&lastTimePeriod=3",
+          "data": "2026-10-20",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Pessoas em risco de pobreza ou exclusão social, 65 ou mais anos, Portugal, 2022–2025",
+          "entidade": "Eurostat (EU-SILC / INE)",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?geo=PT&age=Y_GE65&sex=T&unit=PC&lastTimePeriod=4&format=JSON",
+          "data": "2026-10-20",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Risco de pobreza recua em Portugal, mas ainda afeta mais de 1,6 milhões de pessoas",
+          "entidade": "Diário de Notícias, com dados do INE",
+          "url": "https://www.dn.pt/sociedade/risco-de-pobreza-recua-em-portugal-mas-ainda-afeta-mais-de-16-milhes-de-pessoas",
+          "data": "2025-12-11",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "O Chega vai voltar a propor a redução da taxa de imposto paga pelos senhorios de 10% para 5%.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à CNN Portugal, depois da aprovação, com o voto do Chega, do fim da taxa reduzida de IRS para rendas moderadas proposto pelo PS.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/ventura-admite-prolongar-iva-0-nos-alimentos-alm-de-trs-meses-e-promete-baixar-imposto-aos-senhorios-para-5",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "promessa",
+      "tema": "habitacao",
+      "veredicto": null,
+      "explicacao": "Compromisso de apresentar uma proposta legislativa; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "é só vitimização artificial para encher notícias",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-23",
+      "contexto": "Entrevista à TVI/CNN Portugal, sobre as críticas do Governo à aprovação, por PS e Chega, de medidas contra a vontade dos partidos que o apoiam.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/orcamento-2027-chega-vai-votar-contra-proposta-em-votacao-final-global_n1781179",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político sobre a atitude do Governo; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "O Orçamento do Estado para 2027 é um mau orçamento e um orçamento socialista, que vai ser aprovado pelo Partido Socialista.",
+      "literal": false,
+      "autor": "Pedro Pinto",
+      "cargo": "Líder parlamentar do Chega",
+      "data": "2026-11-23",
+      "contexto": "Declaração final do Chega no último plenário de debate na especialidade do OE2027. Paráfrase com base no relato do DN, que cita \"É o partido socialista\" como resposta à pergunta sobre quem aprova o Orçamento.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Avaliação política do Orçamento; não é verificável. A viabilização pela abstenção do PS é a posição anunciada pelo partido, mas a votação só ocorre a 24 de novembro.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "RTP",
+      "Correio da Manhã",
+      "ECO",
+      "Diário de Notícias",
+      "Eurostat"
+    ],
+    "limitacoes": [
+      "A votação final global do OE2027 (24 de novembro, 15h00) ocorre depois da recolha (cerca das 06:50 de Lisboa); o resultado não está incluído.",
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada. A entrevista em vídeo à CNN Portugal não foi vista; as citações vêm dos textos da Lusa, RTP, CM e DN.",
+      "tsf.pt devolveu erro do servidor (CloudFront); sabado.pt e sol.iol.pt não devolveram conteúdo; 24noticias.sapo.pt não resolve neste ambiente; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "Não verificadas por falta de tempo e de dados comparáveis acessíveis: pensão média de velhice de 645 euros \"abaixo de todos os países da Europa Ocidental, incluindo a Grécia\", \"metade dos reformados recebe 462 euros\", \"13% dos alunos abandonam a universidade no primeiro ano\" e \"mais de 500 milhões de euros\" em subsídios sem controlo detetados pelo Tribunal de Contas.",
+      "Nenhum fact-check publicado sobre o Chega na janela foi encontrado."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 6,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 3,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 3
+    }
+  }
+}

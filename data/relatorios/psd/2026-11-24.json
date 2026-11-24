@@ -1,0 +1,362 @@
+{
+  "partido": "psd",
+  "data": "2026-11-24",
+  "gerado_em": "2026-11-24T06:53:44+00:00",
+  "janela": {
+    "de": "2026-11-23",
+    "ate": "2026-11-24"
+  },
+  "resumo": "Na véspera da votação final global do Orçamento para 2027, marcada para as 15h00 de terça-feira, o PSD acusou PS e Chega de desvirtuarem o documento e Hugo Soares disse que as propostas do PS \"não são neutrais\". Montenegro pediu à oposição que não bloqueie o caminho do Governo, e o antigo presidente do partido Pedro Passos Coelho disse que \"a crise está cá\". O Chega anunciou voto contra; do PS espera-se a abstenção.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Orçamento do Governo PSD/CDS chega à votação final global com 343 alterações; Chega anuncia voto contra",
+      "resumo": "As votações na especialidade do Orçamento do Estado para 2027 terminaram na segunda-feira, 23 de novembro. Segundo as contas do ECO, o texto que vai a votação final global, na tarde de 24 de novembro, inclui 343 alterações, 273 das quais da oposição (108 do PS, 57 do Chega) e 70 de PSD e CDS-PP. André Ventura anunciou na segunda-feira à noite que o Chega vota contra; do PS espera-se a abstenção.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Do Orçamento de Sarmento ao Orçamento do Parlamento, documento chega à votação final com marca da oposição",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/do-orcamento-de-sarmento-ao-orcamento-do-parlamento-documento-chega-a-votacao-final-com-marca-da-oposicao/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Chega vai votar contra Orçamento do Estado na votação final global",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/chega-vai-votar-contra-orcamento-do-estado-na-votacao-final-global",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "4h. Greve dos maquinistas da CP continua esta terça-feira",
+          "meio": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2468/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Último dia de votações na especialidade: PSD e CDS-PP aprovam 21 propostas; plenário confirma congelamento das propinas contra o voto do PSD",
+      "resumo": "No quarto dia de votações foram aprovadas 134 propostas de alteração, 21 delas de PSD e CDS-PP, entre as quais a descida de 500 mil para 250 mil euros do investimento mínimo em investigação científica para os \"vistos gold\", o reforço da capacidade do IMT para exames de condução (aprovado por unanimidade) e o direito de preferência das freguesias na compra de imóveis penhorados. No plenário, a proposta do Chega que congela as propinas em 2027/2028 foi confirmada com os votos de PS e Chega, contra PSD e CDS-PP. Foram também aprovadas, contra a vontade de PSD e CDS-PP, propostas do PS como a atualização dos suplementos da GNR e da PSP.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Programa Regressar marca o derradeiro dia de votações na especialidade do OE2027",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/programa-regressar-marca-o-derradeiro-dia-de-votacoes-na-especialidade-do-oe2027/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Hugo Soares acusa o PS de \"reciprocidade\" com o Chega e de mentir sobre a neutralidade das suas propostas",
+      "resumo": "Depois da confirmação do congelamento das propinas, o secretário-geral e líder parlamentar do PSD, Hugo Soares, disse aos jornalistas na Assembleia da República que desta vez foi o PS a votar uma proposta do Chega e que as propostas socialistas não são orçamentalmente neutras. É um desenvolvimento das críticas à \"gerinsonsa\" feitas no fim de semana (relatório de 23/11), agora centrado na tese da neutralidade defendida pelo PS.",
+      "data": "2026-11-23",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PSD acusa PS de ter reciprocidade com Chega e mentir sobre neutralidade orçamental",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/psd-acusa-ps-de-ter-reciprocidade-com-chega-e-mentir-sobre-neutralidade-orcamental_n1781062",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Hugo Carneiro encerra o debate na especialidade pelo PSD e acusa PS e Chega de quererem o \"Governo em gestão\"",
+      "resumo": "No encerramento do quarto dia de discussão na especialidade, o vice-presidente da bancada do PSD Hugo Carneiro disse que houve um \"desvirtuamento\" do Orçamento e acusou PS e Chega de quererem \"bloquear a ação governativa\". Desafiou o PS a explicar o chumbo, com o Chega, das normas do Governo sobre o acesso ao saldo dos ativos financeiros.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Do Orçamento de Sarmento ao Orçamento do Parlamento, documento chega à votação final com marca da oposição",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/do-orcamento-de-sarmento-ao-orcamento-do-parlamento-documento-chega-a-votacao-final-com-marca-da-oposicao/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Montenegro pede aos políticos que não bloqueiem o caminho do Governo, na apresentação de uma fábrica da Lego",
+      "resumo": "Em Estarreja (Aveiro), na apresentação de um investimento de cerca de mil milhões de euros do grupo Lego, o primeiro-ministro Luís Montenegro lembrou que o anúncio coincidia com a véspera da votação final global do Orçamento. Pediu coerência às forças políticas e que as diferenças partidárias não sirvam para bloquear o caminho do Governo.",
+      "data": "2026-11-23",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "\"Não pode ser um país que muda de opinião todos os dias\". Montenegro pede à oposição para não bloquear caminho do Governo",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/montenegro/luis-montenegro/montenegro-pede-aos-politicos-para-nao-bloquearem-caminho-do-governo/20261123/6b043cea0cf22114c91288cc",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "Passos Coelho diz que \"a crise está cá\" e que o Parlamento pode escolher outro Governo",
+      "resumo": "O antigo primeiro-ministro e antigo presidente do PSD Pedro Passos Coelho disse numa conferência da Business Roundtable Portugal, em Lisboa, que \"a crise está cá\" depois das alterações aprovadas ao Orçamento contra a vontade do Governo. Afirmou que, se o Governo aceitar a situação, \"não se poderá queixar\", e que o Parlamento pode escolher um Governo que governe de acordo com a sua vontade, contrariando a posição de Montenegro, que afasta uma crise política.",
+      "data": "2026-11-23",
+      "categoria": "interno",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Passos diz que \"crise está cá\" e sugere que Parlamento pode escolher outro Governo",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/23/politica/noticia/passos-crise-ca-sugere-parlamento-escolher-governo-2196025",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Passos contraria reação de Montenegro à derrota imposta pela oposição: \"A crise está cá. Parece muito evidente\"",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/23/passos-contraria-reacao-de-montenegro-a-derrota-imposta-pela-oposicao-a-crise-esta-ca-parece-muito-evidente/",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "O PS votou a favor da proposta do Chega para que as propinas em Portugal não possam aumentar cerca de 1,5 euros por mês para financiar e dar maior qualidade ao nosso Ensino superior",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral e líder parlamentar do PSD",
+      "data": "2026-11-23",
+      "contexto": "Declarações aos jornalistas na Assembleia da República, logo após a confirmação em plenário do congelamento das propinas para 2027/2028.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/psd-acusa-ps-de-ter-reciprocidade-com-chega-e-mentir-sobre-neutralidade-orcamental_n1781062",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "educacao",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "O PS votou a favor da proposta do Chega, confirmada no plenário com os votos de PS e Chega. A proposta do Governo fixava o teto da propina de licenciatura em 697 euros acrescido da inflação média de 2026 (IPC sem habitação); com a inflação média a 12 meses de 2,9% registada pelo INE em outubro, o aumento seria de cerca de 20 euros por ano, ou seja, perto de 1,7 euros por mês (ou 2 euros se pago em 10 prestações). A ordem de grandeza está certa, mas o valor de 1,5 euros fica ligeiramente abaixo do que os dados atuais indicam; o valor final depende da inflação de 2026, ainda não fechada.",
+      "evidencias": [
+        {
+          "titulo": "Governo descongela valor das propinas a partir de 2027/2028",
+          "entidade": "RTP (Lusa), sobre a proposta de lei do OE2027",
+          "url": "https://www.rtp.pt/noticias/economia/governo-descongela-valor-das-propinas-a-partir-de-20272028_n1770386",
+          "data": "2026-10-08",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "INE confirma subida da inflação para 3,8% em outubro",
+          "entidade": "ECO (dados do INE)",
+          "url": "https://eco.sapo.pt/2026/11/11/ine-confirma-subida-da-inflacao-para-38-em-outubro/",
+          "data": "2026-11-11",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "OE2027: Debate acirrado sobre propinas marca início dos trabalhos do Orçamento do Estado",
+          "entidade": "Diário de Notícias (Lusa)",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+          "data": "2026-11-23",
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "O PS anunciou ao país que as suas propostas em sede de Orçamento seriam neutrais, ou seja, as que aumentavam a despesa seriam depois compensadas com receita. Quero dizer ao país que é mentira. As propostas do PS não são neutrais",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral e líder parlamentar do PSD",
+      "data": "2026-11-23",
+      "contexto": "Declarações aos jornalistas na Assembleia da República durante o último dia de votações na especialidade do Orçamento para 2027.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/psd-acusa-ps-de-ter-reciprocidade-com-chega-e-mentir-sobre-neutralidade-orcamental_n1781062",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "O impacto orçamental das propostas do PS é disputado: o ministro das Finanças estima que as alterações aprovadas possam levar a um défice entre 0,2% e 0,7% do PIB, consoante a duração das medidas, e o PS garante que o Orçamento sai com o mesmo saldo com que entrou. As fontes consultadas não incluem uma estimativa independente (por exemplo, da UTAO ou do Conselho das Finanças Públicas) sobre o conjunto das propostas aprovadas, e o efeito depende de quanto tempo vigorar o IVA zero no cabaz alimentar.",
+      "evidencias": [
+        {
+          "titulo": "Do Orçamento de Sarmento ao Orçamento do Parlamento, documento chega à votação final com marca da oposição",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/do-orcamento-de-sarmento-ao-orcamento-do-parlamento-documento-chega-a-votacao-final-com-marca-da-oposicao/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "OE2027: Governo avisa que converter bónus das pensões em aumento condiciona atribuição",
+          "entidade": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/geral/20261123/oe2027-governo-avisa-que-converter-bonus-das-pensoes-em-aumento-condiciona-atribuicao/20261123/6b0420440cf294b9345eb576",
+          "data": "2026-11-23",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Foi o PS que foi atrás do Chega, numa reciprocidade que tem ocorrido nas votações da especialidade do Orçamento. A geringonça Chega/PS confirmou-se",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral e líder parlamentar do PSD",
+      "data": "2026-11-23",
+      "contexto": "Reação à aprovação, com votos de PS e Chega, do congelamento das propinas proposto pelo Chega.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/psd-acusa-ps-de-ter-reciprocidade-com-chega-e-mentir-sobre-neutralidade-orcamental_n1781062",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Caracterização política. O facto subjacente (o PS votou a favor de uma proposta do Chega) está tratado em f1.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "A discussão na especialidade e as diferentes votações permitiram-nos perceber que houve um desvirtuamento deste Orçamento do Estado",
+      "literal": true,
+      "autor": "Hugo Carneiro",
+      "cargo": "Vice-presidente do Grupo Parlamentar do PSD",
+      "data": "2026-11-23",
+      "contexto": "Intervenção no encerramento do quarto dia de discussão na especialidade do Orçamento para 2027, no plenário.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político sobre as alterações aprovadas; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Só se governa um país e só se transporta o país para um ciclo de desenvolvimento mais robusto, mais duradouro, se houver coerência, não é se houver inconstância. Se houver ziguezagues, curvas e contracurvas, vai ser muito mais difícil",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-23",
+      "contexto": "Discurso em Estarreja, na apresentação de um investimento do grupo Lego, na véspera da votação final global do Orçamento.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/montenegro/luis-montenegro/montenegro-pede-aos-politicos-para-nao-bloquearem-caminho-do-governo/20261123/6b043cea0cf22114c91288cc",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "Portugal precisa de crescer de forma permanente e duradoura a uma taxa superior a 3% e, se possível, atingir os 4% no mais curto espaço de tempo, para poder aumentar pensões e salários.",
+      "literal": false,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-23",
+      "contexto": "Discurso em Estarreja, na apresentação de um investimento do grupo Lego.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/montenegro/luis-montenegro/montenegro-pede-aos-politicos-para-nao-bloquearem-caminho-do-governo/20261123/6b043cea0cf22114c91288cc",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "economia",
+      "veredicto": null,
+      "explicacao": "Objetivo de política económica; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "O Chega quer arruinar as pensões e os pensionistas",
+      "literal": true,
+      "autor": "Isaura Morais",
+      "cargo": "Deputada do PSD",
+      "data": "2026-11-23",
+      "contexto": "Intervenção no plenário, no debate na especialidade do Orçamento, sobre a conversão de um eventual bónus aos pensionistas em aumento permanente.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-votao-avocada-sobre-propinas-abre-trabalhos-na-especialidade",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político sobre as intenções de outro partido; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "ECO",
+      "RTP",
+      "CNN Portugal",
+      "Diário de Notícias",
+      "Observador",
+      "Público"
+    ],
+    "limitacoes": [
+      "A votação final global do Orçamento para 2027 decorre às 15h00 de 24 de novembro, depois da recolha; o resultado não está coberto neste relatório.",
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "Polígrafo (poligrafo.iol.pt) e Renascença (rr.pt) recusam leitura automática; não foram usados.",
+      "sol.iol.pt, cmjornal.pt, dnoticias.pt, executivedigest.sapo.pt, 24noticias.sapo.pt e diarioaveiro.pt bloqueados pelo proxy da rede; tsf.pt devolveu erro do servidor (CloudFront).",
+      "psd.pt e portugal.gov.pt não estão permitidos na rede do ambiente; comunicados oficiais não consultados.",
+      "Dados de inflação do INE lidos através do ECO, sem consulta direta ao sítio do INE.",
+      "Afirmação de Hugo Carneiro sobre a execução dos ativos financeiros em 2021-2022 face aos anos da AD não incluída: não foi possível reunir dados comparáveis da DGO a tempo."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 6,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 5
+    }
+  }
+}

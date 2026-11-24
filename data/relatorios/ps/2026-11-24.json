@@ -1,0 +1,355 @@
+{
+  "partido": "ps",
+  "data": "2026-11-24",
+  "gerado_em": "2026-11-24T06:53:16+00:00",
+  "janela": {
+    "de": "2026-11-23",
+    "ate": "2026-11-24"
+  },
+  "resumo": "No último dia de debate na especialidade do Orçamento para 2027, o PS garantiu que o documento sai do Parlamento com o mesmo saldo com que entrou e atribuiu ao Governo a responsabilidade por um eventual défice. José Luís Carneiro confirmou que o PS se vai abster na votação final global, marcada para a tarde de 24 de novembro, e rejeitou uma moção de censura. A votação final ainda não tinha ocorrido à hora da recolha.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "PS diz que o Orçamento sai do Parlamento com o mesmo saldo e atribui ao Governo um eventual défice",
+      "resumo": "No encerramento do quarto dia de discussão na especialidade do OE2027, a 23 de novembro, o vice-presidente da bancada do PS, António Mendonça Mendes, afirmou que, no que depender do PS, a proposta sai do Parlamento com o mesmo saldo com que entrou. Defendeu a isenção de IVA num cabaz de bens essenciais, proposta do PS aprovada com o apoio do Chega, e disse que um eventual défice será da responsabilidade do Governo. O Governo e o PSD sustentam que as alterações aprovadas põem em causa o excedente previsto.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PS insiste que OE2027 mantém \"contas certas\" e que se houver défice é porque o Governo \"escondeu despesa\"",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/partidos/ps/ps-diz-que-oe2027-mantem-contas-certas-e-responsabiliza-governo-por-eventual-defice/20261123/6b0442930cf294b9345eb5bf",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "PS diz que documento mantém contas certas e responsabiliza Governo por eventual défice",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/politica/ps-diz-que-documento-mantem-contas-certas-e-responsabiliza-governo-por-eventual-defice_n1781077",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Carneiro confirma abstenção do PS na votação final do Orçamento e rejeita moção de censura",
+      "resumo": "À saída de uma conferência da Business Roundtable Portugal, em Lisboa, a 23 de novembro, José Luís Carneiro disse que o PS está \"às portas de viabilizar pela abstenção\" mais um Orçamento do Estado e rejeitou apresentar uma moção de censura. Respondeu a Pedro Passos Coelho, que na mesma conferência sugeriu que o Parlamento escolha outro Governo se não concorda com as medidas do atual, e considerou \"muito natural\" que o Parlamento altere o Orçamento. O Chega confirmou que vota contra, pelo que a aprovação depende da abstenção do PS.",
+      "data": "2026-11-23",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "OE2027. Carneiro considera \"muito natural\" que Parlamento contribua para opções políticas do país",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Carneiro considera \"muito natural\" que Parlamento contribua para opções políticas do país",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/carneiro-considera-muito-natural-que-parlamento-contribua-para-opcoes-politicas-do-pais_n1781146",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "OE2027 aprovado hoje em votação (após alterações à revelia do Governo)",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3089110/oe2027-proposta-aprovada-hoje-em-votacao-apos-varias-alteracoes-a-revelia-do-governo",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "PS volta a votar a favor do congelamento das propinas proposto pelo Chega; PSD e CDS falam em \"bloco fatal\"",
+      "resumo": "No último dia de debate na especialidade, a 23 de novembro, o plenário voltou a aprovar a proposta do Chega que mantém inalteradas as propinas do ensino superior em 2027/2028, com os votos a favor do PS, BE e PAN, depois de o PSD a ter avocado. O PSD, o CDS e o Governo criticaram a convergência entre PS e Chega no Orçamento, a que chamaram \"bloco fatal\" ou \"gerinsonsa\"; o PS acusou o Governo de \"querer estudantes a financiar estudantes\" e rejeitou a existência de uma parceria com o Chega.",
+      "data": "2026-11-23",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "\"Gerinsonsa\", \"cheringonça\" ou \"bloco fatal\": o OE2027 que ninguém quer assumir como seu chega à votação final",
+          "meio": "Observador",
+          "url": "https://observador.pt/especiais/gerinsonsa-cheringonca-ou-bloco-fatal-o-oe2027-que-ninguem-quer-assumir-como-seu-chega-a-votacao-final/",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Duas sondagens divulgadas a 23 de novembro dão empate técnico entre AD, PS e Chega",
+      "resumo": "A sondagem do Cesop da Universidade Católica, divulgada pelo Público, atribui 26% à AD, 25% ao PS e 23% ao Chega, com uma percentagem \"muito elevada\" de indecisos. Na 12.ª semana do tracking poll da Pitagórica para a CNN Portugal, TVI e Sol, o PS sobe 0,9 pontos para 30,3%, o valor mais alto desta série, mantendo-se também o empate técnico entre os três maiores partidos.",
+      "data": "2026-11-23",
+      "categoria": "media",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Sondagem: AD e PS ombro a ombro na queda, Chega em aproximação",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/23/politica/noticia/sondagem-ad-ps-ombro-ombro-queda-chega-aproximacao-2196009",
+          "data_publicacao": "2026-11-23"
+        },
+        {
+          "titulo": "Tracking Poll: PS alcança a maior votação de sempre à 12.ª semana",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/videos/tracking-poll-ps-alcanca-a-maior-votacao-de-sempre-a-12-semana/6b04b3ae0cf22114c91289ca",
+          "data_publicacao": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "No que depender do PS, exatamente com o mesmo saldo orçamental com que entrou.",
+      "literal": true,
+      "autor": "António Mendonça Mendes",
+      "cargo": "Vice-presidente do grupo parlamentar do PS",
+      "data": "2026-11-23",
+      "contexto": "Encerramento do quarto dia de discussão na especialidade do OE2027, sobre o saldo com que a proposta sairá do Parlamento.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/partidos/ps/ps-diz-que-oe2027-mantem-contas-certas-e-responsabiliza-governo-por-eventual-defice/20261123/6b0442930cf294b9345eb5bf",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "O impacto das alterações aprovadas depende de pressupostos em que Governo e PS divergem em mais de 1300 milhões de euros (IVA zero, isenção de mais-valias e tetos ao ISP). Com as contas do Governo, o excedente de 0,1% do PIB passaria a um défice de 0,3%; o PS diz que as medidas são neutras. Segundo o Público, nenhuma entidade independente se tinha pronunciado à data, e o saldo real só se conhecerá com a execução.",
+      "evidencias": [
+        {
+          "titulo": "PS e Governo com diferença superior a 1300 milhões nas contas do OE",
+          "entidade": "Público",
+          "url": "https://www.publico.pt/2026/11/20/economia/noticia/ps-governo-diferenca-superior-1300-milhoes-contas-oe-2195797",
+          "data": "2026-11-20",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "\"Gerinsonsa\", \"cheringonça\" ou \"bloco fatal\": o OE2027 que ninguém quer assumir como seu chega à votação final",
+          "entidade": "Observador",
+          "url": "https://observador.pt/especiais/gerinsonsa-cheringonca-ou-bloco-fatal-o-oe2027-que-ninguem-quer-assumir-como-seu-chega-a-votacao-final/",
+          "data": "2026-11-23",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Se a execução orçamental nos mostrar um défice orçamental é porque o PS tinha razão e o Governo escondeu, nos 11 mil milhões de euros que a Assembleia da República não autorizou, despesa que efetivamente queria fazer.",
+      "literal": true,
+      "autor": "António Mendonça Mendes",
+      "cargo": "Vice-presidente do grupo parlamentar do PS",
+      "data": "2026-11-23",
+      "contexto": "Encerramento do quarto dia da especialidade, a propósito da limitação, aprovada por proposta do PS, do acesso do Governo ao saldo dos ativos financeiros.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ps-diz-que-documento-mantem-contas-certas-e-responsabiliza-governo-por-eventual-defice_n1781077",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Atribuição hipotética de responsabilidade por um défice futuro; não é verificável. O valor de 11 mil milhões não foi confirmado nas fontes consultadas.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Temos sido fator de estabilidade política, estamos às portas de viabilizar pela abstenção mais um Orçamento do Estado, dando condições a que quem ganhou as eleições governe.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-23",
+      "contexto": "Declarações aos jornalistas à saída de uma conferência da Business Roundtable Portugal, em Lisboa, em resposta a Pedro Passos Coelho.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "verdadeiro",
+      "explicacao": "A parte verificável é a de o PS ter viabilizado orçamentos anteriores pela abstenção: o PS absteve-se na votação final global dos Orçamentos para 2025 e para 2026 e na generalidade do Orçamento para 2027, a 28 de outubro. Com o voto contra anunciado pelo Chega, a aprovação final depende dessa abstenção. A ideia de \"fator de estabilidade\" é uma avaliação política.",
+      "evidencias": [
+        {
+          "titulo": "Proposta de Orçamento do Estado para 2026 aprovada em votação final global",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/dia-de-votacao-final-global-da-proposta-de-orcamento-do-estado-para-2026_e1700966",
+          "data": "2025-11-27",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Orçamento do Estado para 2025 aprovado em votação final global com abstenção do PS",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-para-2025-aprovado-em-votacao-final-global-com-abstencao-do-ps_e1618224",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Parlamento confirma: Orçamento do Estado para 2027 aprovado na generalidade, com abstenção do PS",
+          "entidade": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/oramento-do-estado-para-2027-em-direto-no-site-do-dn",
+          "data": "2026-10-28",
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "A proposta que tem algum impacto orçamental tem a ver com o IVA Zero representa 0,007% de um conjunto de 143 mil milhões de euros, que é a despesa e a receita do orçamento.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-23",
+      "contexto": "Resposta à pergunta sobre se a oposição tinha \"virado do avesso\" o Orçamento, à saída da conferência da Business Roundtable Portugal.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "maioritariamente_falso",
+      "explicacao": "A percentagem está errada numa ordem de grandeza: com o custo que o próprio Carneiro indicou a 21 de novembro (cerca de 90 milhões em três meses), o IVA zero representa cerca de 0,06% de 143 mil milhões, e com a estimativa do Governo (200 milhões) cerca de 0,14%, não 0,007%. É verdade que a medida pesa menos de 1% do total, mas a ideia de que é a única alteração com impacto orçamental é contestada pelo Governo, que atribui também perdas de receita à isenção de mais-valias e aos tetos do ISP. O total de 143 mil milhões não foi confirmado nas fontes consultadas, mas o erro de cálculo mantém-se mesmo aceitando esse valor.",
+      "evidencias": [
+        {
+          "titulo": "PS. José Luís Carneiro acusa Montenegro de \"ingratidão e desespero\"",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/21/ps-jose-luis-carneiro-acusa-montenegro-de-ingratidao-e-desespero/",
+          "data": "2026-11-21",
+          "sentido": "contraria"
+        },
+        {
+          "titulo": "PS e Governo com diferença superior a 1300 milhões nas contas do OE",
+          "entidade": "Público",
+          "url": "https://www.publico.pt/2026/11/20/economia/noticia/ps-governo-diferenca-superior-1300-milhoes-contas-oe-2195797",
+          "data": "2026-11-20",
+          "sentido": "contraria"
+        },
+        {
+          "titulo": "Carneiro considera \"muito natural\" que Parlamento contribua para opções políticas do país",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/economia/carneiro-considera-muito-natural-que-parlamento-contribua-para-opcoes-politicas-do-pais_n1781146",
+          "data": "2026-11-23",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Só foi aprovada a redução do IVA para bens essenciais durante três meses, cabendo depois ao Governo avaliar a continuidade da medida.",
+      "literal": false,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-23",
+      "contexto": "Justificação da alteração às prioridades do Governo no Orçamento, à saída da conferência da Business Roundtable Portugal.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "factual",
+      "tema": "impostos",
+      "veredicto": "verdadeiro",
+      "explicacao": "A norma aprovada aplica a taxa de IVA de 0% a um cabaz de bens alimentares essenciais entre 1 de janeiro e 31 de março de 2027, podendo ser renovada por períodos de três meses \"mediante avaliação\", tendo em conta a inflação e o efeito na receita. O Governo tem ainda de publicar todos os meses os preços e a perda de receita.",
+      "evidencias": [
+        {
+          "titulo": "Isenção de IVA do cabaz alimentar proposta pelo PS aprovada com apoio do Chega",
+          "entidade": "Público",
+          "url": "https://www.publico.pt/2026/11/20/economia/noticia/isencao-iva-cabaz-alimentar-proposta-ps-aprovada-apoio-chega-2195653",
+          "data": "2026-11-20",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "IVA zero dos bens alimentares avança em 2027. Mas imposto sobre as rendas volta a subir",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/20/iva-zero-dos-bens-alimentares-avanca-em-2027-mas-imposto-sobre-as-rendas-volta-a-subir/",
+          "data": "2026-11-20",
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "É muito natural que o Parlamento, como aliás sempre aconteceu, procure dar o seu contributo para a discussão política e as opções políticas do país.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-23",
+      "contexto": "Resposta à pergunta sobre se aceitaria, como primeiro-ministro, as alterações que a oposição fez ao OE2027.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo político sobre o papel do Parlamento; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "Carneiro disse ser bastante mais otimista e menos catastrofista do que Pedro Passos Coelho em relação ao futuro de Portugal.",
+      "literal": false,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-23",
+      "contexto": "Resposta a Passos Coelho, que antevira que os portugueses serão muito mais pobres daqui a 15 anos se nada mudar.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opes-polticas-do-pas",
+        "data_publicacao": "2026-11-23"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo pessoal; não é verificável.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "CNN Portugal",
+      "RTP",
+      "Observador",
+      "Diário de Notícias",
+      "Público",
+      "Notícias ao Minuto (Lusa)"
+    ],
+    "limitacoes": [
+      "A votação final global do OE2027 está marcada para a tarde de 24 de novembro, depois da recolha; o resultado não está neste relatório.",
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada.",
+      "Executive Digest (executivedigest.sapo.pt), pressnet.pt, idealista.pt e dnoticias.pt não responderam a partir do ambiente; TSF devolveu 403; Jornal de Negócios não respondeu.",
+      "As páginas do ECO consultadas não devolveram o texto do artigo (conteúdo carregado por JavaScript); não foram usadas.",
+      "O artigo do Público sobre a sondagem da Católica está parcialmente atrás de paywall; usou-se apenas o texto de abertura.",
+      "Polígrafo (poligrafo.iol.pt) e Renascença (rr.pt) recusam leitura automática; ps.pt não está permitido na rede do ambiente.",
+      "O total de despesa e receita do OE2027 (143 mil milhões citado por Carneiro) não foi confirmado numa fonte primária."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 4,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 2,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 1,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 3
+    }
+  }
+}

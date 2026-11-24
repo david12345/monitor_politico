@@ -1,7 +1,23 @@
 {
-  "atualizado_em": "2026-11-23T08:54:24+00:00",
+  "atualizado_em": "2026-11-24T06:55:09+00:00",
   "partidos": {
     "chega": [
+      {
+        "data": "2026-11-24",
+        "ficheiro": "data/relatorios/chega/2026-11-24.json",
+        "resumo": "Na véspera da votação final global do Orçamento do Estado para 2027, André Ventura anunciou que o Chega vai votar contra, apesar de o partido ter aprovado várias alterações na especialidade, entre elas o congelamento das propinas, confirmado em plenário com os votos do PS. PSD e CDS-PP acusaram o Chega de se aliar ao PS. Das afirmações verificadas, três estão certas no essencial com imprecisões e uma não é verificável com os dados públicos.",
+        "n_acontecimentos": 6,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 3,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 3
+        }
+      },
       {
         "data": "2026-11-23",
         "ficheiro": "data/relatorios/chega/2026-11-23.json",
@@ -37,6 +53,22 @@
     ],
     "ps": [
       {
+        "data": "2026-11-24",
+        "ficheiro": "data/relatorios/ps/2026-11-24.json",
+        "resumo": "No último dia de debate na especialidade do Orçamento para 2027, o PS garantiu que o documento sai do Parlamento com o mesmo saldo com que entrou e atribuiu ao Governo a responsabilidade por um eventual défice. José Luís Carneiro confirmou que o PS se vai abster na votação final global, marcada para a tarde de 24 de novembro, e rejeitou uma moção de censura. A votação final ainda não tinha ocorrido à hora da recolha.",
+        "n_acontecimentos": 4,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 2,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 1,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 3
+        }
+      },
+      {
         "data": "2026-11-23",
         "ficheiro": "data/relatorios/ps/2026-11-23.json",
         "resumo": "José Luís Carneiro defendeu as propostas do PS aprovadas no Orçamento para 2027, como o IVA zero em alimentos essenciais e o fim da taxa de IRS de 10% para rendas moderadas, e negou acordos com o Chega ou vontade de provocar uma crise política. A ausência do PS no encerramento da convenção do Chega foi criticada pelo Governo e pelo PSD.",
@@ -54,6 +86,22 @@
       }
     ],
     "psd": [
+      {
+        "data": "2026-11-24",
+        "ficheiro": "data/relatorios/psd/2026-11-24.json",
+        "resumo": "Na véspera da votação final global do Orçamento para 2027, marcada para as 15h00 de terça-feira, o PSD acusou PS e Chega de desvirtuarem o documento e Hugo Soares disse que as propostas do PS \"não são neutrais\". Montenegro pediu à oposição que não bloqueie o caminho do Governo, e o antigo presidente do partido Pedro Passos Coelho disse que \"a crise está cá\". O Chega anunciou voto contra; do PS espera-se a abstenção.",
+        "n_acontecimentos": 6,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 5
+        }
+      },
       {
         "data": "2026-11-23",
         "ficheiro": "data/relatorios/psd/2026-11-23.json",
