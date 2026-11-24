@@ -170,3 +170,23 @@ th:first-child, td:first-child { text-align: left; }
 .partido h2 a { color: var(--tinta); }
 .contagem-compacta { grid-template-columns: 1fr; gap: .25rem; }
 .botao { display: inline-flex; align-items: center; min-height: 44px; }
+
+/* Comparar partidos */
+.aviso { border-left: 6px solid var(--base); margin-bottom: 1rem; }
+.aviso p { margin: 0 0 .5rem; }
+.periodos { display: flex; gap: .5rem; margin: .5rem 0 .75rem; flex-wrap: wrap; }
+.periodos button[aria-pressed="true"] { background: var(--tinta); color: var(--superficie); border-color: var(--tinta); font-weight: 600; }
+.comparacao { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: 1.25rem; }
+.comparacao h2 { margin: 0 0 .4rem; font-size: 1.05rem; }
+.comparacao p { margin: .35rem 0 0; }
+.barra100 { display: flex; gap: 2px; height: 32px; background: var(--superficie); }
+.barra100 .seg { min-width: 4px; cursor: pointer; }
+.barra100 .seg:first-child { border-radius: 4px 0 0 4px; }
+.barra100 .seg:last-child { border-radius: 0 4px 4px 0; }
+.barra100 .seg:only-child { border-radius: 4px; }
+.barra100 .seg:hover, .barra100 .seg.ativo { outline: 2px solid var(--tinta); outline-offset: 1px; }
+.barra100 .seg.tracejado { background-image: repeating-linear-gradient(135deg, var(--tinta-3) 0 1.5px, transparent 1.5px 5px); }
+.barra100.pequena { opacity: .7; outline: 2px dashed var(--base); outline-offset: 3px; }
+.etiqueta-aviso { font-size: .85rem; font-weight: 600; color: var(--tinta-2); }
+/* No telemóvel o menu ocupa duas linhas: o cabeçalho deixa de ficar fixo. */
+@media (max-width: 480px) { .topo { position: static; } }

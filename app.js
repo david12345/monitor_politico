@@ -361,14 +361,20 @@ function graficoEmpilhado(dias, chaves, p) {
 }
 
 function mostrarDica(ev, d, alvo) {
+  const temVeredictos = VEREDICTOS.some(([v]) => d.por_veredicto[v]);
+  abrirDica(ev, alvo,
+    h('strong', {}, fmtData(d.data)),
+    temVeredictos
+      ? h('ul', {}, VEREDICTOS.filter(([v]) => d.por_veredicto[v]).map(([v, r]) =>
+        h('li', {}, h('span', { class: 'selo' }, amostra(v), r), h('strong', {}, d.por_veredicto[v]))))
+      : h('div', {}, 'Sem afirmações verificadas'),
+    h('div', { class: 'meta' }, 'Toque duas vezes ou Enter para abrir o dia'));
+}
+// Mostra a dica junto do elemento `alvo` (rato, toque ou teclado).
+function abrirDica(ev, alvo, ...conteudo) {
   document.querySelectorAll('.alvo.ativo').forEach((a) => a.classList.remove('ativo'));
   alvo.classList.add('ativo');
-  dica.replaceChildren(
-    h('strong', {}, fmtData(d.data)),
-    h('ul', {}, VEREDICTOS.filter(([v]) => d.por_veredicto[v]).map(([v, r]) =>
-      h('li', {}, h('span', { class: 'selo' }, amostra(v), r), h('strong', {}, d.por_veredicto[v])))),
-    h('div', { class: 'meta' }, 'Toque duas vezes ou Enter para abrir o dia'));
-  if (!VEREDICTOS.some(([v]) => d.por_veredicto[v])) dica.querySelector('ul').replaceWith(h('div', {}, 'Sem afirmações verificadas'));
+  dica.replaceChildren(...conteudo);
   dica.hidden = false;
   const caixa = alvo.getBoundingClientRect();
   const x = ev.clientX ?? caixa.left + caixa.width / 2;
@@ -380,6 +386,92 @@ function mostrarDica(ev, d, alvo) {
 function esconderDica() {
   dica.hidden = true;
   document.querySelectorAll('.alvo.ativo').forEach((a) => a.classList.remove('ativo'));
+}
+
+// ---------- vista: comparar partidos ----------
+const PERIODOS = [['7', '7 dias', 7], ['30', '30 dias', 30], ['tudo', 'Tudo', null]];
+const AMOSTRA_PEQUENA = 10;
+const pct = (n, t) => (t ? Math.round((100 * n) / t) : 0);
+
+function vistaComparar(periodoPedido) {
+  marcarNav('comparar');
+  const periodo = PERIODOS.find(([id]) => id === periodoPedido) ?? PERIODOS[1];
+  const todas = partidos.flatMap((p) => diasDe(p.id).map((d) => d.data)).sort();
+  const cabeca = [
+    h('h1', {}, 'Comparar partidos'),
+    h('div', { class: 'cartao aviso' },
+      h('p', {}, h('strong', {}, 'Como ler: '), 'as afirmações verificadas não são uma amostra aleatória. Dependem do que cada partido disse, do que foi noticiado e do que é verificável com dados públicos. O PSD inclui membros do Governo, que falam mais vezes e sobre mais números. Uma diferença entre partidos não mede, por si, quem é mais honesto.'),
+      h('p', {}, h('a', { href: '#/metodologia' }, 'Como é feita a verificação'))),
+  ];
+  if (!todas.length) {
+    mostrar(...cabeca, h('p', { class: 'vazio' }, `${ND}: ainda não há relatórios.`));
+    return;
+  }
+  const fim = todas[todas.length - 1];
+  let inicio = todas[0];
+  if (periodo[2]) {
+    const d = new Date(`${fim}T12:00:00Z`);
+    d.setUTCDate(d.getUTCDate() - (periodo[2] - 1));
+    inicio = d.toISOString().slice(0, 10);
+  }
+  const chaves = VEREDICTOS.map(([v]) => v);
+  const linhas = partidos.map((p) => {
+    const dias = diasDe(p.id).filter((d) => d.data >= inicio && d.data <= fim);
+    const cont = Object.fromEntries(chaves.map((k) => [k, dias.reduce((s, d) => s + (d.por_veredicto[k] ?? 0), 0)]));
+    const n = chaves.reduce((s, k) => s + cont[k], 0);
+    return { p, dias: dias.length, cont, n };
+  });
+
+  const botoes = h('div', { class: 'periodos', role: 'group', 'aria-label': 'Período' },
+    PERIODOS.map(([id, rot]) => h('button', { type: 'button', 'aria-pressed': id === periodo[0] ? 'true' : 'false',
+      onclick: () => { location.hash = `#/comparar/${id}`; } }, rot)));
+
+  const legenda = h('ul', { class: 'legenda', 'aria-label': 'Legenda' }, VEREDICTOS.map(([v, r]) => h('li', {}, amostra(v), r)));
+
+  const barras = h('ol', { class: 'comparacao' }, linhas.map(({ p, dias, cont, n }) => {
+    const titulo = h('h2', {}, p.curto);
+    if (!n) {
+      return h('li', {}, titulo, h('p', { class: 'vazio' }, `${ND}: sem afirmações factuais verificadas neste período (${dias} relatório${dias === 1 ? '' : 's'}).`));
+    }
+    const pequena = n < AMOSTRA_PEQUENA;
+    const barra = h('div', { class: `barra100${pequena ? ' pequena' : ''}`, role: 'img',
+      'aria-label': `${p.curto}: ` + VEREDICTOS.filter(([v]) => cont[v]).map(([v, r]) => `${r} ${pct(cont[v], n)}%`).join(', ') },
+    VEREDICTOS.filter(([v]) => cont[v]).map(([v, r]) => {
+      const seg = h('span', { class: `seg alvo${v === 'nao_verificavel' ? ' tracejado' : ''}`, tabindex: 0,
+        style: `flex-grow: ${cont[v]}; background-color: var(--v-${v})`, 'aria-label': `${r}: ${cont[v]} (${pct(cont[v], n)}%)` });
+      const ver = (ev) => abrirDica(ev, seg, h('strong', {}, p.curto), h('div', {}, h('span', { class: 'selo' }, amostra(v), r)),
+        h('div', {}, `${cont[v]} de ${n} afirmações factuais (${pct(cont[v], n)}%)`));
+      seg.addEventListener('pointerenter', ver);
+      seg.addEventListener('pointermove', ver);
+      seg.addEventListener('pointerleave', esconderDica);
+      seg.addEventListener('click', ver);
+      seg.addEventListener('focus', ver);
+      seg.addEventListener('blur', esconderDica);
+      return seg;
+    }));
+    const verdade = cont.verdadeiro + cont.maioritariamente_verdadeiro;
+    const falso = cont.falso + cont.maioritariamente_falso;
+    return h('li', {}, titulo, barra,
+      h('p', { class: 'meta' }, `n = ${n} afirmaç${n === 1 ? 'ão factual' : 'ões factuais'} em ${dias} relatório${dias === 1 ? '' : 's'}`),
+      h('p', {}, `${pct(verdade, n)}% verdadeiras ou maioritariamente verdadeiras · ${pct(cont.enganador, n)}% enganadoras · ${pct(falso, n)}% falsas ou maioritariamente falsas · ${pct(cont.nao_verificavel, n)}% não verificáveis`),
+      pequena && h('p', { class: 'etiqueta-aviso' }, `Amostra pequena (menos de ${AMOSTRA_PEQUENA}) — não tirar conclusões.`));
+  }));
+
+  const tabela = h('details', {},
+    h('summary', {}, 'Ver em tabela'),
+    h('div', { class: 'tabela-wrap' }, h('table', {},
+      h('thead', {}, h('tr', {}, h('th', { scope: 'col' }, 'Partido'), h('th', { scope: 'col' }, 'n'),
+        VEREDICTOS.map(([, r]) => h('th', { scope: 'col' }, r)))),
+      h('tbody', {}, linhas.map(({ p, cont, n }) => h('tr', {},
+        h('th', { scope: 'row' }, p.curto), h('td', {}, n),
+        chaves.map((k) => h('td', {}, n ? `${cont[k]} (${pct(cont[k], n)}%)` : '—'))))))));
+
+  mostrar(...cabeca,
+    h('section', { 'aria-labelledby': 't-comp' },
+      h('h2', { id: 't-comp' }, 'Veredictos das afirmações factuais, por partido'),
+      h('p', { class: 'meta' }, `De ${fmtData(inicio)} a ${fmtData(fim)}. Promessas e opiniões não entram nesta conta.`),
+      botoes,
+      h('div', { class: 'cartao' }, legenda, barras, tabela)));
 }
 
 // ---------- vista: metodologia ----------
@@ -415,6 +507,8 @@ function vistaMetodologia() {
       h('li', {}, 'Verificações já publicadas: Polígrafo, Observador Fact Check, Lusa, AFP.'),
       h('li', {}, 'Imprensa.')),
     h('p', {}, 'Wikipédia e resumos de motores de busca não contam como evidência.'),
+    h('h2', {}, 'Como ler a comparação'),
+    h('p', {}, 'A página Comparar mostra, para cada partido, a percentagem das afirmações factuais verificadas em cada veredicto, num período à escolha. Não é uma medida da honestidade dos partidos: as afirmações não são escolhidas ao acaso, dependem do que cada partido disse e do que foi noticiado, e só entram as que têm conteúdo verificável. Mostramos sempre o número de afirmações (n) e marcamos como amostra pequena qualquer partido com menos de 10 no período. Os partidos aparecem sempre pela mesma ordem, nunca ordenados pelo resultado.'),
     h('h2', {}, 'Limitações'),
     h('ul', {},
       h('li', {}, 'X, Facebook, Instagram e TikTok exigem sessão iniciada: as publicações nessas redes só entram quando estão indexadas ou são citadas pela imprensa.'),
@@ -441,6 +535,7 @@ async function encaminhar() {
   const [p, sec, dia] = rota.split('/');
   const ids = partidos.map((x) => x.id);
   if (rota === 'metodologia') vistaMetodologia();
+  else if (p === 'comparar') vistaComparar(sec);
   else if (ids.includes(p) && sec === 'historico') vistaHistorico(p);
   else if (ids.includes(p) && sec === 'dia' && dia) await vistaDia(p, dia);
   else if (ids.includes(p)) await vistaDia(p, null);

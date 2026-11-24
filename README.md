@@ -7,7 +7,9 @@ Os três partidos são tratados com o mesmo critério.
 
 - **Dashboard:** site estático (`index.html`), sem servidor nem dependências, publicado
   em GitHub Pages: <https://david12345.github.io/monitor_politico/>. Abre na vista
-  "Hoje" com os três partidos; cada partido tem relatórios, filtros e histórico.
+  "Hoje" com os três partidos; cada partido tem relatórios, filtros e histórico; a
+  página "Comparar" mostra a distribuição dos veredictos por partido (7 dias, 30
+  dias ou tudo), sempre com o número de afirmações e um aviso sobre como a ler.
 - **Recolha:** uma tarefa agendada do Claude corre todos os dias às 06:47 (Lisboa),
   segue [`agente/instrucoes.md`](agente/instrucoes.md), escreve
   `data/relatorios/<partido>/AAAA-MM-DD.json` para cada partido, valida e faz

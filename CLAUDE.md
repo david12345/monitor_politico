@@ -28,9 +28,12 @@ Quem gera os dados é uma **tarefa agendada do Claude** que, todos os dias às
 6. **Sem dados pessoais** de cidadãos privados. Só figuras públicas.
 7. **`null` = dado não disponível** e o dashboard mostra-o assim. Nunca `""`.
 8. **Na dúvida, não publicar** a afirmação ou usar `nao_verificavel`.
-9. **Mesmo critério para os três partidos** (limites, escala, fontes, esforço), e
-   nada no dashboard que compare a veracidade dos partidos: as contagens
-   dependem do que foi dito e coberto em cada dia.
+9. **Mesmo critério para os três partidos** (limites, escala, fontes, esforço).
+   Comparações entre partidos só na página **Comparar** e só como está: % das
+   afirmações **factuais** por veredicto, sempre com o n à vista, o aviso de que
+   não é uma amostra aleatória e a marca de amostra pequena (n < 10). Partidos
+   sempre pela ordem de `data/partidos.json`; nunca ordenar pelo resultado, nunca
+   rankings nem "índices de honestidade".
 
 ## Comandos
 
