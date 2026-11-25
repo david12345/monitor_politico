@@ -1,0 +1,350 @@
+{
+  "partido": "psd",
+  "data": "2026-11-25",
+  "gerado_em": "2026-11-25T06:57:06+00:00",
+  "janela": {
+    "de": "2026-11-24",
+    "ate": "2026-11-25"
+  },
+  "resumo": "O terceiro Orçamento do Governo de Luís Montenegro foi aprovado com os votos de PSD e CDS-PP e a abstenção do PS, mas com 273 alterações da oposição. Montenegro acusou PS e Chega de \"entorse constitucional\", garantiu que fará tudo para evitar uma crise e que corrigirá as medidas para não ter o défice de 0,2% agora previsto pelas Finanças; o Governo admite recorrer ao Tribunal Constitucional. As duas afirmações factuais verificadas não têm dados públicos suficientes para um veredicto.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Terceiro Orçamento do Governo de Montenegro aprovado com os votos de PSD e CDS-PP e a abstenção do PS",
+      "resumo": "O OE2027 foi aprovado em votação final global a 24 de novembro, com os votos favoráveis de PSD e CDS-PP, as abstenções de PS e JPP e os votos contra das restantes bancadas. O documento incorpora 343 alterações aprovadas na especialidade, 70 das quais de PSD/CDS-PP e 273 da oposição, várias aprovadas contra o voto dos partidos do Governo.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Oposição consegue 273 alterações ao OE2027 e Governo acena com défice",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/oposicao-consegue-273-alteracoes-ao-oe2027-e-governo-acena-com-defice",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Montenegro acusa PS e Chega de \"flagrante entorse constitucional\" e garante que fará tudo para evitar uma crise política",
+      "resumo": "No encerramento do debate, o primeiro-ministro acusou PS e Chega de \"governar a partir do Parlamento\" e de serem \"desleais\", \"imaturos\" e \"irresponsáveis\", criticando em particular o IVA zero num cabaz alimentar, o fim da taxa de IRS de 10% para rendas moderadas e a conversão do bónus das pensões em aumento permanente. Disse que o Governo \"tudo fará para evitar uma crise política\" e para \"distinguir a natureza impositiva da natureza recomendatória\" de algumas normas, sem as especificar.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Montenegro acusa PS e Chega de \"flagrante entorse constitucional\" mas tudo fará para \"evitar crise política\"",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/montenegro-acusa-ps-e-chega-de-flagrante-entorse-constitucional-mas-tudo-fara-para-evitar-crise-politica",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Montenegro admite “tempestade política”, mas garante que “tudo fará para evitar crise”",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/montenegro-admite-tempestade-politica-mas-garante-que-tudo-fara-para-evitar-crise/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Ministério das Finanças passa a prever défice de 0,2% em 2027 após as alterações da oposição",
+      "resumo": "Em documentos entregues ao Parlamento no dia da votação, o Ministério das Finanças, de Joaquim Miranda Sarmento, passou a prever um défice de 0,2% do PIB (525 milhões de euros) em 2027, em vez do excedente de 0,1% da proposta inicial, e atribuiu à oposição uma perda de 800 milhões no saldo. Montenegro disse que o Governo vai trabalhar durante o ano para que esse défice não aconteça. A Comissão Europeia tinha previsto, a 17 de novembro, um défice de 0,1% para 2027 com a proposta inicial.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Governo prevê défice de 0,2% no próximo ano após alterações da oposição ao Orçamento",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/governo-preve-defice-de-02-no-proximo-ano-apos-alteracoes-da-oposicao-ao-orcamento/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Governo promete “corrigir erros” da oposição para evitar défice",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-promete-corrigir-erros-da-oposicao-para-evitar-defice",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Hugo Soares acusa PS e Chega de formarem um \"bloco fatal\" e de quererem governar a partir do Parlamento",
+      "resumo": "No encerramento do debate, o secretário-geral e líder parlamentar do PSD disse que PS e Chega não têm \"maturidade, responsabilidade nem seriedade política\" e voltou a usar as expressões \"gerinsonsa\" e \"bloco fatal\". Pediu à oposição que não bloqueie o Governo e que apresente uma alternativa.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Governo admite recorrer ao Tribunal Constitucional contra normas aprovadas pela oposição",
+      "resumo": "Segundo o Observador, o Governo pondera pedir a fiscalização de normas aprovadas por PS e Chega, como o IVA zero (cuja lista de bens, segundo um fiscalista citado, teria de ser fixada por lei) e a conversão do bónus das pensões em aumento permanente. Na noite da votação, o ministro das Finanças disse que \"cada uma delas será agora analisada\" e que o Governo \"tomará as decisões\" a seu tempo, sem confirmar se o IVA zero será aplicado em janeiro.",
+      "data": "2026-11-24",
+      "categoria": "justica",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Governo pode recorrer ao TC para travar medidas da oposição",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/24/governo-pode-recorrer-ao-tc-para-travar-medidas-impostas-pela-oposicao/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Recorrer ao Constitucional? Governo “analisará” cada alteração ao Orçamento e “tomará as decisões”",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/recorrer-ao-constitucional-governo-analisara-cada-alteracao-ao-orcamento-e-tomara-as-decisoes/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "Montenegro anuncia iniciativas para a habitação e quer \"revisitar a lei dos solos\"",
+      "resumo": "No discurso de encerramento, o primeiro-ministro anunciou iniciativas legislativas na habitação (mediação imobiliária, cooperativas, condomínios e codificação das regras da construção), a reestruturação do IHRU com gestão direta pelos municípios, um pacto nacional para a habitação com as autarquias e a intenção de revisitar a lei dos solos e concluir a revisão do regime do arrendamento.",
+      "data": "2026-11-24",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Montenegro admite “tempestade política”, mas garante que “tudo fará para evitar crise”",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/montenegro-admite-tempestade-politica-mas-garante-que-tudo-fara-para-evitar-crise/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Governo promete “corrigir erros” da oposição para evitar défice",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-promete-corrigir-erros-da-oposicao-para-evitar-defice",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "titulo": "Paulo Rangel diz que PS e Chega \"usurparam funções\" e \"desfiguraram\" o Orçamento",
+      "resumo": "Em entrevista à SIC Notícias na noite de 24 de novembro, o ministro de Estado e dos Negócios Estrangeiros disse que o Orçamento, uma lei de iniciativa exclusiva do Governo, foi \"desfigurado\" pelas alterações da oposição, o que considerou uma \"usurpação de poderes\". Rejeitou um cenário de crise política.",
+      "data": "2026-11-24",
+      "categoria": "declaracao",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "2h. OE. Rangel diz que PS e Chega \"usurparam funções\" (noticiário, transcrição automática)",
+          "meio": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2479/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Se nós não fizéssemos nada e executássemos as propostas do Partido Socialista e do Chega, teríamos um défice de 0,2%. Mas nós não vamos ter esse défice.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027 na Assembleia da República, antes da votação final global.",
+      "origem": {
+        "meio": "ECO",
+        "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "O valor coincide com a previsão revista que o Ministério das Finanças entregou ao Parlamento nesse dia (défice de 0,2% do PIB, contra um excedente de 0,1% na proposta inicial), mas é uma estimativa do próprio Governo, que o PS contesta. Nenhuma entidade independente (UTAO, CFP) avaliou ainda o efeito das alterações. Como contexto, a Comissão Europeia (outono de 2026) e o CFP (setembro de 2026) já previam pequenos défices em 2027 antes das alterações (0,1% e 0,2%, respetivamente), pelo que não é possível separar com dados públicos o que se deve às propostas da oposição.",
+      "evidencias": [
+        {
+          "titulo": "Governo prevê défice de 0,2% no próximo ano após alterações da oposição ao Orçamento",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/governo-preve-defice-de-02-no-proximo-ano-apos-alteracoes-da-oposicao-ao-orcamento/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "Comissão Europeia prevê défices orçamentais em Portugal até 2028, contrariando estimativas do governo",
+          "entidade": "Diário de Notícias",
+          "url": "https://www.dn.pt/economia/bruxelas-prev-pequenos-dfices-em-vez-dos-pequenos-excedentes-do-governo",
+          "data": "2026-11-17",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "CFP prevê excedente orçamental de 0,2% em 2026 que passa a défice em 2027",
+          "entidade": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/economia/detalhe/cfp-preve-excedente-orcamental-de-0-2-em-2026-que-passa-a-defice-em-2027",
+          "data": "2026-09-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "A revogação da taxa de IRS para rendas moderadas corresponde a um aumento de 150% do IRS para mais de 700 mil contratos de arrendamento em vigor, com rendas entre 400 e 2.300 euros.",
+      "literal": false,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, a criticar a proposta do PS, aprovada com o Chega, que compensa o IVA zero num cabaz alimentar com o fim da taxa de 10% para rendas moderadas.",
+      "origem": {
+        "meio": "Correio da Manhã",
+        "url": "https://www.cmjornal.pt/politica/detalhe/montenegro-acusa-ps-e-chega-de-flagrante-entorse-constitucional-mas-tudo-fara-para-evitar-crise-politica",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "nao_verificavel",
+      "explicacao": "A parte da taxa está certa: com o fim do regime, os senhorios abrangidos voltam da taxa de 10% para a taxa autónoma de 25%, uma subida de 150%. Não foi encontrado nenhum dado público que confirme o número de \"mais de 700 mil contratos\" com rendas entre 400 e 2.300 euros abrangidos pela taxa de 10%, que é a parte que dá dimensão à afirmação. Sem esse dado não é possível dar um veredicto.",
+      "evidencias": [
+        {
+          "titulo": "Governo prevê défice de 0,2% no próximo ano após alterações da oposição ao Orçamento",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/governo-preve-defice-de-02-no-proximo-ano-apos-alteracoes-da-oposicao-ao-orcamento/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        },
+        {
+          "titulo": "OE2027. Proposta aprovada esta terça após várias alterações (Lusa)",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/24/oe2027-proposta-aprovada-esta-terca-feira-em-votacao-apos-varias-alteracoes-a-revelia-do-governo/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "O Governo tudo fará para evitar uma crise política e constitucional. O Governo tudo fará, fará mesmo tudo, para distinguir a natureza impositiva da natureza recomendatória de algumas das normas que foram aprovadas pela oposição.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, sobre o que fará o Governo com as alterações aprovadas por PS e Chega.",
+      "origem": {
+        "meio": "ECO",
+        "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Portugal não precisa de ilusões. Portugal não precisa de populismos, sejam eles assumidos, sejam eles dissimulados.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, dirigido a PS e Chega.",
+      "origem": {
+        "meio": "Correio da Manhã",
+        "url": "https://www.cmjornal.pt/politica/detalhe/montenegro-acusa-ps-e-chega-de-flagrante-entorse-constitucional-mas-tudo-fara-para-evitar-crise-politica",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Os portugueses despejaram o Partido Socialista do Governo. O Chega quer abrir-lhe a porta do Governo através do Parlamento.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral e líder parlamentar do PSD",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027 pelo grupo parlamentar do PSD.",
+      "origem": {
+        "meio": "ECO",
+        "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "O Orçamento foi \"desfigurado\" pela oposição, o que constitui uma \"usurpação de poderes\", porque vai ao âmago de políticas importantes para o Governo.",
+      "literal": false,
+      "autor": "Paulo Rangel",
+      "cargo": "Ministro de Estado e dos Negócios Estrangeiros",
+      "data": "2026-11-24",
+      "contexto": "Entrevista à SIC Notícias na noite da votação final global.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2479/",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "ECO",
+      "Correio da Manhã",
+      "Observador (incluindo Rádio Observador)",
+      "RTP",
+      "Diário de Notícias"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada. As entrevistas televisivas da noite de 24 de novembro (CNN Portugal, SIC Notícias) não foram vistas; usaram-se os resumos e excertos do noticiário da Rádio Observador.",
+      "Os textos dos discursos de encerramento no Observador são transcrições geradas automaticamente; citações que só constam dessas transcrições estão marcadas como paráfrase (literal: false).",
+      "dnoticias.pt não resolve neste ambiente; tsf.pt devolveu uma página vazia; ps.pt/psparlamento.pt e pt.euronews.com não responderam; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se sobretudo a partir das páginas de secção do ECO, CM, Observador e RTP.",
+      "Não verificada: a afirmação de Montenegro de que o défice da Segurança Social chegaria \"dois anos antes, em 2040\"; o ECO e o CM reproduzem anos diferentes para a data de partida (2044 e 2042).",
+      "As declarações do ministro das Finanças e do secretário de Estado do Orçamento sobre a perda de 800 milhões no saldo estão refletidas no acontecimento a3, mas não como afirmação separada (equivalente à de Montenegro, f1).",
+      "Nenhum fact-check publicado sobre o PSD ou o Governo na janela foi encontrado."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 7,
+    "n_afirmacoes": 6,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 2,
+      "sem_veredicto": 4
+    }
+  }
+}

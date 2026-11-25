@@ -1,7 +1,23 @@
 {
-  "atualizado_em": "2026-11-24T06:55:09+00:00",
+  "atualizado_em": "2026-11-25T06:57:06+00:00",
   "partidos": {
     "chega": [
+      {
+        "data": "2026-11-25",
+        "ficheiro": "data/relatorios/chega/2026-11-25.json",
+        "resumo": "O Orçamento do Estado para 2027 foi aprovado na votação final global com a abstenção do PS; o Chega votou contra, depois de ter aprovado 57 alterações na especialidade. No encerramento, André Ventura acusou o PS de viabilizar o Orçamento às cegas e pediu a Montenegro que deixe as \"vitimizações\" e governe com o documento que sai do Parlamento. Das afirmações verificadas, duas estão certas no essencial com imprecisões e uma não é verificável.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 5,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 2,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 2
+        }
+      },
       {
         "data": "2026-11-24",
         "ficheiro": "data/relatorios/chega/2026-11-24.json",
@@ -53,6 +69,22 @@
     ],
     "ps": [
       {
+        "data": "2026-11-25",
+        "ficheiro": "data/relatorios/ps/2026-11-25.json",
+        "resumo": "A abstenção do PS viabilizou o Orçamento do Estado para 2027, que sai do Parlamento com 108 alterações socialistas, o maior número entre os partidos. José Luís Carneiro chamou-lhe um \"mau Orçamento\", negou conversas com o Chega e disse que um eventual défice será responsabilidade do Governo; Fernando Medina criticou a aproximação ao Chega. Das afirmações verificadas, duas estão certas no essencial com imprecisões e três não são verificáveis com dados públicos.",
+        "n_acontecimentos": 6,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 2,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 3,
+          "sem_veredicto": 2
+        }
+      },
+      {
         "data": "2026-11-24",
         "ficheiro": "data/relatorios/ps/2026-11-24.json",
         "resumo": "No último dia de debate na especialidade do Orçamento para 2027, o PS garantiu que o documento sai do Parlamento com o mesmo saldo com que entrou e atribuiu ao Governo a responsabilidade por um eventual défice. José Luís Carneiro confirmou que o PS se vai abster na votação final global, marcada para a tarde de 24 de novembro, e rejeitou uma moção de censura. A votação final ainda não tinha ocorrido à hora da recolha.",
@@ -86,6 +118,22 @@
       }
     ],
     "psd": [
+      {
+        "data": "2026-11-25",
+        "ficheiro": "data/relatorios/psd/2026-11-25.json",
+        "resumo": "O terceiro Orçamento do Governo de Luís Montenegro foi aprovado com os votos de PSD e CDS-PP e a abstenção do PS, mas com 273 alterações da oposição. Montenegro acusou PS e Chega de \"entorse constitucional\", garantiu que fará tudo para evitar uma crise e que corrigirá as medidas para não ter o défice de 0,2% agora previsto pelas Finanças; o Governo admite recorrer ao Tribunal Constitucional. As duas afirmações factuais verificadas não têm dados públicos suficientes para um veredicto.",
+        "n_acontecimentos": 7,
+        "n_afirmacoes": 6,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 2,
+          "sem_veredicto": 4
+        }
+      },
       {
         "data": "2026-11-24",
         "ficheiro": "data/relatorios/psd/2026-11-24.json",

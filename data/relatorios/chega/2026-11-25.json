@@ -1,0 +1,292 @@
+{
+  "partido": "chega",
+  "data": "2026-11-25",
+  "gerado_em": "2026-11-25T06:57:06+00:00",
+  "janela": {
+    "de": "2026-11-24",
+    "ate": "2026-11-25"
+  },
+  "resumo": "O Orçamento do Estado para 2027 foi aprovado na votação final global com a abstenção do PS; o Chega votou contra, depois de ter aprovado 57 alterações na especialidade. No encerramento, André Ventura acusou o PS de viabilizar o Orçamento às cegas e pediu a Montenegro que deixe as \"vitimizações\" e governe com o documento que sai do Parlamento. Das afirmações verificadas, duas estão certas no essencial com imprecisões e uma não é verificável.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Orçamento do Estado para 2027 aprovado em votação final global com o voto contra do Chega",
+      "resumo": "A 24 de novembro, o OE2027 foi aprovado na Assembleia da República com os votos a favor de PSD e CDS-PP e as abstenções de PS e JPP; o Chega votou contra, tal como IL, PAN e os partidos de esquerda. O Chega tinha anunciado o voto contra na véspera, apesar de ter aprovado várias alterações na especialidade em conjunto com o PS.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Governo promete “corrigir erros” da oposição para evitar défice",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-promete-corrigir-erros-da-oposicao-para-evitar-defice",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Ventura encerra o debate do Orçamento a pedir a Montenegro que \"se deixe de vitimizações\"",
+      "resumo": "No encerramento do debate, André Ventura disse que o Orçamento foi \"negociado com o Partido Socialista\" e acusou o PS de \"cega viabilização\". Defendeu as alterações que o Chega ajudou a aprovar, como a conversão de qualquer bónus aos pensionistas em aumento permanente e o IVA zero num cabaz alimentar, e pediu ao primeiro-ministro que governe \"com o Orçamento que sair deste Parlamento\". Criticou PS e PSD por terem rejeitado a descida do IVA dos combustíveis e propostas do Chega para a habitação.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Orçamento do Estado. André Ventura: \"Entre coligar com Montenegro ou com as pessoas, escolhemos as pessoas\" (transcrição automática)",
+          "meio": "Observador",
+          "url": "https://observador.pt/programas/emissao-especial/oe-ventura-entre-montenegro-e-as-pessoas-escolhemos-as-pessoas/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Chega termina a especialidade do OE2027 com 57 propostas de alteração aprovadas",
+      "resumo": "Segundo os balanços publicados no dia da votação final, das 343 alterações aprovadas na especialidade, 273 vieram da oposição; o Chega viu aprovadas 57, o terceiro maior número, depois do PS (108) e de PSD/CDS-PP (70). Entre elas está o congelamento das propinas no ano letivo de 2027/2028, aprovado com os votos do PS. O relatório de ontem dava conta de 30 propostas aprovadas apenas no quarto dia de votações.",
+      "data": "2026-11-24",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Governo prevê défice de 0,2% no próximo ano após alterações da oposição ao Orçamento",
+          "meio": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/governo-preve-defice-de-02-no-proximo-ano-apos-alteracoes-da-oposicao-ao-orcamento/",
+          "data_publicacao": "2026-11-24"
+        },
+        {
+          "titulo": "Oposição consegue 273 alterações ao OE2027 e Governo acena com défice",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/oposicao-consegue-273-alteracoes-ao-oe2027-e-governo-acena-com-defice",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Ventura responde à hipótese de o Governo recorrer ao Tribunal Constitucional: \"boa sorte com isso\"",
+      "resumo": "Depois de o Observador noticiar que o Governo pondera pedir a fiscalização de algumas normas aprovadas pela oposição, como o IVA zero ou a conversão do bónus das pensões, André Ventura disse em entrevista à CNN Portugal, na noite de 24 de novembro, que rejeita haver inconstitucionalidades nas alterações. Considerou mais grave um primeiro-ministro dizer que não executará normas de um orçamento aprovado no Parlamento.",
+      "data": "2026-11-24",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "3h. OE. Ventura rejeita inconstitucionalidade nas alterações (noticiário, transcrição automática)",
+          "meio": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2506/",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Governo pode recorrer ao TC para travar medidas da oposição",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/24/governo-pode-recorrer-ao-tc-para-travar-medidas-impostas-pela-oposicao/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Homem retirado das galerias durante a intervenção de Ventura",
+      "resumo": "Durante o discurso de André Ventura, o presidente da Assembleia da República, José Pedro Aguiar Branco, mandou retirar das galerias um homem de túnica branca, depois de Ventura comentar a sua presença (\"Até Jesus Cristo veio agradecer\", segundo o Observador). O homem, identificado pela PSP, disse ao Observador que não interrompeu a sessão e que estava \"só a orar\".",
+      "data": "2026-11-24",
+      "categoria": "outro",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "\"Jesus Cristo\" do Parlamento diz que estava \"só a orar\"",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/24/ate-jesus-cristo-veio-homem-vestido-de-branco-nas-galerias-da-ar-garante-que-nao-interrompeu-ventura-e-que-estava-apenas-a-orar/",
+          "data_publicacao": "2026-11-24"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "O Chega aprovou mais de 70% das propostas do PSD e do CDS neste Orçamento, e o PSD aprovou menos de 5% das propostas do Chega.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027 na Assembleia da República, para rejeitar a acusação de que o Chega bloqueou o Governo. Repetiu os 70% à noite, em entrevista à CNN Portugal.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/programas/emissao-especial/oe-ventura-entre-montenegro-e-as-pessoas-escolhemos-as-pessoas/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "A mesma percentagem de 70% foi registada ontem como não verificável. Continua sem haver um balanço público de quantas propostas de PSD e CDS-PP foram votadas na especialidade e de como votou o Chega em cada uma; o mesmo vale para a percentagem de propostas do Chega aprovadas com o voto do PSD. Os balanços publicados indicam apenas que o Chega viu aprovadas 57 propostas, sem o total que apresentou nem o voto do PSD em cada uma.",
+      "evidencias": [
+        {
+          "titulo": "Governo prevê défice de 0,2% no próximo ano após alterações da oposição ao Orçamento",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/governo-preve-defice-de-02-no-proximo-ano-apos-alteracoes-da-oposicao-ao-orcamento/",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": "2026-11-24#f1"
+    },
+    {
+      "id": "f2",
+      "texto": "Os pensionistas e reformados ganham em média 645 euros por mês e metade deles recebe 420 euros ou menos.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, a defender a conversão de qualquer bónus aos pensionistas num aumento permanente.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/programas/emissao-especial/oe-ventura-entre-montenegro-e-as-pessoas-escolhemos-as-pessoas/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "factual",
+      "tema": "outro",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Segundo uma análise de economistas do Banco de Portugal aos microdados da Segurança Social de 2024, a pensão média de velhice do regime geral rondava os 645 euros. Para a mediana, a RTP cita 462 euros e o DN 426 euros, com base no mesmo estudo; o valor de Ventura (420 euros) fica abaixo de ambos. A média está certa; a metade \"com 420 euros ou menos\" subestima a mediana. Os dados referem-se às pensões de velhice e a 2024, não a todos os reformados.",
+      "evidencias": [
+        {
+          "titulo": "Metade dos pensionistas por velhice com reforma abaixo dos 462 euros",
+          "entidade": "RTP (análise do Banco de Portugal)",
+          "url": "https://www.rtp.pt/noticias/economia/metade-dos-pensionistas-por-velhice-com-reforma-abaixo-dos-462-euros_n1703894",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Trabalha-se mais 9 anos do que em 2018 para aceder à reforma, metade dos pensionistas ganha menos de 462 euros",
+          "entidade": "Diário de Notícias (análise do Banco de Portugal)",
+          "url": "https://www.dn.pt/economia/trabalha-se-mais-9-anos-do-que-em-2018-para-aceder-reforma-metade-dos-pensionistas-ganha-menos-de-462-euros",
+          "data": "2025-12-12",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Portugal é um país onde os alimentos aumentaram muito mais do que na zona euro.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, a justificar o voto do Chega no IVA zero para um cabaz de alimentos essenciais.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/programas/emissao-especial/oe-ventura-entre-montenegro-e-as-pessoas-escolhemos-as-pessoas/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "factual",
+      "tema": "economia",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Afirmação equivalente à verificada ontem (inflação alimentar entre as mais altas da zona euro). Segundo o Eurostat, Portugal teve a segunda taxa homóloga mais elevada da zona euro na alimentação entre maio e julho de 2026 e a terceira em agosto e setembro; em outubro ficou em quarto lugar.",
+      "evidencias": [
+        {
+          "titulo": "IHPC (ECOICOP v2), taxa de variação homóloga, alimentação (CP011), maio a outubro de 2026",
+          "entidade": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=CP011&unit=RCH_A&lastTimePeriod=6&format=JSON&lang=EN",
+          "data": "2026-11-18",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "IHPC (ECOICOP v2), taxa de variação homóloga, alimentação e bebidas não alcoólicas (CP01), maio a outubro de 2026",
+          "entidade": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=CP01&unit=RCH_A&lastTimePeriod=6&format=JSON&lang=EN",
+          "data": "2026-11-18",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": "2026-11-24#f3"
+    },
+    {
+      "id": "f4",
+      "texto": "[O país] precisa de um primeiro-ministro que se deixe de vitimizações e que governe com o Orçamento que sair deste Parlamento.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-24",
+      "contexto": "Discurso de encerramento do debate do OE2027, em resposta às acusações do Governo sobre as alterações aprovadas por PS e Chega.",
+      "origem": {
+        "meio": "ECO",
+        "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+        "data_publicacao": "2026-11-24"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Se o Governo quiser ir ao Tribunal Constitucional para não aumentar pensões, \"boa sorte com isso\"; mais grave é um primeiro-ministro dizer que não vai executar um orçamento aprovado no Parlamento.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-24",
+      "contexto": "Entrevista à CNN Portugal na noite da votação final global, sobre a hipótese de o Governo pedir a fiscalização de normas aprovadas pela oposição.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2506/",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "ECO",
+      "Correio da Manhã",
+      "Observador (incluindo Rádio Observador)",
+      "RTP",
+      "Diário de Notícias",
+      "Eurostat (verificação de ontem)"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada. As entrevistas televisivas da noite de 24 de novembro (CNN Portugal, SIC Notícias) não foram vistas; usaram-se os resumos e excertos do noticiário da Rádio Observador.",
+      "Os textos dos discursos de encerramento no Observador são transcrições geradas automaticamente; citações que só constam dessas transcrições estão marcadas como paráfrase (literal: false).",
+      "dnoticias.pt não resolve neste ambiente; tsf.pt devolveu uma página vazia; ps.pt/psparlamento.pt e pt.euronews.com não responderam; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se sobretudo a partir das páginas de secção do ECO, CM, Observador e RTP.",
+      "Não verificadas por falta de dados comparáveis acessíveis: \"todos os países ocidentais da Europa têm uma pensão média maior\" e pensões \"abaixo das pagas na Grécia\", os \"300 ou 400 milhões da REN\" e os \"13% dos estudantes\" que abandonam o ensino superior (a frase está truncada na transcrição).",
+      "Nenhum fact-check publicado sobre o Chega na janela foi encontrado."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 5,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 2,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 2
+    }
+  }
+}
