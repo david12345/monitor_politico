@@ -1,0 +1,431 @@
+{
+  "partido": "psd",
+  "data": "2026-11-26",
+  "gerado_em": "2026-11-26T06:54:59+00:00",
+  "janela": {
+    "de": "2026-11-25",
+    "ate": "2026-11-26"
+  },
+  "resumo": "Em entrevista à RTP, Luís Montenegro anunciou que o Governo não vai aplicar o IVA zero nem a revogação da taxa de IRS para rendas moderadas aprovadas por PS e Chega, porque as considera normas \"recomendatórias\", e afastou demissão e remodelação. De manhã, o presidente do Parlamento, Aguiar-Branco, eleito pelo PSD, criticou na sessão do 25 de Novembro a \"procura sistemática de consensos\" e as assembleias populares, e foi criticado pela esquerda. Das afirmações factuais, uma está certa no essencial e três não são verificáveis com os dados consultados.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Montenegro anuncia que o Governo não vai aplicar o IVA zero nem a revogação da taxa de IRS para rendas moderadas",
+      "resumo": "Em entrevista à RTP na noite de 25 de novembro, o primeiro-ministro disse que o Governo não vai criar a lista de alimentos com IVA zero nem alterar a taxa de 10% de IRS para rendas até 2300 euros, ambas aprovadas por PS e Chega no Orçamento para 2027. Considerou essas normas \"recomendatórias\", não excluiu recorrer ao Tribunal Constitucional e sugeriu que também não seguirá a norma sobre a transformação do bónus das pensões em aumento permanente.",
+      "data": "2026-11-25",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Luís Montenegro diz que não vai aplicar IVA zero nos alimentos nem subida do IRS nas rendas",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/lus-montenegro-diz-que-no-vai-aplicar-a-taxa-zero-de-iva-do-cabaz-de-alimentos",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Montenegro não aplica medidas sobre IVA, rendas e pensões (direto)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Montenegro afasta demissão e remodelação e diz contar cumprir a legislatura até 2029",
+      "resumo": "Na mesma entrevista, Montenegro disse que \"nunca esteve\" na sua cabeça uma crise política, que conta cumprir a legislatura até 2029 e que tem confiança \"total\" em todos os ministros, incluindo o da Administração Interna, Luís Neves. Elogiou a atuação da PSP nas acampadas pela habitação, admitindo \"alguns excessos\", e reconheceu que 2026 foi pior do que 2025 nos tempos de espera na saúde.",
+      "data": "2026-11-25",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado",
+          "meio": "RTP",
+          "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Montenegro recusa implementar IVA Zero e alterar IRS das rendas, remodelação afastada",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/25/politica/noticia/montenegro-nao-vai-implementar-medida-iva-zero-decidida-parlamento-2196331",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Montenegro não aplica medidas sobre IVA, rendas e pensões (direto)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Aguiar-Branco critica a \"procura sistemática de consensos\" e as assembleias populares na sessão solene do 25 de Novembro",
+      "resumo": "O presidente da Assembleia da República, eleito pelo PSD, disse na sessão solene de 25 de novembro que \"a democracia não é consenso\" e que \"as assembleias populares não são formas democráticas de decisão\", numa alusão às acampadas pela habitação. Foi aplaudido de pé por PSD, CDS-PP, IL e Chega; PS, Livre e BE acusaram-no de abrir um confronto com o Presidente da República, que no mesmo dia apelou ao diálogo.",
+      "data": "2026-11-25",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PS acusa Aguiar-Branco de \"confronto institucional\" com Seguro, CDS elogia \"discurso corajoso e determinado\"",
+          "meio": "Diário de Notícias (Lusa)",
+          "url": "https://www.dn.pt/pol%C3%ADtica/ps-acusa-aguiar-branco-de-confronto-institucional-com-seguro-cds-elogia-discurso-corajoso-e-determinado",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Seguro e Aguiar-Branco chocam de frente na sessão solene do 25 de novembro",
+          "meio": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/principais-figuras-do-estado-chocam-de-frente-na-sesso-solene-do-25-de-novembro",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Do discurso dos partidos ao do Presidente da República: saiba tudo o que foi dito na sessão solene do 25 de Novembro de 1975",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/assembleia-da-republica-assinala-25-de-novembro-em-sessao-solene-seguro-vai-discursar",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Deputado Bruno Ventura desafia Carneiro a dizer se o PS manterá a sessão do 25 de Novembro",
+      "resumo": "Na intervenção do PSD na sessão solene, o vice-presidente da bancada Bruno Ventura elogiou o discurso do socialista Filipe Neto Brandão e perguntou a José Luís Carneiro se, com o PS em maioria, a data continuaria a ser assinalada no Parlamento. Disse também que antes do 25 de Novembro \"não havia democracia plena\".",
+      "data": "2026-11-25",
+      "categoria": "parlamento",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "PSD desafia PS sobre 25 de Novembro e Chega quer revisão constitucional",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Do discurso dos partidos ao do Presidente da República: saiba tudo o que foi dito na sessão solene do 25 de Novembro de 1975",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/assembleia-da-republica-assinala-25-de-novembro-em-sessao-solene-seguro-vai-discursar",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Deputados do PSD defendem a decisão do Governo com jurisprudência do Tribunal Constitucional",
+      "resumo": "Na noite de 25 de novembro, o deputado Hugo Carneiro disse na SIC Notícias que um acórdão do Tribunal Constitucional impede o Parlamento de \"obrigar o Governo a legislar\" e que, sem a lista de alimentos definida na lei, falta um elemento \"essencial\" à norma do IVA zero. A deputada Ana Gabriela Cabilhas disse na RTP Notícias que foi o Parlamento que \"desrespeitou o Governo\", mas que não há motivo para eleições.",
+      "data": "2026-11-25",
+      "categoria": "declaracao",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "\"Desrespeito\" e \"funcionamento anormal das instituições\". PS e Chega indignam-se com Montenegro e Ventura promete anúncio",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/26/desrespeito-e-funcionamento-anormal-das-instituicoes-ps-e-chega-indignam-se-com-montenegro-e-ventura-promete-anuncio/",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Montenegro não aplica medidas sobre IVA, rendas e pensões (direto)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "O Governo não vai criar nenhuma lista de alimentos à qual se vai aplicar uma taxa zero de IVA. Não vai.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP sobre as alterações ao OE2027 aprovadas por PS e Chega.",
+      "origem": {
+        "meio": "Diário de Notícias",
+        "url": "https://www.dn.pt/pol%C3%ADtica/lus-montenegro-diz-que-no-vai-aplicar-a-taxa-zero-de-iva-do-cabaz-de-alimentos",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "promessa",
+      "tema": "impostos",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Com esta medida, o PS e o Chega queriam beneficiar as famílias portuguesas com nove cêntimos [por dia] por cada pessoa, o que é manifestamente insignificante.",
+      "literal": false,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP, a justificar a recusa do IVA zero, medida prevista para 1 de janeiro a 31 de março de 2027 com custo estimado de 90 milhões de euros.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "factual",
+      "tema": "impostos",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A conta bate certo: 90 milhões de euros em três meses (cerca de 90 dias), divididos pelos 11,42 milhões de residentes estimados pelo INE, dão cerca de 8,8 cêntimos por pessoa e por dia. O próprio PS usou a mesma estimativa de 90 milhões. Mas os 9 cêntimos são uma média que supõe que a descida do IVA passa toda para os preços, o que o próprio primeiro-ministro diz não estar demonstrado. A RTP escreve \"nove cêntimos por cada pessoa\" e o DN \"nove cêntimos por dia\".",
+      "evidencias": [
+        {
+          "titulo": "Revista INEWS n.º 66 — Estimativas de população residente 2025: 11 424 031 pessoas a 31/12/2025",
+          "entidade": "INE",
+          "url": "https://www.ine.pt/ine_novidades/semin/INEWS66/9/",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Luís Montenegro diz que não vai aplicar IVA zero nos alimentos nem subida do IRS nas rendas",
+          "entidade": "Diário de Notícias",
+          "url": "https://www.dn.pt/pol%C3%ADtica/lus-montenegro-diz-que-no-vai-aplicar-a-taxa-zero-de-iva-do-cabaz-de-alimentos",
+          "data": "2026-11-25",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "População residente em Portugal atinge 11,4 milhões. 14% são estrangeiros",
+          "entidade": "RTP",
+          "url": "https://www.rtp.pt/noticias/pais/populacao-residente-em-portugal-atinge-114-milhoes-14-sao-estrangeiros_n1748664",
+          "data": null,
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Em 2025 tivemos um número de licenciamentos que só tem correspondência na nossa história recente em 2008.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP, sobre habitação.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "nao_verificavel",
+      "explicacao": "O INE confirma uma subida forte: em 2025 foram licenciados cerca de 41,8 mil fogos em construções novas para habitação familiar (soma dos quatro trimestres), e o 4.º trimestre ficou 16% acima do mesmo trimestre de 2024. Mas o destaque consultado não traz a série desde 2008 e não foi possível abrir uma série longa, por isso a comparação com 2008 fica por confirmar. A imprensa que cita o INE refere um \"máximo desde 2011\", mas esses artigos não puderam ser abertos.",
+      "evidencias": [
+        {
+          "titulo": "Construção: obras licenciadas e concluídas — 4.º trimestre de 2025 (13/03/2026)",
+          "entidade": "INE",
+          "url": "https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=781545221&att_display=n&att_download=y",
+          "data": "2026-03-13",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "A média de construção destes dois anos e meio já está acima de 27 mil, contra uma média de 16 mil nos oito anos dos governos de António Costa.",
+      "literal": false,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP, sobre habitação.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "nao_verificavel",
+      "explicacao": "Não se sabe que indicador o primeiro-ministro usou (fogos concluídos em construções novas ou o total, com reabilitação). O INE estima cerca de 26,7 mil fogos concluídos em construções novas para habitação familiar em 2025 (soma dos quatro trimestres), um valor próximo dos 27 mil. Não foi possível consultar a série anual de 2016 a 2024 nem os dados de 2026 para calcular as duas médias.",
+      "evidencias": [
+        {
+          "titulo": "Construção: obras licenciadas e concluídas — 4.º trimestre de 2025 (13/03/2026)",
+          "entidade": "INE",
+          "url": "https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=781545221&att_display=n&att_download=y",
+          "data": "2026-03-13",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Nunca esteve, nem está na minha cabeça uma crise política. Desejo cumprir a minha legislatura até 2029.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "Se tivéssemos de adjetivar como arrogante a posição de um órgão de soberania seria a do Parlamento ao querer impor uma coisa que não pode ao Governo.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-25",
+      "contexto": "Entrevista à RTP, ao responder a acusações de arrogância.",
+      "origem": {
+        "meio": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-de-montenegro-a-rtp-iva-zero-nao-avanca-e-irs-aplicado-as-rendas-nao-sera-alterado_n1781639",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "Temos de voltar a explicar que as assembleias populares não são formas democráticas de decisão, que a constitucionalidade de uma lei se discute com um juiz e não com um polícia, que a legislação ainda é feita nesta casa, e não na rua.",
+      "literal": true,
+      "autor": "José Pedro Aguiar-Branco",
+      "cargo": "Presidente da Assembleia da República",
+      "data": "2026-11-25",
+      "contexto": "Discurso na sessão solene do 25 de Novembro, numa alusão às acampadas pela habitação.",
+      "origem": {
+        "meio": "Diário de Notícias (Lusa)",
+        "url": "https://www.dn.pt/pol%C3%ADtica/ps-acusa-aguiar-branco-de-confronto-institucional-com-seguro-cds-elogia-discurso-corajoso-e-determinado",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f8",
+      "texto": "Antes do 25 de Novembro não havia democracia plena.",
+      "literal": true,
+      "autor": "Bruno Ventura",
+      "cargo": "Vice-presidente do grupo parlamentar do PSD",
+      "data": "2026-11-25",
+      "contexto": "Intervenção do PSD na sessão solene do 25 de Novembro.",
+      "origem": {
+        "meio": "Correio da Manhã",
+        "url": "https://www.cmjornal.pt/politica/detalhe/assembleia-da-republica-assinala-25-de-novembro-em-sessao-solene-seguro-vai-discursar",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f9",
+      "texto": "Um acórdão do Tribunal Constitucional estabelece que o Parlamento não pode obrigar o Governo a legislar.",
+      "literal": false,
+      "autor": "Hugo Carneiro",
+      "cargo": "Deputado do PSD",
+      "data": "2026-11-25",
+      "contexto": "Debate na SIC Notícias, a defender a decisão do Governo sobre o IVA zero.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/26/desrespeito-e-funcionamento-anormal-das-instituicoes-ps-e-chega-indignam-se-com-montenegro-e-ventura-promete-anuncio/",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "O deputado não disse qual é o acórdão, e as notícias também não o identificam, por isso não foi possível confirmar o que diz. O próprio deputado admitiu que não se sabe se as normas do Orçamento são constitucionais: isso só se decide depois da redação final (prevista para 9 de dezembro) e da apreciação do Presidente da República. Segundo o CM, a norma aprovada diz que o Governo \"fica obrigado\" a definir o cabaz de alimentos.",
+      "evidencias": [
+        {
+          "titulo": "Oposição consegue 273 alterações ao OE2027 e Governo acena com défice",
+          "entidade": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/oposicao-consegue-273-alteracoes-ao-oe2027-e-governo-acena-com-defice",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f10",
+      "texto": "O Parlamento é que começou por desrespeitar o Governo. O PS vive mal com a separação de poderes.",
+      "literal": false,
+      "autor": "Ana Gabriela Cabilhas",
+      "cargo": "Deputada do PSD",
+      "data": "2026-11-25",
+      "contexto": "Debate na RTP Notícias sobre a decisão do Governo.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "RTP",
+      "Diário de Notícias",
+      "Observador",
+      "Público (só o lead)",
+      "Correio da Manhã",
+      "Notícias ao Minuto (Lusa)",
+      "INE"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "A entrevista do primeiro-ministro à RTP (noite de 25 de novembro) e os debates televisivos que se seguiram não foram vistos; usaram-se as notícias e o direto escrito do Observador.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se sobretudo a partir das páginas de secção de RTP, Observador, DN e Notícias ao Minuto.",
+      "Bloqueados ou inacessíveis neste ambiente: tsf.pt (403), folhanacional.pt (não resolve), idealista.pt e construcaomagazine.pt (recusados pelo proxy); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido; Público com paywall (só o lead).",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "Não verificadas: as afirmações de Montenegro sobre os 11,28 milhões de utentes inscritos no SNS (mais 925 mil) e sobre o \"maior investimento de sempre\" em habitação, por falta de fonte primária consultável na janela.",
+      "Não foi incluída a declaração do antigo ministro Miguel Relvas (sem cargo atual no partido) a lançar Aguiar-Branco para Belém."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 10,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 3,
+      "sem_veredicto": 6
+    }
+  }
+}

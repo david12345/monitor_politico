@@ -1,7 +1,23 @@
 {
-  "atualizado_em": "2026-11-25T06:57:06+00:00",
+  "atualizado_em": "2026-11-26T06:54:59+00:00",
   "partidos": {
     "chega": [
+      {
+        "data": "2026-11-26",
+        "ficheiro": "data/relatorios/chega/2026-11-26.json",
+        "resumo": "No 25 de Novembro, André Ventura anunciou no Parlamento que o Chega vai avançar com uma revisão constitucional e quer vê-la aprovada daqui a um ano. À noite, depois de Montenegro recusar aplicar o IVA zero aprovado por PS e Chega, o partido falou em \"incumprimento\" da Constituição e anunciou uma declaração de Ventura para o meio-dia de 26 de novembro, sem excluir uma moção de censura. A única afirmação factual verificada está certa no essencial, com uma imprecisão.",
+        "n_acontecimentos": 4,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 6
+        }
+      },
       {
         "data": "2026-11-25",
         "ficheiro": "data/relatorios/chega/2026-11-25.json",
@@ -69,6 +85,22 @@
     ],
     "ps": [
       {
+        "data": "2026-11-26",
+        "ficheiro": "data/relatorios/ps/2026-11-26.json",
+        "resumo": "O PS acusou Montenegro de \"desrespeito institucional\" por anunciar que não aplicará o IVA zero e outras normas do Orçamento aprovadas com o Chega, e pediu ao Presidente da República que se pronuncie; Carneiro deverá reagir na manhã de 26 de novembro. Na sessão do 25 de Novembro, o PS acusou o presidente do Parlamento, Aguiar-Branco, de \"confronto institucional\" com Belém. As duas afirmações factuais verificadas estão certas, uma delas com uma generalização.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 6,
+        "por_veredicto": {
+          "verdadeiro": 1,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 4
+        }
+      },
+      {
         "data": "2026-11-25",
         "ficheiro": "data/relatorios/ps/2026-11-25.json",
         "resumo": "A abstenção do PS viabilizou o Orçamento do Estado para 2027, que sai do Parlamento com 108 alterações socialistas, o maior número entre os partidos. José Luís Carneiro chamou-lhe um \"mau Orçamento\", negou conversas com o Chega e disse que um eventual défice será responsabilidade do Governo; Fernando Medina criticou a aproximação ao Chega. Das afirmações verificadas, duas estão certas no essencial com imprecisões e três não são verificáveis com dados públicos.",
@@ -118,6 +150,22 @@
       }
     ],
     "psd": [
+      {
+        "data": "2026-11-26",
+        "ficheiro": "data/relatorios/psd/2026-11-26.json",
+        "resumo": "Em entrevista à RTP, Luís Montenegro anunciou que o Governo não vai aplicar o IVA zero nem a revogação da taxa de IRS para rendas moderadas aprovadas por PS e Chega, porque as considera normas \"recomendatórias\", e afastou demissão e remodelação. De manhã, o presidente do Parlamento, Aguiar-Branco, eleito pelo PSD, criticou na sessão do 25 de Novembro a \"procura sistemática de consensos\" e as assembleias populares, e foi criticado pela esquerda. Das afirmações factuais, uma está certa no essencial e três não são verificáveis com os dados consultados.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 10,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 3,
+          "sem_veredicto": 6
+        }
+      },
       {
         "data": "2026-11-25",
         "ficheiro": "data/relatorios/psd/2026-11-25.json",

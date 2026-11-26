@@ -1,0 +1,290 @@
+{
+  "partido": "chega",
+  "data": "2026-11-26",
+  "gerado_em": "2026-11-26T06:54:59+00:00",
+  "janela": {
+    "de": "2026-11-25",
+    "ate": "2026-11-26"
+  },
+  "resumo": "No 25 de Novembro, André Ventura anunciou no Parlamento que o Chega vai avançar com uma revisão constitucional e quer vê-la aprovada daqui a um ano. À noite, depois de Montenegro recusar aplicar o IVA zero aprovado por PS e Chega, o partido falou em \"incumprimento\" da Constituição e anunciou uma declaração de Ventura para o meio-dia de 26 de novembro, sem excluir uma moção de censura. A única afirmação factual verificada está certa no essencial, com uma imprecisão.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Ventura anuncia na sessão solene do 25 de Novembro que o Chega vai avançar com uma revisão constitucional",
+      "resumo": "Na sessão evocativa do 51.º aniversário do 25 de Novembro de 1975, a 25 de novembro, no Parlamento, André Ventura disse que o Chega vai avançar com a revisão constitucional, já acordada no calendário com o PSD, e que gostaria de a ver aprovada a 25 de novembro de 2027. Defendeu uma Constituição \"para todos\" que não diga que \"caminhamos para o socialismo\" e homenageou antigos combatentes, Comandos e retornados.",
+      "data": "2026-11-25",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PSD desafia PS sobre 25 de Novembro e Chega quer revisão constitucional",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Do discurso dos partidos ao do Presidente da República: saiba tudo o que foi dito na sessão solene do 25 de Novembro de 1975",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/assembleia-da-republica-assinala-25-de-novembro-em-sessao-solene-seguro-vai-discursar",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Chega classifica de \"gravíssima\" a recusa do Governo em aplicar o IVA zero e anuncia declaração de Ventura",
+      "resumo": "Depois de Montenegro dizer na RTP, na noite de 25 de novembro, que o Governo não aplicará o IVA zero nem a revogação da taxa de IRS para rendas moderadas, o deputado Bruno Nunes disse na SIC Notícias que \"o normal funcionamento das instituições está em causa\" e a deputada Marta Silva falou em \"desrespeito total\" pelo trabalho parlamentar. A assessoria do Chega anunciou que André Ventura fará uma declaração e um \"anúncio\" na sede do partido ao meio-dia de 26 de novembro; nenhum dos deputados excluiu uma moção de censura.",
+      "data": "2026-11-25",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "\"Desrespeito\" e \"funcionamento anormal das instituições\". PS e Chega indignam-se com Montenegro e Ventura promete anúncio",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/26/desrespeito-e-funcionamento-anormal-das-instituicoes-ps-e-chega-indignam-se-com-montenegro-e-ventura-promete-anuncio/",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Montenegro não aplica medidas sobre IVA, rendas e pensões (direto)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Ventura acusa Carneiro de \"traição à pátria\" e volta a recusar indemnizações às ex-colónias",
+      "resumo": "No mesmo discurso de 25 de novembro, Ventura dirigiu-se aos representantes dos países de língua oficial portuguesa presentes, voltou a recusar qualquer indemnização às antigas colónias e acusou o líder do PS de \"traição à pátria\" por não se reunir com as oposições em Moçambique ou na Venezuela. No Dia Internacional para a Eliminação da Violência contra as Mulheres, disse que os imigrantes que não respeitem as mulheres devem sair do país.",
+      "data": "2026-11-25",
+      "categoria": "parlamento",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "PSD desafia PS sobre 25 de Novembro e Chega quer revisão constitucional",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Deputados do Chega aplaudem de pé o discurso de Aguiar-Branco sobre as acampadas",
+      "resumo": "Na sessão solene, os deputados do Chega levantaram-se, com os de PSD, CDS-PP e IL, para aplaudir o presidente da Assembleia da República quando este disse que \"as assembleias populares não são formas democráticas de decisão\" e que a legislação é feita no Parlamento \"e não na rua\". O deputado Bruno Nunes disse depois que o Presidente da República poderá ainda \"ter algum transtorno\" após esse discurso.",
+      "data": "2026-11-25",
+      "categoria": "parlamento",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "PS acusa Aguiar-Branco de \"confronto institucional\" com Seguro, CDS elogia \"discurso corajoso e determinado\"",
+          "meio": "Diário de Notícias (Lusa)",
+          "url": "https://www.dn.pt/pol%C3%ADtica/ps-acusa-aguiar-branco-de-confronto-institucional-com-seguro-cds-elogia-discurso-corajoso-e-determinado",
+          "data_publicacao": "2026-11-25"
+        },
+        {
+          "titulo": "Montenegro não aplica medidas sobre IVA, rendas e pensões (direto)",
+          "meio": "Observador",
+          "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+          "data_publicacao": "2026-11-25"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Não há melhor dia do que este 25 de novembro para deixarmos claro que vamos avançar com a revisão constitucional e mais, que gostaríamos que esta revisão constitucional fosse aprovada a 25 de novembro do próximo ano.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-25",
+      "contexto": "Intervenção na sessão solene do 25 de Novembro, na Assembleia da República.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Queremos uma Constituição para todos e não uma que diga que caminhamos para o socialismo.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-25",
+      "contexto": "Intervenção na sessão solene do 25 de Novembro, a propósito da revisão constitucional.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "factual",
+      "tema": "outro",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A parte verificável é que a Constituição em vigor fala em socialismo. O preâmbulo ainda diz que a Assembleia Constituinte decidiu \"abrir caminho para uma sociedade socialista\", mas os artigos não o dizem: o artigo 2.º define a República como Estado de direito democrático que visa a \"democracia económica, social e cultural\". A referência existe, mas só no preâmbulo, que é um texto histórico de 1976 e não uma norma.",
+      "evidencias": [
+        {
+          "titulo": "Constituição da República Portuguesa (texto após a VII revisão, edição 2021) — Preâmbulo e artigo 2.º",
+          "entidade": "Assembleia da República",
+          "url": "https://www.parlamento.pt/Legislacao/Documents/crp-2021-net.pdf",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Constituição da República Portuguesa (edição de 2005)",
+          "entidade": "Assembleia da República",
+          "url": "https://www.parlamento.pt/Legislacao/Documents/constpt2005.pdf",
+          "data": null,
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Não caminhamos para o socialismo, não queremos caminhar para o socialismo. Queremos uma Constituição para todos, que defenda a liberdade, que defenda a propriedade privada, que defenda uma justiça forte, capaz de lutar contra a corrupção.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-25",
+      "contexto": "Sessão solene do 25 de Novembro.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "justica",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Devemos a democracia às forças armadas.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-25",
+      "contexto": "Sessão solene do 25 de Novembro, ao homenagear antigos combatentes e Comandos.",
+      "origem": {
+        "meio": "Correio da Manhã",
+        "url": "https://www.cmjornal.pt/politica/detalhe/assembleia-da-republica-assinala-25-de-novembro-em-sessao-solene-seguro-vai-discursar",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Os imigrantes que não respeitem as mulheres devem deixar o país.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-25",
+      "contexto": "Sessão solene do 25 de Novembro, que coincidiu com o Dia Internacional para a Eliminação da Violência contra as Mulheres.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3089993/25-novembro-psd-pergunta-se-ps-mantera-sessao-e-chega-quer-celebrar-em-2027-revisao-da-constituicao",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "imigracao",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "O normal funcionamento das instituições está em causa. A nível da Constituição há um incumprimento claro.",
+      "literal": true,
+      "autor": "Bruno Nunes",
+      "cargo": "Dirigente e deputado do Chega",
+      "data": "2026-11-25",
+      "contexto": "Reação, na SIC Notícias, ao anúncio de Montenegro de que não aplicará o IVA zero nem a revogação do IRS para rendas moderadas.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/26/desrespeito-e-funcionamento-anormal-das-instituicoes-ps-e-chega-indignam-se-com-montenegro-e-ventura-promete-anuncio/",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "Isto é um desrespeito total pelo nosso trabalho parlamentar.",
+      "literal": true,
+      "autor": "Marta Silva",
+      "cargo": "Deputada do Chega",
+      "data": "2026-11-25",
+      "contexto": "Debate na RTP Notícias sobre a decisão do Governo de não aplicar normas do OE2027 aprovadas pela oposição.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+        "data_publicacao": "2026-11-25"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Notícias ao Minuto (Lusa)",
+      "Correio da Manhã",
+      "Observador",
+      "Diário de Notícias",
+      "Assembleia da República (texto da Constituição)"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "A entrevista do primeiro-ministro à RTP (noite de 25 de novembro) e os debates televisivos que se seguiram não foram vistos; usaram-se as notícias e o direto escrito do Observador.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se sobretudo a partir das páginas de secção de RTP, Observador, DN e Notícias ao Minuto.",
+      "Bloqueados ou inacessíveis neste ambiente: tsf.pt (403), folhanacional.pt (não resolve), idealista.pt e construcaomagazine.pt (recusados pelo proxy); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido; Público com paywall (só o lead).",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "O anúncio de André Ventura marcado para o meio-dia de 26 de novembro é posterior à recolha e não está incluído.",
+      "O texto integral do discurso de Ventura no sítio do Chega e na Folha Nacional não foi lido (chega.pt não testado; folhanacional.pt não resolve); as citações vêm da Lusa e do CM.",
+      "Não verificada: a frase de Ventura sobre antigos combatentes \"quase sem dinheiro para comprar medicamentos\", por não ter conteúdo quantificado."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 4,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 6
+    }
+  }
+}
