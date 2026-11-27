@@ -1,0 +1,246 @@
+{
+  "partido": "ps",
+  "data": "2026-11-27",
+  "gerado_em": "2026-11-27T06:56:10+00:00",
+  "janela": {
+    "de": "2026-11-26",
+    "ate": "2026-11-27"
+  },
+  "resumo": "José Luís Carneiro acusou Montenegro de fazer \"um ajuste de contas\" com o Parlamento ao recusar aplicar o IVA zero e outras normas do Orçamento, mas garantiu que o PS não provocará uma crise política e afastou uma moção de censura. Brilhante Dias disse que o Governo não pode ser \"fora da lei\" e que a redação final não abre nova discussão; o PSD acusou o PS de convergir com o Chega. A única afirmação factual verificada é verdadeira.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Carneiro acusa Montenegro de \"ajuste de contas\" com o Parlamento e afasta moção de censura",
+      "resumo": "De visita à Madeira, na manhã de 26 de novembro, o secretário-geral do PS, José Luís Carneiro, acusou o primeiro-ministro de fazer \"um ajuste de contas\" com a Assembleia da República e com as famílias, ao recusar aplicar normas do Orçamento aprovadas por PS e Chega. Disse que Montenegro tem o dever de cumprir a lei ou, se tiver dúvidas, pedir a fiscalização da constitucionalidade, e que o PS \"tudo fará para evitar uma crise política\", afastando uma moção de censura.",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "\"Se está à procura de uma crise, não é pelo PS que a terá\"",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/26/se-montenegro-esta-a-procura-de-uma-crise-nao-e-pelo-ps-que-a-tera-avisa-carneiro/",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "\"PS tudo fará para evitar uma crise política\", diz Carneiro, após \"ajuste de contas\" de Montenegro com Parlamento",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/luis-montenegro/jose-luis-carneiro-acusa-montenegro-de-fazer-ajuste-de-contas-com-o-parlamento-e-as-familias-portuguesas/20261126/6b08004c0cf2c0fc744b799a",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Brilhante Dias diz que o Governo não pode ser \"fora da lei\" e que a redação final não abre nova discussão",
+      "resumo": "Depois da conferência de líderes extraordinária de 26 de novembro, o líder parlamentar do PS, Eurico Brilhante Dias, disse que o PS não vai criar uma crise política, mas que o Governo tem de cumprir as normas do Orçamento do Estado para 2027 e que, havendo dúvidas, cabe aos tribunais e ao Tribunal Constitucional decidir. Sobre a intenção do Chega, disse que a redação final serve para corrigir gralhas e não permite alterações substantivas.",
+      "data": "2026-11-26",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PS recusa abrir crise política e defende que Governo não pode ser \"fora da lei\"",
+          "meio": "Correio da Manhã (Lusa)",
+          "url": "https://www.cmjornal.pt/politica/detalhe/ps-recusa-abrir-crise-politica-e-defende-que-governo-nao-pode-ser-fora-da-lei",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "PS recusa abrir crise política, mas defende que Governo não pode ser \"fora da lei\"",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/oe2027/ps/ps-recusa-abrir-crise-politica-mas-defende-que-governo-nao-pode-ser-fora-da-lei/20261126/6b0880290cf2c0fc744b7bd5",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Da Esquerda à Direita. Partidos reagem ao travão de Montenegro no OE2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090956/da-esquerda-a-direita-partidos-reagem-ao-travao-de-montenegro-no-oe2027",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "PSD e Governo acusam o PS de convergência com o Chega",
+      "resumo": "O líder parlamentar do PSD, Hugo Soares, disse que nem Carneiro nem Ventura foram \"capazes de contraditar\" os argumentos do primeiro-ministro. À noite, na CNN Portugal, o ministro Paulo Rangel afirmou que o PS \"votou 30 propostas do Chega\" e que \"obviamente há uma convergência\" entre os dois partidos, o que o PS negou nos dias anteriores.",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Chega quer travar redação final do OE. PSD diz que \"deu razão\" ao Governo",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Paulo Rangel diz que houve \"conversas políticas\" entre Chega e PS e reitera que o Governo não vai ao Constitucional",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/orcamento-do-estado/irs-senhorios/paulo-rangel-diz-que-houve-conversas-politicas-entre-chega-e-ps-e-reitera-que-o-governo-nao-vai-ao-constitucional/20261126/6b08c69c0cf2c0fc744b7c42",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Não há abertura de uma nova discussão em sede de redação final. Isso não existe, isso não está no quadro do Regimento da Assembleia da República.",
+      "literal": true,
+      "autor": "Eurico Brilhante Dias",
+      "cargo": "Líder parlamentar do PS",
+      "data": "2026-11-26",
+      "contexto": "Declarações aos jornalistas no Parlamento após a conferência de líderes, sobre a intenção do Chega de se opor à redação final do Orçamento.",
+      "origem": {
+        "meio": "Correio da Manhã (Lusa)",
+        "url": "https://www.cmjornal.pt/politica/detalhe/ps-recusa-abrir-crise-politica-e-defende-que-governo-nao-pode-ser-fora-da-lei",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "verdadeiro",
+      "explicacao": "O artigo 156.º do Regimento diz que a comissão encarregada da redação final \"não pode modificar o pensamento legislativo\" e só pode aperfeiçoar a sistematização e o estilo do texto, por deliberação sem votos contra; para o Orçamento, o artigo 212.º dá-lhe 15 dias. Brilhante Dias acrescentou que, se alguém votar contra a redação final de um artigo, prevalece a versão votada em plenário: o Regimento não diz expressamente o que acontece nesse caso, e há quem admita um impasse que atrase o envio para Belém.",
+      "evidencias": [
+        {
+          "titulo": "Regimento da Assembleia da República n.º 1/2020 (versão atualizada) — artigos 156.º (Redação final) e 212.º (Votação final global e redação final do Orçamento do Estado)",
+          "entidade": "Assembleia da República",
+          "url": "https://www.parlamento.pt/Legislacao/Documents/Legislacao_Anotada/RegimentoAR_Simples.pdf",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Parlamento ainda pode contornar a recusa do Governo... (explicação de Duarte Pacheco, antigo membro da Mesa da AR)",
+          "entidade": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/parlamento/iva-zero/parlamento-ainda-pode-contornar-a-recusa-do-governo-em-aplicar-iva-zero-e-tributar-rendas-mas-so-em-contrarrelogio/20261126/6b0841780cf22114c912907d",
+          "data": "2026-11-26",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Chega pode bloquear redação final do Orçamento? Eis o que diz o Regimento",
+          "entidade": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090860/chega-vai-opor-se-a-redacao-final-do-oe2027-o-que-significa",
+          "data": "2026-11-26",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Já o dissemos, não vai haver em Portugal uma crise política que seja criada pelo PS.",
+      "literal": true,
+      "autor": "Eurico Brilhante Dias",
+      "cargo": "Líder parlamentar do PS",
+      "data": "2026-11-26",
+      "contexto": "Mesmas declarações no Parlamento.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/oe2027/ps/ps-recusa-abrir-crise-politica-mas-defende-que-governo-nao-pode-ser-fora-da-lei/20261126/6b0880290cf2c0fc744b7bd5",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Se Luís Montenegro está à procura de uma crise, não é pelo PS que a terá.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-26",
+      "contexto": "Declarações aos jornalistas na Madeira, transmitidas pela RTP Notícias, sobre a recusa do Governo em aplicar normas do Orçamento.",
+      "origem": {
+        "meio": "Observador",
+        "url": "https://observador.pt/2026/11/26/se-montenegro-esta-a-procura-de-uma-crise-nao-e-pelo-ps-que-a-tera-avisa-carneiro/",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "O primeiro-ministro, ao afirmar o que afirmou ontem [quarta-feira], está, no nosso entendimento, a fazer um ajuste de contas com a Assembleia da República e um ajuste de contas com as famílias portuguesas.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-26",
+      "contexto": "Mesmas declarações na Madeira.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/luis-montenegro/jose-luis-carneiro-acusa-montenegro-de-fazer-ajuste-de-contas-com-o-parlamento-e-as-familias-portuguesas/20261126/6b08004c0cf2c0fc744b799a",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "O Parlamento legislou, o Presidente da República fará o escrutínio que entender, o Governo executa.",
+      "literal": true,
+      "autor": "Eurico Brilhante Dias",
+      "cargo": "Líder parlamentar do PS",
+      "data": "2026-11-26",
+      "contexto": "Declarações no Parlamento após a conferência de líderes.",
+      "origem": {
+        "meio": "Correio da Manhã (Lusa)",
+        "url": "https://www.cmjornal.pt/politica/detalhe/ps-recusa-abrir-crise-politica-e-defende-que-governo-nao-pode-ser-fora-da-lei",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Observador",
+      "CNN Portugal (Lusa)",
+      "Correio da Manhã (Lusa)",
+      "Notícias ao Minuto (Lusa)",
+      "Assembleia da República (Regimento)"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público, CNN Portugal e RTP.",
+      "Público: artigos com paywall, lido só o lead. Observador: alguns artigos só parcialmente acessíveis.",
+      "Bloqueados ou inacessíveis neste ambiente: dnoticias.pt (ligação cortada), diariodarepublica.pt e pgdlisboa.pt (devolvem só JavaScript), sicnoticias.pt, jn.pt e expresso.pt (páginas de secção vazias); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "Vídeos de debate da CNN Portugal (comentários de deputados dos três partidos) não foram vistos; só os títulos, por isso essas declarações não entram.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "ps.pt não consultado; as declarações vêm da Lusa, do Observador e da CNN Portugal.",
+      "As declarações de Carneiro na Madeira foram transmitidas pela RTP Notícias; não foram vistas, usaram-se as notícias escritas. O Diário de Notícias da Madeira (dnoticias.pt) não respondeu.",
+      "Não verificada: a frase de Carneiro de que \"é expectável que o custo de vida se venha a acentuar\", por ser uma previsão."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 3,
+    "n_afirmacoes": 5,
+    "por_veredicto": {
+      "verdadeiro": 1,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 4
+    }
+  }
+}

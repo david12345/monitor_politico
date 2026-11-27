@@ -1,7 +1,23 @@
 {
-  "atualizado_em": "2026-11-26T06:54:59+00:00",
+  "atualizado_em": "2026-11-27T06:56:10+00:00",
   "partidos": {
     "chega": [
+      {
+        "data": "2026-11-27",
+        "ficheiro": "data/relatorios/chega/2026-11-27.json",
+        "resumo": "André Ventura respondeu à recusa do Governo em aplicar o IVA zero: o Chega vai opor-se à redação final do Orçamento se esta não incluir a lista de alimentos, vai propor um projeto de lei urgente sobre o tema e desafiou Montenegro a apresentar uma moção de confiança. O debate de urgência pedido pelo Chega foi marcado para 3 de dezembro. As afirmações do dia foram promessas e opiniões, sem afirmações factuais para verificar.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 4,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 4
+        }
+      },
       {
         "data": "2026-11-26",
         "ficheiro": "data/relatorios/chega/2026-11-26.json",
@@ -85,6 +101,22 @@
     ],
     "ps": [
       {
+        "data": "2026-11-27",
+        "ficheiro": "data/relatorios/ps/2026-11-27.json",
+        "resumo": "José Luís Carneiro acusou Montenegro de fazer \"um ajuste de contas\" com o Parlamento ao recusar aplicar o IVA zero e outras normas do Orçamento, mas garantiu que o PS não provocará uma crise política e afastou uma moção de censura. Brilhante Dias disse que o Governo não pode ser \"fora da lei\" e que a redação final não abre nova discussão; o PSD acusou o PS de convergir com o Chega. A única afirmação factual verificada é verdadeira.",
+        "n_acontecimentos": 3,
+        "n_afirmacoes": 5,
+        "por_veredicto": {
+          "verdadeiro": 1,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 4
+        }
+      },
+      {
         "data": "2026-11-26",
         "ficheiro": "data/relatorios/ps/2026-11-26.json",
         "resumo": "O PS acusou Montenegro de \"desrespeito institucional\" por anunciar que não aplicará o IVA zero e outras normas do Orçamento aprovadas com o Chega, e pediu ao Presidente da República que se pronuncie; Carneiro deverá reagir na manhã de 26 de novembro. Na sessão do 25 de Novembro, o PS acusou o presidente do Parlamento, Aguiar-Branco, de \"confronto institucional\" com Belém. As duas afirmações factuais verificadas estão certas, uma delas com uma generalização.",
@@ -150,6 +182,22 @@
       }
     ],
     "psd": [
+      {
+        "data": "2026-11-27",
+        "ficheiro": "data/relatorios/psd/2026-11-27.json",
+        "resumo": "Em Bruxelas, Luís Montenegro disse que o Governo não vai recorrer ao Tribunal Constitucional, porque está seguro da sua leitura para não aplicar o IVA zero e outras normas aprovadas por PS e Chega, e que espera que Seguro promulgue o Orçamento a tempo de 1 de janeiro. Hugo Soares disse que a oposição \"deu razão\" ao Governo e Paulo Rangel falou em \"conversas políticas\" entre PS e Chega. Das afirmações factuais, uma é verdadeira, uma está certa no essencial e uma não é verificável.",
+        "n_acontecimentos": 6,
+        "n_afirmacoes": 7,
+        "por_veredicto": {
+          "verdadeiro": 1,
+          "maioritariamente_verdadeiro": 1,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 1,
+          "sem_veredicto": 4
+        }
+      },
       {
         "data": "2026-11-26",
         "ficheiro": "data/relatorios/psd/2026-11-26.json",

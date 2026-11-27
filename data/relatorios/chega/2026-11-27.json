@@ -1,0 +1,241 @@
+{
+  "partido": "chega",
+  "data": "2026-11-27",
+  "gerado_em": "2026-11-27T06:56:10+00:00",
+  "janela": {
+    "de": "2026-11-26",
+    "ate": "2026-11-27"
+  },
+  "resumo": "André Ventura respondeu à recusa do Governo em aplicar o IVA zero: o Chega vai opor-se à redação final do Orçamento se esta não incluir a lista de alimentos, vai propor um projeto de lei urgente sobre o tema e desafiou Montenegro a apresentar uma moção de confiança. O debate de urgência pedido pelo Chega foi marcado para 3 de dezembro. As afirmações do dia foram promessas e opiniões, sem afirmações factuais para verificar.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Ventura anuncia que o Chega se vai opor à redação final do Orçamento se não incluir a lista de bens com IVA zero",
+      "resumo": "Em conferência de imprensa na sede nacional, a 26 de novembro, André Ventura disse ter dado instruções aos deputados do Chega para se oporem à redação final do Orçamento do Estado para 2027 se o texto não identificar os bens do cabaz alimentar com IVA zero, usando o cabaz do último governo do PS. Anunciou também um projeto de lei urgente e autónomo para definir esses bens e desafiou o primeiro-ministro a apresentar uma moção de confiança, e o Presidente da República a tomar posição. A reação seguiu-se à entrevista em que Luís Montenegro disse que o Governo não aplicará o IVA zero.",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Chega quer travar redação final do OE. PSD diz que \"deu razão\" ao Governo",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Ventura desafia Montenegro a apresentar moção de confiança e Seguro a \"tomar posição\"",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/26/politica/noticia/ventura-desafia-montenegro-apresentar-mocao-confianca-seguro-tomar-posicao-2196378",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Chega pode bloquear redação final do Orçamento? Eis o que diz o Regimento",
+          "meio": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090860/chega-vai-opor-se-a-redacao-final-do-oe2027-o-que-significa",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Conferência de líderes marca para 3 de dezembro o debate de urgência pedido pelo Chega",
+      "resumo": "O Chega requereu na manhã de 26 de novembro, por requerimento assinado pelo líder parlamentar Pedro Pinto, um debate de urgência sobre o \"incumprimento gravíssimo do governo\" quanto às normas do Orçamento sobre o IVA dos alimentos e a atualização das pensões. A conferência de líderes extraordinária, convocada a pedido do Livre, marcou o debate para quinta-feira, 3 de dezembro; o Chega pedia que fosse já na sexta-feira.",
+      "data": "2026-11-26",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "OE: Debate de urgência sobre posição de Montenegro será a 3 de dezembro",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/economia/3090859/oe2027-debate-de-urgencia-do-chega-sobre-posicao-de-montenegro-marcado-para-a-proxima-quinta-feira",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Da Esquerda à Direita. Partidos reagem ao travão de Montenegro no OE2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090956/da-esquerda-a-direita-partidos-reagem-ao-travao-de-montenegro-no-oe2027",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "PSD e Governo respondem a Ventura: Hugo Soares fala em conferência \"patética\" e Montenegro em posição \"no mínimo engraçada\"",
+      "resumo": "O líder parlamentar do PSD, Hugo Soares, disse que Ventura \"gosta de brincar às moções\", afastou a moção de confiança e defendeu que a redação final não pode alterar o que foi votado. Em Bruxelas, Luís Montenegro considerou \"no mínimo engraçado\" que Ventura acuse o Governo de estar fora da lei e proponha ao mesmo tempo um projeto de lei para corrigir a norma. O ministro Paulo Rangel disse à CNN Portugal que \"André Ventura anda a brincar às moções\".",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Chega quer travar redação final do OE. PSD diz que \"deu razão\" ao Governo",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Governo não vai recorrer ao Tribunal Constitucional sobre o Orçamento do Estado",
+          "meio": "Correio da Manhã (Lusa)",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-nao-vai-recorrer-ao-tribunal-constitucional-sobre-o-orcamento-do-estado",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Paulo Rangel diz que houve \"conversas políticas\" entre Chega e PS e reitera que o Governo não vai ao Constitucional",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/orcamento-do-estado/irs-senhorios/paulo-rangel-diz-que-houve-conversas-politicas-entre-chega-e-ps-e-reitera-que-o-governo-nao-vai-ao-constitucional/20261126/6b08c69c0cf2c0fc744b7c42",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Correio da Manhã noticia pressão interna para um acordo do Chega com o movimento Reconquista",
+      "resumo": "Segundo o Correio da Manhã, André Ventura está a ser pressionado internamente para um acordo com o movimento Reconquista, de Afonso Gonçalves, e para integrar membros desse grupo no Chega. O jornal refere que Afonso Gonçalves publicou, antes da convenção do Chega, um vídeo a dizer-se disponível para abdicar de criar um partido se o Chega aceitasse uma \"aliança\" e promovesse a \"remigração\". Não foi encontrada reação do Chega.",
+      "data": "2026-11-26",
+      "categoria": "interno",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "André Ventura pressionado para integrar Reconquista",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/andre-ventura-pressionado-para-integrar-reconquista",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Vereador do Chega em Évora alerta para ratos no centro histórico; câmara diz ter plano de desratização em curso",
+      "resumo": "O vereador do Chega na Câmara de Évora, Ruben Miguéis, alertou a 26 de novembro, em comunicado à Lusa, para uma praga de ratos no centro histórico e pediu à gestão PS da câmara informações sobre o plano de desratização. O vice-presidente do município, Jerónimo José, disse que a autarquia contratou um plano de desratização a dois anos, já iniciado e agora em fase de monitorização.",
+      "data": "2026-11-26",
+      "categoria": "outro",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "Évora. Chega alerta para praga de ratos no centro histórico",
+          "meio": "Observador (Lusa)",
+          "url": "https://observador.pt/2026/11/27/chega-alerta-para-praga-de-ratos-no-centro-historico-de-evora/",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "A redação final do orçamento terá esta lista ou não passará na Comissão de Orçamento e Finanças.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa na sede nacional do Chega, sobre a recusa do Governo em aplicar o IVA zero aprovado no Orçamento do Estado para 2027.",
+      "origem": {
+        "meio": "Notícias ao Minuto",
+        "url": "https://www.noticiasaominuto.com/politica/3090860/chega-vai-opor-se-a-redacao-final-do-oe2027-o-que-significa",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Utilizaremos o mesmo cabaz alimentar que foi utilizado pelo último governo.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-26",
+      "contexto": "Mesma conferência de imprensa: refere-se ao cabaz de bens com IVA zero do último governo do PS, que o Chega quer ver na redação final do Orçamento.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "O Chega vai avançar com uma iniciativa legislativa urgente e autónoma para concretizar os bens alimentares básicos sujeitos ao IVA zero.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-26",
+      "contexto": "Mesma conferência de imprensa; desafiou o PS e os partidos que aprovaram a alteração ao Orçamento a viabilizar também o projeto.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3090956/da-esquerda-a-direita-partidos-reagem-ao-travao-de-montenegro-no-oe2027",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Se o quiser fazer e se persistir em não querer aplicar o que foi decidido pelo Parlamento para melhorar a vida das pessoas, o primeiro-ministro deve apresentar ao Parlamento uma moção de confiança para garantir que a maioria dos partidos, dos representantes do povo, aceitam esta distorção da vontade maioritária do povo português.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-26",
+      "contexto": "Mesma conferência de imprensa, em resposta à entrevista de Montenegro à RTP.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Notícias ao Minuto (Lusa)",
+      "Público",
+      "Correio da Manhã",
+      "CNN Portugal",
+      "Observador"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público, CNN Portugal e RTP.",
+      "Público: artigos com paywall, lido só o lead. Observador: alguns artigos só parcialmente acessíveis.",
+      "Bloqueados ou inacessíveis neste ambiente: dnoticias.pt (ligação cortada), diariodarepublica.pt e pgdlisboa.pt (devolvem só JavaScript), sicnoticias.pt, jn.pt e expresso.pt (páginas de secção vazias); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "Vídeos de debate da CNN Portugal (comentários de deputados dos três partidos) não foram vistos; só os títulos, por isso essas declarações não entram.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "chega.pt e Folha Nacional não consultados; as declarações de Ventura vêm da Lusa, do Público e do CM.",
+      "A notícia do CM sobre o movimento Reconquista tem uma só fonte e paywall (lido só o início); não foi encontrada confirmação noutro meio nem reação do Chega.",
+      "Não verificada: a ideia de Ventura de que a lista de bens pode entrar na redação final, por não ter sido formulada como afirmação factual; o artigo 156.º do Regimento proíbe a comissão de \"modificar o pensamento legislativo\" nessa fase."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 4,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 4
+    }
+  }
+}

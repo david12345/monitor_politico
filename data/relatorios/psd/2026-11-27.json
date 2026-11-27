@@ -1,0 +1,354 @@
+{
+  "partido": "psd",
+  "data": "2026-11-27",
+  "gerado_em": "2026-11-27T06:56:10+00:00",
+  "janela": {
+    "de": "2026-11-26",
+    "ate": "2026-11-27"
+  },
+  "resumo": "Em Bruxelas, Luís Montenegro disse que o Governo não vai recorrer ao Tribunal Constitucional, porque está seguro da sua leitura para não aplicar o IVA zero e outras normas aprovadas por PS e Chega, e que espera que Seguro promulgue o Orçamento a tempo de 1 de janeiro. Hugo Soares disse que a oposição \"deu razão\" ao Governo e Paulo Rangel falou em \"conversas políticas\" entre PS e Chega. Das afirmações factuais, uma é verdadeira, uma está certa no essencial e uma não é verificável.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Montenegro diz que o Governo não vai recorrer ao Tribunal Constitucional sobre o Orçamento",
+      "resumo": "Em conferência de imprensa em Bruxelas, à margem do Conselho Europeu de 26 de novembro, Luís Montenegro disse que o Governo \"não tem nenhuma intenção\" de recorrer ao Tribunal Constitucional e que vê \"conforto\" na jurisprudência para não aplicar normas aprovadas por PS e Chega. É um desenvolvimento face a 24 de novembro, quando o Governo admitiu essa hipótese. Desafiou os outros protagonistas a dizerem a sua leitura e, se quiserem, a pedirem a intervenção do Tribunal.",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 5,
+      "fontes": [
+        {
+          "titulo": "Governo não vai recorrer ao Tribunal Constitucional sobre o Orçamento do Estado",
+          "meio": "Correio da Manhã (Lusa)",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-nao-vai-recorrer-ao-tribunal-constitucional-sobre-o-orcamento-do-estado",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Montenegro afasta ida ao Constitucional e garante ter respaldo jurídico para não aplicar medidas de PS e Chega",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/oe2027/luis-montenegro/governo-nao-vai-recorrer-ao-tc-e-acredita-que-tem-respaldo-juridico/20261126/6b08bf180cf29f111c0f4d69",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Montenegro espera que Seguro promulgue o Orçamento e afasta duodécimos",
+      "resumo": "Na mesma conferência de imprensa, Montenegro disse esperar que o Presidente da República promulgue o Orçamento do Estado para 2027 e que este entre em vigor a 1 de janeiro. Admitiu que António José Seguro peça a fiscalização preventiva, que descreveu como \"um mecanismo rápido\", e disse não esperar que os prazos passem de 31 de dezembro.",
+      "data": "2026-11-26",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Luís Montenegro espera que Presidente da República promulgue o próximo Orçamento do Estado e afasta duodécimos",
+          "meio": "Correio da Manhã (Lusa)",
+          "url": "https://www.cmjornal.pt/politica/detalhe/luis-montenegro-espera-que-presidente-da-republica-promulgue-o-proximo-orcamento-do-estado-e-afasta-duodecimos",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Hugo Soares diz que a oposição \"deu razão\" ao Governo e recusa moção de confiança",
+      "resumo": "Em conferência de imprensa no Parlamento, a 26 de novembro, o líder parlamentar do PSD, Hugo Soares, disse que, ao propor mudar o Orçamento depois de aprovado, a oposição admite que o Governo tem razão. Afirmou que nem o Governo nem o PSD têm dúvidas de constitucionalidade, que a redação final não pode alterar substancialmente o que foi votado e que Ventura \"gosta de brincar às moções\".",
+      "data": "2026-11-26",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Chega quer travar redação final do OE. PSD diz que \"deu razão\" ao Governo",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "Hugo Soares acusa oposição de \"desnorte\" e de \"dar razão\" a Montenegro",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/26/politica/noticia/hugo-soares-acusa-oposicao-desnorte-dar-razao-montenegro-2196428",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Paulo Rangel diz que houve \"conversas políticas\" entre PS e Chega",
+      "resumo": "Em entrevista à CNN Portugal na noite de 26 de novembro, o ministro de Estado e dos Negócios Estrangeiros, Paulo Rangel, defendeu a não aplicação do IVA zero e da subida do IRS sobre rendas, disse que cabe ao Governo decidir se as normas são vinculativas e que o Orçamento não irá ao Constitucional por iniciativa do Governo. Disse ainda que o PS \"votou 30 propostas do Chega\" e que há \"conversas políticas\" entre os dois partidos.",
+      "data": "2026-11-26",
+      "categoria": "media",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Paulo Rangel diz que houve \"conversas políticas\" entre Chega e PS e reitera que o Governo não vai ao Constitucional",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/orcamento-do-estado/irs-senhorios/paulo-rangel-diz-que-houve-conversas-politicas-entre-chega-e-ps-e-reitera-que-o-governo-nao-vai-ao-constitucional/20261126/6b08c69c0cf2c0fc744b7c42",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Montenegro diz que a proposta de António Costa para o orçamento da UE \"ainda não é suficiente\"",
+      "resumo": "No Conselho Europeu extraordinário de 26 de novembro, em Bruxelas, sobre o Quadro Financeiro Plurianual 2028-2034, Luís Montenegro disse que a proposta de compromisso do presidente do Conselho Europeu não terá o acordo de Portugal enquanto não salvaguardar a coesão e as regiões ultraperiféricas. A proposta prevê 34,9 mil milhões de euros para Portugal, cerca de 400 milhões a menos do que versões anteriores, segundo a Lusa.",
+      "data": "2026-11-26",
+      "categoria": "outro",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Proposta de Costa \"ainda não é suficiente\", diz Montenegro",
+          "meio": "Observador (Lusa)",
+          "url": "https://observador.pt/2026/11/26/montenegro-proposta-de-costa-para-orcamento-comunitario-ainda-nao-e-suficiente/",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "PSD recusa antecipar o debate quinzenal; conferência de líderes marca debate de urgência para 3 de dezembro",
+      "resumo": "Na conferência de líderes extraordinária de 26 de novembro, pedida pelo Livre, a líder parlamentar do Livre disse que o PSD se opôs a antecipar o debate quinzenal com o primeiro-ministro. Foi marcado para 3 de dezembro o debate de urgência pedido pelo Chega, anunciado pelo porta-voz da conferência, o deputado do PSD Francisco Figueira.",
+      "data": "2026-11-26",
+      "categoria": "parlamento",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Da Esquerda à Direita. Partidos reagem ao travão de Montenegro no OE2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3090956/da-esquerda-a-direita-partidos-reagem-ao-travao-de-montenegro-no-oe2027",
+          "data_publicacao": "2026-11-26"
+        },
+        {
+          "titulo": "OE: Debate de urgência sobre posição de Montenegro será a 3 de dezembro",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/economia/3090859/oe2027-debate-de-urgencia-do-chega-sobre-posicao-de-montenegro-marcado-para-a-proxima-quinta-feira",
+          "data_publicacao": "2026-11-26"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Não é possível alterar substantivamente aquilo que foi a vontade e o veredicto dos deputados na aprovação do Orçamento.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Líder parlamentar e secretário-geral do PSD",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa no Parlamento, em resposta à intenção do Chega de se opor à redação final do Orçamento do Estado para 2027.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "verdadeiro",
+      "explicacao": "O artigo 156.º do Regimento diz que a comissão encarregada da redação final \"não pode modificar o pensamento legislativo\" e só pode aperfeiçoar a sistematização e o estilo do texto, por deliberação sem votos contra; para o Orçamento, o artigo 212.º dá-lhe 15 dias. Hugo Soares disse também, segundo a Lusa, que se houver votos contra o documento fica \"exatamente como estava\": o Regimento não diz expressamente o que acontece nesse caso, e há quem admita um impasse que atrase o envio para Belém.",
+      "evidencias": [
+        {
+          "titulo": "Regimento da Assembleia da República n.º 1/2020 (versão atualizada) — artigos 156.º (Redação final) e 212.º (Votação final global e redação final do Orçamento do Estado)",
+          "entidade": "Assembleia da República",
+          "url": "https://www.parlamento.pt/Legislacao/Documents/Legislacao_Anotada/RegimentoAR_Simples.pdf",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Parlamento ainda pode contornar a recusa do Governo... (explicação de Duarte Pacheco, antigo membro da Mesa da AR)",
+          "entidade": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/parlamento/iva-zero/parlamento-ainda-pode-contornar-a-recusa-do-governo-em-aplicar-iva-zero-e-tributar-rendas-mas-so-em-contrarrelogio/20261126/6b0841780cf22114c912907d",
+          "data": "2026-11-26",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Chega pode bloquear redação final do Orçamento? Eis o que diz o Regimento",
+          "entidade": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090860/chega-vai-opor-se-a-redacao-final-do-oe2027-o-que-significa",
+          "data": "2026-11-26",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "A fiscalização preventiva do Orçamento pelo Tribunal Constitucional é um mecanismo rápido de apreciação, e a questão dos duodécimos não se coloca, salvo se os prazos passarem de 31 de dezembro.",
+      "literal": false,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa em Bruxelas, à margem do Conselho Europeu, sobre o que acontece se o Presidente da República pedir a fiscalização preventiva do Orçamento.",
+      "origem": {
+        "meio": "Correio da Manhã (Lusa)",
+        "url": "https://www.cmjornal.pt/politica/detalhe/luis-montenegro-espera-que-presidente-da-republica-promulgue-o-proximo-orcamento-do-estado-e-afasta-duodecimos",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A Constituição (artigo 278.º) dá ao Presidente oito dias para pedir a fiscalização preventiva e ao Tribunal Constitucional 25 dias para decidir, prazo que o Presidente pode encurtar por urgência. Como o Orçamento só deverá sair do Parlamento a 9 de dezembro, com os prazos máximos a decisão pode chegar depois de 31 de dezembro. Montenegro ressalvou essa hipótese; a rapidez depende de o Presidente encurtar os prazos.",
+      "evidencias": [
+        {
+          "titulo": "Constituição da República Portuguesa — artigo 278.º (Fiscalização preventiva da constitucionalidade)",
+          "entidade": "Assembleia da República",
+          "url": "https://www.parlamento.pt/Legislacao/Documents/crp-2021-net.pdf",
+          "data": null,
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Desafio de Seguro aos partidos pode esbarrar na lei (data de saída do Orçamento do Parlamento)",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/26/desafio-de-seguro-aos-partidos-sem-margem-de-sucesso-apelo-do-presidente-pode-esbarrar-na-lei/",
+          "data": "2026-11-26",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "alta",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "O PS votou 30 propostas do Chega. Não venham dizer que não há conversas políticas, obviamente há uma convergência.",
+      "literal": true,
+      "autor": "Paulo Rangel",
+      "cargo": "Ministro de Estado e dos Negócios Estrangeiros",
+      "data": "2026-11-26",
+      "contexto": "Entrevista ao Prime Time da CNN Portugal, sobre a aprovação de normas do Orçamento por PS e Chega.",
+      "origem": {
+        "meio": "CNN Portugal",
+        "url": "https://cnnportugal.iol.pt/orcamento-do-estado/irs-senhorios/paulo-rangel-diz-que-houve-conversas-politicas-entre-chega-e-ps-e-reitera-que-o-governo-nao-vai-ao-constitucional/20261126/6b08c69c0cf2c0fc744b7c42",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "nao_verificavel",
+      "explicacao": "Os balanços publicados indicam que o Chega teve 57 propostas de alteração aprovadas na especialidade do Orçamento, mas não foi encontrada uma contagem pública de quantas tiveram o voto favorável do PS, por isso o número 30 não se pode confirmar. A existência de \"conversas políticas\" entre os dois partidos também não é verificável; José Luís Carneiro negou-as a 24 de novembro.",
+      "evidencias": [
+        {
+          "titulo": "Oposição consegue 273 alterações ao OE2027 e Governo acena com défice",
+          "entidade": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/oposicao-consegue-273-alteracoes-ao-oe2027-e-governo-acena-com-defice",
+          "data": "2026-11-24",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "baixa",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "O Governo não tem nenhuma intenção de recorrer ao Tribunal Constitucional (TC).",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa em Bruxelas, sobre a não aplicação de normas do Orçamento aprovadas por PS e Chega.",
+      "origem": {
+        "meio": "Correio da Manhã (Lusa)",
+        "url": "https://www.cmjornal.pt/politica/detalhe/governo-nao-vai-recorrer-ao-tribunal-constitucional-sobre-o-orcamento-do-estado",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "É no mínimo engraçado que alguém tenha a coragem de dizer que o primeiro-ministro tem uma leitura fora da lei e, no segundo seguinte, diga que, para ultrapassar o constrangimento anunciado pelo primeiro-ministro, vai apresentar um projeto de lei para corrigir aquilo que fez.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-26",
+      "contexto": "Mesma conferência de imprensa, em resposta a André Ventura.",
+      "origem": {
+        "meio": "Correio da Manhã (Lusa)",
+        "url": "https://www.cmjornal.pt/politica/detalhe/governo-nao-vai-recorrer-ao-tribunal-constitucional-sobre-o-orcamento-do-estado",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "De facto, o deputado André Ventura acha mesmo que o Parlamento e o país é um jogo político. Gosta de brincar às moções, mas o país sabe, e sabe bem, que tem no Governo o referencial de estabilidade política.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Líder parlamentar e secretário-geral do PSD",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa no Parlamento, em resposta ao desafio de Ventura para uma moção de confiança.",
+      "origem": {
+        "meio": "Notícias ao Minuto (Lusa)",
+        "url": "https://www.noticiasaominuto.com/politica/3090898/chega-quer-travar-redacao-final-do-oe-psd-diz-que-deu-razao-ao-governo",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "A proposta que hoje está em cima da mesa ainda não é suficiente. Não vai obter, portanto, consenso.",
+      "literal": true,
+      "autor": "Luís Montenegro",
+      "cargo": "Primeiro-ministro",
+      "data": "2026-11-26",
+      "contexto": "Conferência de imprensa no Conselho Europeu extraordinário sobre o orçamento da UE para 2028-2034.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/26/montenegro-proposta-de-costa-para-orcamento-comunitario-ainda-nao-e-suficiente/",
+        "data_publicacao": "2026-11-26"
+      },
+      "tipo": "opiniao",
+      "tema": "europa",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Correio da Manhã (Lusa)",
+      "CNN Portugal",
+      "Notícias ao Minuto (Lusa)",
+      "Público",
+      "Observador",
+      "Assembleia da República (Regimento e Constituição)"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público, CNN Portugal e RTP.",
+      "Público: artigos com paywall, lido só o lead. Observador: alguns artigos só parcialmente acessíveis.",
+      "Bloqueados ou inacessíveis neste ambiente: dnoticias.pt (ligação cortada), diariodarepublica.pt e pgdlisboa.pt (devolvem só JavaScript), sicnoticias.pt, jn.pt e expresso.pt (páginas de secção vazias); rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido.",
+      "Vídeos de debate da CNN Portugal (comentários de deputados dos três partidos) não foram vistos; só os títulos, por isso essas declarações não entram.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "psd.pt e portugal.gov.pt não consultados; as declarações vêm da Lusa, do CM, da CNN Portugal e do Público.",
+      "A entrevista de Paulo Rangel à CNN Portugal não foi vista; usou-se a notícia escrita da CNN.",
+      "Não verificada: a frase de Montenegro de que Seguro \"expressou\" na Assembleia \"o sentido positivo\" da aprovação do Orçamento, por não ter sido lido o discurso do Presidente de 25 de novembro."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 6,
+    "n_afirmacoes": 7,
+    "por_veredicto": {
+      "verdadeiro": 1,
+      "maioritariamente_verdadeiro": 1,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 1,
+      "sem_veredicto": 4
+    }
+  }
+}
