@@ -1,0 +1,292 @@
+{
+  "partido": "ps",
+  "data": "2026-11-28",
+  "gerado_em": "2026-11-28T06:55:41+00:00",
+  "janela": {
+    "de": "2026-11-27",
+    "ate": "2026-11-28"
+  },
+  "resumo": "No Funchal, José Luís Carneiro garantiu que o PS não viabilizará \"quaisquer instrumentos\" que criem uma crise política, o que inclui moções de censura ou de confiança, e disse que o país \"não está mergulhado no caos\" porque aprovou um Orçamento. Perante os projetos do Chega e do JPP com a lista de alimentos com IVA zero, o PS mantém que cabe ao Governo definir essa lista. A única afirmação factual verificada é verdadeira.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Carneiro garante que o PS não viabilizará instrumentos que criem uma crise política",
+      "resumo": "No Funchal, a 27 de novembro, o secretário-geral do PS, José Luís Carneiro, reagiu ao desafio de Ventura para uma moção de confiança dizendo que o PS não viabilizará \"quaisquer instrumentos que tenham em vista criar uma crise política, independentemente da forma\". Na véspera tinha afastado uma moção de censura; segundo o Público, a garantia abrange agora também deixar passar uma moção de confiança. Disse que estão reunidas as condições para o Orçamento entrar em vigor a 1 de janeiro, desde que o Governo cumpra o que o Parlamento decidiu.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "\"O país não está mergulhado no caos\": Carneiro afasta apoio a iniciativas que provoquem uma crise política",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Carneiro garante que PS não viabilizará iniciativas que provoquem uma crise política",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/27/politica/noticia/carneiro-garante-ps-nao-viabilizara-iniciativas-provoquem-crise-politica-2196543",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "PS remete para a lista de 2023 e mantém que cabe ao Governo definir os alimentos com IVA zero",
+      "resumo": "Questionado sobre os produtos a abranger pelo IVA zero aprovado no OE2027, Carneiro remeteu, a 27 de novembro, para a lista de bens alimentares de 2023, dizendo que o PS quis \"dar liberdade ao Governo\" para a corrigir. No mesmo dia, Chega e JPP entregaram projetos de lei com esse cabaz; segundo o Público, os socialistas preferem manter a pressão sobre o Governo, que dizem ter autorização do Parlamento para fixar a lista.",
+      "data": "2026-11-27",
+      "categoria": "parlamento",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Chega recupera cabaz IVA zero de Costa; PS mantém pressão no Governo",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/27/politica/noticia/chega-recupera-cabaz-iva-zero-costa-ps-mantem-pressao-governo-2196618",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Eis a lista de alimentos que o Chega e o JPP querem com IVA zero",
+          "meio": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3091593/eis-a-lista-de-alimentos-que-o-chega-e-jpp-querem-com-iva-zero",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "IVA Zero: Chega avança com lista de alimentos para contornar recusa do Governo",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/chega/andre-ventura/iva-zero-chega-avanca-com-lista-de-alimentos-para-contornar-recusa-do-governo/20261127/6b099dae0cf22114c9129331",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Carneiro termina visita de dois dias à Madeira",
+      "resumo": "Carneiro encerrou a 27 de novembro uma visita à Madeira em que se reuniu com a presidente da Assembleia Legislativa regional, com o bispo do Funchal e com o representante da República. Assumiu o compromisso de ampliar os \"Projetos de Interesse Comum\" entre o Governo da República e o Governo Regional e disse que o Governo deve cumprir o que o Parlamento deliberou sobre o Mecanismo de Continuidade Territorial.",
+      "data": "2026-11-27",
+      "categoria": "outro",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "\"O país não está mergulhado no caos\": Carneiro afasta apoio a iniciativas que provoquem uma crise política",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Deputados do PS voltam a questionar a ministra da Saúde sobre a radioterapia suspensa em Évora",
+      "resumo": "Onze deputados do PS, incluindo os eleitos por Évora, Portalegre e Beja, entregaram a 27 de novembro uma pergunta com nove questões à ministra da Saúde, Ana Paula Martins, sobre a unidade de radioterapia de Évora, parada desde 1 de junho, depois de o Tribunal de Contas ter recusado o visto ao contrato de concessão. O PS diz que a primeira pergunta, de 15 de setembro, ficou sem resposta no prazo regimental.",
+      "data": "2026-11-27",
+      "categoria": "parlamento",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "PS pressiona ministra sobre radioterapia em Évora (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/ps-exige-respostas-a-ministra-da-saude-sobre-radioterapia-suspensa-em-evora-ha-seis-meses/",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Vereação do PS vota contra o orçamento da Câmara de Lisboa para 2027",
+      "resumo": "A 27 de novembro, a Câmara de Lisboa aprovou o orçamento municipal para 2027 com os votos da maioria PSD/CDS-PP/IL de Carlos Moedas e os votos contra de toda a oposição, incluindo o PS. O documento ainda tem de ser aprovado na Assembleia Municipal, onde a coligação não tem maioria absoluta.",
+      "data": "2026-11-27",
+      "categoria": "outro",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "Câmara de Lisboa aprova orçamento para 2027 com votos contra de toda a oposição",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/camara-de-lisboa/orcamento-lisboa-2027/camara-de-lisboa-aprova-orcamento-para-2027-com-votos-contra-de-toda-a-oposicao/20261127/6b09cfca0cf22114c91293aa",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Oposição na Câmara de Lisboa critica \"mau orçamento\" para 2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3091594/oposicao-na-camara-de-lisboa-critica-mau-orcamento-para-2027-marcado-por-menos-investimento",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "O Orçamento do Estado para 2027 foi aprovado com votos dos PSD e do CDS e com a abstenção do Partido Socialista e do JPP. Todos os outros partidos votaram contra.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-27",
+      "contexto": "Declarações aos jornalistas no Funchal, em resposta ao desafio de Ventura para uma moção de confiança.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "verdadeiro",
+      "explicacao": "Na votação final global de 24 de novembro, o OE2027 teve os votos a favor de PSD e CDS-PP e as abstenções de PS e JPP; as restantes bancadas, incluindo o Chega e a IL, votaram contra. A frase seguinte, de que com os outros partidos \"estaríamos no caos\", é um juízo político e não foi verificada.",
+      "evidencias": [
+        {
+          "titulo": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS",
+          "entidade": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "data": "2026-11-24",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Governo promete \"corrigir erros\" da oposição para evitar défice",
+          "entidade": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/governo-promete-corrigir-erros-da-oposicao-para-evitar-defice",
+          "data": "2026-11-24",
+          "sentido": "apoia"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Pelo Partido Socialista não haverá qualquer crise política e não viabilizaremos quaisquer instrumentos que tenham em vista criar uma crise política, independentemente da forma que eles venham a ganhar.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-27",
+      "contexto": "Declarações no Funchal sobre as hipóteses de moção de confiança ou de censura.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "O país não está mergulhado no caos, porque acabou de aprovar um Orçamento na Assembleia da República.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-27",
+      "contexto": "Declarações no Funchal.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Pelos outros partidos, de facto, estaríamos no caos, sob o ponto de vista orçamental. Mas o Partido Socialista viabilizou pela abstenção.",
+      "literal": true,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-27",
+      "contexto": "Declarações no Funchal, a defender a abstenção do PS no Orçamento.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-luis-carneiro/orcamento-do-estado/o-pais-nao-esta-mergulhado-no-caos-carneiro-afasta-apoio-a-iniciativas-que-provoquem-uma-crise-politica/20261127/6b09917d0cf22114c91292f0",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "As propostas do PS sobre o IVA zero e o IRS das rendas são sustentáveis do ponto de vista orçamental e o primeiro-ministro deve ser o primeiro a garantir o cumprimento da lei.",
+      "literal": false,
+      "autor": "José Luís Carneiro",
+      "cargo": "Secretário-geral do PS",
+      "data": "2026-11-27",
+      "contexto": "Declarações no Funchal, transmitidas pela RTP Notícias, sobre as normas que o Governo recusa aplicar.",
+      "origem": {
+        "meio": "Público",
+        "url": "https://www.publico.pt/2026/11/27/politica/noticia/carneiro-garante-ps-nao-viabilizara-iniciativas-provoquem-crise-politica-2196543",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "É absolutamente inaceitável que os doentes oncológicos de Évora e de todo o Alentejo continuem sem acesso a tratamentos de radioterapia na sua região.",
+      "literal": true,
+      "autor": "Luís Dias",
+      "cargo": "Deputado do PS eleito por Évora",
+      "data": "2026-11-27",
+      "contexto": "Comunicado do PS sobre a pergunta entregue à ministra da Saúde.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/ps-exige-respostas-a-ministra-da-saude-sobre-radioterapia-suspensa-em-evora-ha-seis-meses/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "saude",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "CNN Portugal",
+      "Público",
+      "Observador",
+      "Notícias ao Minuto",
+      "ECO",
+      "Correio da Manhã"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público e CNN Portugal.",
+      "Páginas de secção vazias ou geradas só por JavaScript: RTP, DN, TSF, JN, Expresso, SIC Notícias; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido. Público: artigos com paywall, lido só o lead.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "Na manhã de 28 de novembro (até cerca das 07:00) não foram encontradas notícias novas sobre o partido.",
+      "ps.pt e parlamento.pt não consultados; a pergunta dos deputados do PS sobre Évora foi lida na notícia da Lusa.",
+      "O resultado da votação final do OE2027 foi confirmado na imprensa (ECO, CM), não no registo de votações do Parlamento.",
+      "Não verificadas: a frase de Carneiro sobre a \"lista de 44 bens\" de 2023 (a reprodução da CNN Portugal tem 46 produtos e o CM fala em 47; o texto da lei não foi lido) e o valor de 4,1 milhões de euros de investimento em Évora citado por Luís Dias (a Lusa fala em cerca de 4 milhões; só uma fonte)."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 6,
+    "por_veredicto": {
+      "verdadeiro": 1,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 5
+    }
+  }
+}

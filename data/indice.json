@@ -1,7 +1,23 @@
 {
-  "atualizado_em": "2026-11-27T06:56:10+00:00",
+  "atualizado_em": "2026-11-28T06:55:41+00:00",
   "partidos": {
     "chega": [
+      {
+        "data": "2026-11-28",
+        "ficheiro": "data/relatorios/chega/2026-11-28.json",
+        "resumo": "O Chega entregou no Parlamento o projeto de lei que fixa a lista de alimentos com IVA zero entre janeiro e março de 2027, a mesma lista usada em 2023 pelo Governo de António Costa. André Ventura acusou o Governo de \"ter medo\" de uma moção de confiança, mas recusou \"adensar a crise política\", e anunciou que o Chega vai propor na revisão constitucional a reforma sem penalizações após 40 anos de descontos. As afirmações do dia foram promessas e opiniões, sem afirmações factuais para verificar.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 6,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 6
+        }
+      },
       {
         "data": "2026-11-27",
         "ficheiro": "data/relatorios/chega/2026-11-27.json",
@@ -101,6 +117,22 @@
     ],
     "ps": [
       {
+        "data": "2026-11-28",
+        "ficheiro": "data/relatorios/ps/2026-11-28.json",
+        "resumo": "No Funchal, José Luís Carneiro garantiu que o PS não viabilizará \"quaisquer instrumentos\" que criem uma crise política, o que inclui moções de censura ou de confiança, e disse que o país \"não está mergulhado no caos\" porque aprovou um Orçamento. Perante os projetos do Chega e do JPP com a lista de alimentos com IVA zero, o PS mantém que cabe ao Governo definir essa lista. A única afirmação factual verificada é verdadeira.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 6,
+        "por_veredicto": {
+          "verdadeiro": 1,
+          "maioritariamente_verdadeiro": 0,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 5
+        }
+      },
+      {
         "data": "2026-11-27",
         "ficheiro": "data/relatorios/ps/2026-11-27.json",
         "resumo": "José Luís Carneiro acusou Montenegro de fazer \"um ajuste de contas\" com o Parlamento ao recusar aplicar o IVA zero e outras normas do Orçamento, mas garantiu que o PS não provocará uma crise política e afastou uma moção de censura. Brilhante Dias disse que o Governo não pode ser \"fora da lei\" e que a redação final não abre nova discussão; o PSD acusou o PS de convergir com o Chega. A única afirmação factual verificada é verdadeira.",
@@ -182,6 +214,22 @@
       }
     ],
     "psd": [
+      {
+        "data": "2026-11-28",
+        "ficheiro": "data/relatorios/psd/2026-11-28.json",
+        "resumo": "Na Guarda, o secretário-geral do PSD, Hugo Soares, acusou Ventura de usar a idade da reforma como \"truque\" para esconder \"trapalhadas\" no Orçamento e disse que o projeto do Chega sobre o IVA zero prova que o primeiro-ministro tinha razão. O presidente do Parlamento, Aguiar-Branco, relativizou o conflito entre Governo e Parlamento, lembrando divergências com Cavaco Silva e António Costa. As três afirmações factuais verificadas estão certas no essencial, com imprecisões ou falta de contexto.",
+        "n_acontecimentos": 5,
+        "n_afirmacoes": 10,
+        "por_veredicto": {
+          "verdadeiro": 0,
+          "maioritariamente_verdadeiro": 3,
+          "enganador": 0,
+          "maioritariamente_falso": 0,
+          "falso": 0,
+          "nao_verificavel": 0,
+          "sem_veredicto": 7
+        }
+      },
       {
         "data": "2026-11-27",
         "ficheiro": "data/relatorios/psd/2026-11-27.json",

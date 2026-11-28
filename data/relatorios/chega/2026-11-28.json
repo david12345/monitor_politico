@@ -1,0 +1,293 @@
+{
+  "partido": "chega",
+  "data": "2026-11-28",
+  "gerado_em": "2026-11-28T06:55:41+00:00",
+  "janela": {
+    "de": "2026-11-27",
+    "ate": "2026-11-28"
+  },
+  "resumo": "O Chega entregou no Parlamento o projeto de lei que fixa a lista de alimentos com IVA zero entre janeiro e março de 2027, a mesma lista usada em 2023 pelo Governo de António Costa. André Ventura acusou o Governo de \"ter medo\" de uma moção de confiança, mas recusou \"adensar a crise política\", e anunciou que o Chega vai propor na revisão constitucional a reforma sem penalizações após 40 anos de descontos. As afirmações do dia foram promessas e opiniões, sem afirmações factuais para verificar.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Chega entrega projeto de lei com a lista de alimentos com IVA zero, igual no essencial à de 2023",
+      "resumo": "A 27 de novembro, deu entrada no Parlamento o projeto de lei anunciado na véspera por André Ventura: isenta de IVA, entre 1 de janeiro e 31 de março de 2027, o cabaz de bens alimentares aprovado em 2023 pelo Governo de António Costa, com pequenas especificações em alguns produtos, e pede ao Governo uma avaliação do impacto um mês depois. É o desenvolvimento do anúncio de 26 de novembro, depois de Montenegro recusar aplicar a norma do Orçamento por falta de lista. O JPP entregou no mesmo dia um projeto com o mesmo cabaz.",
+      "data": "2026-11-27",
+      "categoria": "parlamento",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "IVA Zero: Chega avança com lista de alimentos para contornar recusa do Governo",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/chega/andre-ventura/iva-zero-chega-avanca-com-lista-de-alimentos-para-contornar-recusa-do-governo/20261127/6b099dae0cf22114c9129331",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Lista de alimentos com IVA zero do Chega já deu entrada no Parlamento e é (quase) igual à de Costa. Veja as diferenças",
+          "meio": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/cabaz-alimentar/iva-zero/lista-de-alimentos-com-iva-zero-do-chega-ja-deu-entrada-no-parlamento-e-e-quase-igual-a-de-costa-veja-as-diferencas/20261127/6b09bb2f0cf2c0fc744b7e28",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Eis a lista de alimentos que o Chega e o JPP querem com IVA zero",
+          "meio": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3091593/eis-a-lista-de-alimentos-que-o-chega-e-jpp-querem-com-iva-zero",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Ventura acusa o Governo de \"ter medo\" de uma moção de confiança mas recusa \"adensar a crise política\"",
+      "resumo": "Em conferência de imprensa na sede nacional do Chega, em Lisboa, a 27 de novembro, André Ventura disse que o PSD afastou a moção de confiança porque \"não tem essa confiança\", mas afirmou que o Chega não vai \"contribuir para a instabilidade política\". Descreveu três fases antes de \"outras abordagens\": exigir que o Governo cumpra a lei, usar os instrumentos legislativos do Parlamento e, por fim, a \"última palavra\" do Presidente da República. Criticou também o presidente da Assembleia da República por não ter defendido a aplicação das normas orçamentais.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "Ventura diz que o Governo tem medo de moção de confiança (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-ventura-diz-que-o-governo-tem-medo-de-mocao-de-confianca-mas-nao-quer-adensar-crise-politica/",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Ventura acusa o Governo de \"ter medo\" de uma moção de confiança e insiste que não quer \"adensar crise política\"",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-acusa-o-governo-de-ter-medo-de-uma-mocao-de-confianca-e-insiste-que-nao-quer-adensar-crise-politica/20261127/6b09dd530cf29f111c0f4fcc",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Chega vai propor na revisão constitucional a reforma sem penalizações após 40 anos de descontos",
+      "resumo": "Ventura anunciou a 27 de novembro que o Chega vai divulgar no domingo um aditamento ao seu projeto de revisão constitucional para impedir aumentos \"ilimitados ou descontrolados\" da idade da reforma e garantir a reforma sem penalizações após 40 anos de descontos. A reação seguiu-se à notícia de que, com os dados provisórios da esperança de vida aos 65 anos publicados pelo INE, a idade legal da reforma deverá subir para 67 anos em 2028, mais um mês do que em 2027. Questionado sobre a sustentabilidade da Segurança Social, disse não estar contra essa análise e que a medida seria aplicada de forma progressiva.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "Chega quer reforma após 40 anos de descontos na Constituição (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/chega-quer-blindar-na-constituicao-reforma-sem-penalizacoes-aos-40-anos-de-descontos-e-travar-subida-da-idade/",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "\"Não pode continuar a aumentar sem controlo\": Ventura critica aumento da idade da reforma e vai apresentar proposta",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/politica/detalhe/nao-pode-continuar-a-aumentar-sem-controlo-ventura-critica-aumento-da-idade-da-reforma-e-vai-apresentar-proposta",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Idade da reforma sobe para 67 anos em 2028, mais um mês do que em 2027",
+          "meio": "Correio da Manhã",
+          "url": "https://www.cmjornal.pt/sociedade/detalhe/idade-da-reforma-sobe-para-67-anos-mais-um-mes-do-que-em-2027",
+          "data_publicacao": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Hugo Soares chama \"truque\" à proposta do Chega sobre a idade da reforma",
+      "resumo": "Na Guarda, a 27 de novembro, o secretário-geral do PSD, Hugo Soares, disse que a proposta sobre a idade da reforma é \"um truque\" de Ventura para esconder \"trapalhadas\" no Orçamento, que o projeto de lei do Chega sobre o IVA zero prova que o primeiro-ministro \"tinha razão\" e que Ventura \"parece uma barata tonta\". Sobre o desafio da moção de confiança, respondeu que a maior moção de confiança é um Orçamento aprovado.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "PSD acusa Chega de \"truque\" para tapar erros no OE (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "PSD acusa André Ventura de criar \"truques\" para esconder \"trapalhadas\" do Orçamento de Estado",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/psd/hugo-soares/psd-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado/20261127/6b0a0b1b0cf2c0fc744b7ebe",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Vereação do Chega vota contra o orçamento da Câmara de Lisboa para 2027",
+      "resumo": "Na reunião de 27 de novembro, o orçamento municipal de Lisboa para 2027, proposto pela liderança PSD/CDS-PP/IL de Carlos Moedas, foi aprovado com os votos contra de toda a oposição, incluindo o Chega. Segundo a Lusa, o Chega votou com a maioria contra duas propostas de alteração do BE sobre o IMI de imóveis devolutos e a taxa turística. O documento ainda tem de passar na Assembleia Municipal.",
+      "data": "2026-11-27",
+      "categoria": "outro",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "Câmara de Lisboa aprova orçamento para 2027 com votos contra de toda a oposição",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/camara-de-lisboa/orcamento-lisboa-2027/camara-de-lisboa-aprova-orcamento-para-2027-com-votos-contra-de-toda-a-oposicao/20261127/6b09cfca0cf22114c91293aa",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Oposição na Câmara de Lisboa critica \"mau orçamento\" para 2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3091594/oposicao-na-camara-de-lisboa-critica-mau-orcamento-para-2027-marcado-por-menos-investimento",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "O primeiro-ministro diz que não quer cumprir as deliberações do Parlamento, mas tem medo de ir ao Parlamento pedir a confiança. Penso que mostra uma certa desorientação e sobretudo falta de autoridade.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Conferência de imprensa na sede nacional do Chega, sobre a recusa do PSD em apresentar uma moção de confiança.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-ventura-diz-que-o-governo-tem-medo-de-mocao-de-confianca-mas-nao-quer-adensar-crise-politica/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "Só depois dessas três fases estarem concluídas, é que faz sentido ter outras abordagens. Neste momento, qualquer outra abordagem contribuiria para adensar a crise política e eu acho que nós devemos resolver a crise institucional antes de ter uma crise política.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Mesma conferência de imprensa, a explicar como o Chega quer resolver o conflito sobre as normas do Orçamento que o Governo não vai aplicar.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-acusa-o-governo-de-ter-medo-de-uma-mocao-de-confianca-e-insiste-que-nao-quer-adensar-crise-politica/20261127/6b09dd530cf29f111c0f4fcc",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "O Chega vai divulgar no domingo um aditamento ao seu projeto de revisão constitucional para proibir o aumento ilimitado ou descontrolado da idade da reforma e fixar nos 40 anos de descontos a base mínima para a reforma sem penalizações.",
+      "literal": false,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Declarações aos jornalistas na sede do Chega, depois da notícia de que a idade legal da reforma deverá subir para 67 anos em 2028.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/chega-quer-blindar-na-constituicao-reforma-sem-penalizacoes-aos-40-anos-de-descontos-e-travar-subida-da-idade/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Esta notícia é verdadeiramente preocupante e mostra que o Governo nunca esteve interessado em baixar a idade da reforma. É injusto colocar as pessoas a trabalhar até morrerem, praticamente.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Reação à notícia de que a idade legal da reforma sobe para 67 anos em 2028.",
+      "origem": {
+        "meio": "Correio da Manhã",
+        "url": "https://www.cmjornal.pt/politica/detalhe/nao-pode-continuar-a-aumentar-sem-controlo-ventura-critica-aumento-da-idade-da-reforma-e-vai-apresentar-proposta",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "O Presidente da Assembleia da República deveria, mais do que ninguém, porque representa todos os deputados e todos os partidos, ter defendido o Parlamento e ter defendido a aplicabilidade das normas orçamentais, porque os deputados não estão ali nem para encenar, nem para fazer decoração.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Crítica a José Pedro Aguiar-Branco, que nesse dia considerou normais as divergências entre Governo e Parlamento.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-ventura-diz-que-o-governo-tem-medo-de-mocao-de-confianca-mas-nao-quer-adensar-crise-politica/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "Um Parlamento que é desautorizado de forma direta publicamente ou recupera a sua autoridade democrática que lhe foi dada pelo voto, ou deixa de a ter para sempre.",
+      "literal": true,
+      "autor": "André Ventura",
+      "cargo": "Presidente do Chega",
+      "data": "2026-11-27",
+      "contexto": "Apelo aos restantes partidos para viabilizarem o projeto de lei do Chega sobre o IVA zero.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-ventura-diz-que-o-governo-tem-medo-de-mocao-de-confianca-mas-nao-quer-adensar-crise-politica/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "CNN Portugal",
+      "Observador",
+      "Correio da Manhã",
+      "Notícias ao Minuto",
+      "Público"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público e CNN Portugal.",
+      "Páginas de secção vazias ou geradas só por JavaScript: RTP, DN, TSF, JN, Expresso, SIC Notícias; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido. Público: artigos com paywall, lido só o lead.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "Na manhã de 28 de novembro (até cerca das 07:00) não foram encontradas notícias novas sobre o partido.",
+      "chega.pt e parlamento.pt não consultados; o texto do projeto de lei foi lido na reprodução da CNN Portugal e do Notícias ao Minuto.",
+      "O CM escreve que a lista do Chega tem 47 bens e o PS fala em 44; a reprodução da CNN Portugal tem 46 produtos. Não foi possível confirmar no texto original."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 6,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 0,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 6
+    }
+  }
+}

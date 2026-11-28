@@ -1,0 +1,428 @@
+{
+  "partido": "psd",
+  "data": "2026-11-28",
+  "gerado_em": "2026-11-28T06:55:41+00:00",
+  "janela": {
+    "de": "2026-11-27",
+    "ate": "2026-11-28"
+  },
+  "resumo": "Na Guarda, o secretário-geral do PSD, Hugo Soares, acusou Ventura de usar a idade da reforma como \"truque\" para esconder \"trapalhadas\" no Orçamento e disse que o projeto do Chega sobre o IVA zero prova que o primeiro-ministro tinha razão. O presidente do Parlamento, Aguiar-Branco, relativizou o conflito entre Governo e Parlamento, lembrando divergências com Cavaco Silva e António Costa. As três afirmações factuais verificadas estão certas no essencial, com imprecisões ou falta de contexto.",
+  "acontecimentos": [
+    {
+      "id": "a1",
+      "titulo": "Hugo Soares acusa Ventura de \"truques\" e diz que o projeto do Chega sobre o IVA zero dá razão ao primeiro-ministro",
+      "resumo": "Na abertura da VIII Academia do Poder Local dos Autarcas Social-Democratas, na Guarda, a 27 de novembro, Hugo Soares disse que a proposta do Chega sobre a idade da reforma é \"um truque\" para esconder que o Chega aumentou, com o PS, o IRS sobre as rendas e aprovou uma norma que considera inconstitucional. Disse que o projeto de lei do Chega com a lista de alimentos é \"a prova provada\" de que Montenegro tinha razão, chamou \"muito injusta\" a medida do IVA zero e afirmou que \"não há nenhuma crise política\".",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 4,
+      "fontes": [
+        {
+          "titulo": "PSD acusa Chega de \"truque\" para tapar erros no OE (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "PSD acusa André Ventura de criar \"truques\" para esconder \"trapalhadas\" do Orçamento de Estado",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/psd/hugo-soares/psd-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado/20261127/6b0a0b1b0cf2c0fc744b7ebe",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Aguiar-Branco considera normais as divergências entre Governo e Parlamento sobre o Orçamento",
+      "resumo": "À margem da iniciativa \"Parlamento Próximo\", no distrito de Aveiro, a 27 de novembro, o presidente da Assembleia da República, José Pedro Aguiar-Branco, eleito pelo PSD, disse que não é a primeira vez que Governo e Parlamento divergem sobre a aplicação de uma lei, recusou fazer um juízo sobre a decisão do primeiro-ministro e garantiu que a Constituição e o Regimento serão cumpridos. O BE disse que a posição \"não é própria de um presidente da Assembleia da República\" e o Chega criticou-o por não defender as normas orçamentais.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 3,
+      "fontes": [
+        {
+          "titulo": "\"Não é a primeira vez\": Aguiar-Branco relativiza divergências sobre o Orçamento do Estado",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/jose-pedro-aguiar-branco/presidente-da-assembleia-da-republica/nao-e-a-primeira-vez-aguiar-branco-relativiza-divergencias-sobre-o-orcamento-do-estado/20261127/6b0986700cf29f111c0f4edc",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Carneiro garante que PS não viabilizará iniciativas que provoquem uma crise política",
+          "meio": "Público",
+          "url": "https://www.publico.pt/2026/11/27/politica/noticia/carneiro-garante-ps-nao-viabilizara-iniciativas-provoquem-crise-politica-2196543",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Entre \"frenesim\" e PAR com \"muita graça\": As reações aos \"entraves\" no OE",
+          "meio": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3091477/entre-frenesim-e-par-com-muita-graca-as-reacoes-aos-entraves-no-oe",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Câmara de Lisboa, liderada por Carlos Moedas, aprova orçamento para 2027 com os votos contra de toda a oposição",
+      "resumo": "A 27 de novembro, a Câmara de Lisboa aprovou o orçamento municipal para 2027, de 1.463 milhões de euros, com os votos da maioria PSD/CDS-PP/IL e os votos contra de PS, BE, Livre, PCP e Chega. Carlos Moedas (PSD) disse que é um orçamento \"que promove a coesão social\"; a oposição criticou a devolução total da participação no IRS e a quebra do investimento. Na Assembleia Municipal a coligação não tem maioria absoluta.",
+      "data": "2026-11-27",
+      "categoria": "outro",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Câmara de Lisboa aprova orçamento para 2027 com votos contra de toda a oposição",
+          "meio": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/camara-de-lisboa/orcamento-lisboa-2027/camara-de-lisboa-aprova-orcamento-para-2027-com-votos-contra-de-toda-a-oposicao/20261127/6b09cfca0cf22114c91293aa",
+          "data_publicacao": "2026-11-27"
+        },
+        {
+          "titulo": "Oposição na Câmara de Lisboa critica \"mau orçamento\" para 2027",
+          "meio": "Notícias ao Minuto (Lusa)",
+          "url": "https://www.noticiasaominuto.com/politica/3091594/oposicao-na-camara-de-lisboa-critica-mau-orcamento-para-2027-marcado-por-menos-investimento",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Paulo Rangel diz que Portugal vai procurar tréguas na navegação de bens alimentares na presidência do Conselho de Segurança",
+      "resumo": "Em Paris, após reunião com o homólogo francês, a 27 de novembro, o ministro dos Negócios Estrangeiros, Paulo Rangel, disse que Portugal vai procurar, na presidência do Conselho de Segurança da ONU em janeiro de 2027, uma \"espécie de trégua\" que permita a circulação de bens alimentares em passagens como o estreito de Ormuz e o mar Vermelho.",
+      "data": "2026-11-27",
+      "categoria": "declaracao",
+      "relevancia": 2,
+      "fontes": [
+        {
+          "titulo": "Rangel quer tréguas na navegação para bens alimentares (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/portugal-quer-treguas-na-navegacao-em-ormuz-e-mar-vermelho-para-garantir-circulacao-de-bens-alimentares-na-onu/",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Ministra do Ambiente anuncia cerca de 200 mil euros para a escola nacional de restauro em Seia",
+      "resumo": "Em Seia, a 27 de novembro, a ministra do Ambiente e Energia, Maria da Graça Carvalho, disse que o Fundo Ambiental vai ajudar a financiar o arranque da escola nacional de restauro, com cerca de 200 mil euros, e anunciou apoio a pequenas instalações de água e saneamento em territórios de baixa densidade.",
+      "data": "2026-11-27",
+      "categoria": "outro",
+      "relevancia": 1,
+      "fontes": [
+        {
+          "titulo": "200 mil euros para escola de restauro em Seia (Lusa)",
+          "meio": "Observador",
+          "url": "https://observador.pt/2026/11/27/ministra-do-ambiente-promete-200-mil-euros-para-escola-de-restauro-em-seia-e-resolve-agua-e-saneamento-na-serra-da-estrela/",
+          "data_publicacao": "2026-11-27"
+        }
+      ]
+    }
+  ],
+  "afirmacoes": [
+    {
+      "id": "f1",
+      "texto": "Isso é um truque do deputado André Ventura para colocar na agenda política e pública outro tema para esconder a trapalhada em que se meteu, para esconder aos portugueses que aumentou, com o Partido Socialista, os impostos sobre as rendas em 150%.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral do PSD",
+      "data": "2026-11-27",
+      "contexto": "Declarações aos jornalistas na Guarda, sobre a proposta do Chega de travar a subida da idade da reforma.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "factual",
+      "tema": "habitacao",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A conta está certa para o caso a que se refere: a alteração do PS aprovada com o Chega revoga a taxa reduzida de IRS de 10% para \"rendas moderadas\" até 2.300 euros, e esses senhorios voltam à taxa de 25%, uma subida de 150%. Mas a frase generaliza: não sobe o imposto sobre todas as rendas, só sobre as abrangidas por aquele regime. E a norma não está em vigor: o Governo anunciou que não a vai aplicar.",
+      "evidencias": [
+        {
+          "titulo": "OE2027. Constitucionalistas divergem sobre legitimidade do Governo para não executar medidas (Lusa)",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-constitucionalistas-divergem-sobre-legitimidade-do-governo-para-nao-executar-medidas/",
+          "data": "2026-11-27",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "OE2027. Proposta aprovada esta terça após várias alterações (Lusa)",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/24/oe2027-proposta-aprovada-esta-terca-feira-em-votacao-apos-varias-alteracoes-a-revelia-do-governo/",
+          "data": "2026-11-24",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "IVA Zero: Chega avança com lista de alimentos para contornar recusa do Governo",
+          "entidade": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/chega/andre-ventura/iva-zero-chega-avanca-com-lista-de-alimentos-para-contornar-recusa-do-governo/20261127/6b099dae0cf22114c9129331",
+          "data": "2026-11-27",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f2",
+      "texto": "É injusta porque eles querem pôr IVA zero o bife de lombo, querem pôr o cherne, a massa trufada ou o queijo parmigiano.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral do PSD",
+      "data": "2026-11-27",
+      "contexto": "Discurso na abertura da VIII Academia do Poder Local dos Autarcas Social-Democratas, na Guarda, sobre o IVA zero no cabaz alimentar.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "factual",
+      "tema": "impostos",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "A lista do projeto de lei do Chega (a mesma de 2023, do Governo de António Costa) usa categorias genéricas: inclui carne de vaca sem distinguir cortes, \"queijos\" sem restrição e massas secas, excluindo só as recheadas, pelo que o lombo, o parmigiano e uma massa seca trufada ficariam abrangidos. O cherne não está: o peixe fresco limita-se a bacalhau, sardinha, pescada, carapau, dourada e cavala. A norma aprovada no Orçamento não tinha lista; a lista é a dos projetos do Chega e do JPP.",
+      "evidencias": [
+        {
+          "titulo": "Lista de alimentos com IVA zero do Chega já deu entrada no Parlamento e é (quase) igual à de Costa (reprodução do projeto de lei)",
+          "entidade": "CNN Portugal",
+          "url": "https://cnnportugal.iol.pt/cabaz-alimentar/iva-zero/lista-de-alimentos-com-iva-zero-do-chega-ja-deu-entrada-no-parlamento-e-e-quase-igual-a-de-costa-veja-as-diferencas/20261127/6b09bb2f0cf2c0fc744b7e28",
+          "data": "2026-11-27",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "Eis a lista de alimentos que o Chega e o JPP querem com IVA zero",
+          "entidade": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3091593/eis-a-lista-de-alimentos-que-o-chega-e-jpp-querem-com-iva-zero",
+          "data": "2026-11-27",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "IVA Zero: Chega avança com lista de alimentos para contornar recusa do Governo",
+          "entidade": "CNN Portugal (Lusa)",
+          "url": "https://cnnportugal.iol.pt/chega/andre-ventura/iva-zero-chega-avanca-com-lista-de-alimentos-para-contornar-recusa-do-governo/20261127/6b099dae0cf22114c9129331",
+          "data": "2026-11-27",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f3",
+      "texto": "Não é a primeira vez que há uma divergência de entendimento quanto à aplicação de uma lei da Assembleia da República entre um Governo e a Assembleia da República. Já aconteceu no passado, nomeadamente com primeiros-ministros tão distintos quanto Cavaco Silva ou António Costa.",
+      "literal": true,
+      "autor": "José Pedro Aguiar-Branco",
+      "cargo": "Presidente da Assembleia da República (eleito pelo PSD)",
+      "data": "2026-11-27",
+      "contexto": "Declarações aos jornalistas na iniciativa \"Parlamento Próximo\", no distrito de Aveiro, sobre a recusa do Governo em aplicar normas do OE2027.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/jose-pedro-aguiar-branco/presidente-da-assembleia-da-republica/nao-e-a-primeira-vez-aguiar-branco-relativiza-divergencias-sobre-o-orcamento-do-estado/20261127/6b0986700cf29f111c0f4edc",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "factual",
+      "tema": "orcamento",
+      "veredicto": "maioritariamente_verdadeiro",
+      "explicacao": "Há precedentes com os dois: o acórdão 461/87 do Tribunal Constitucional, sobre o Orçamento de 1987 do Governo minoritário de Cavaco Silva, decidiu que o Parlamento não pode obrigar o Governo a legislar; em 2021, o Governo de António Costa pediu ao Tribunal Constitucional a fiscalização de apoios sociais aprovados pela oposição, por violarem a \"lei-travão\". Falta contexto: nesses casos a divergência foi levada ao Tribunal Constitucional, e o constitucionalista Vital Moreira considera que recusar executar uma norma acabada de votar \"não tem precedente\".",
+      "evidencias": [
+        {
+          "titulo": "OE2027. Constitucionalistas divergem sobre legitimidade do Governo para não executar medidas (Lusa; acórdão 461/87 do TC)",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-constitucionalistas-divergem-sobre-legitimidade-do-governo-para-nao-executar-medidas/",
+          "data": "2026-11-27",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "\"Lei é lei\". Costa contraria Marcelo e envia apoios sociais para o Tribunal Constitucional",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2021/03/31/lei-e-lei-costa-contraria-marcelo-e-envia-apoios-sociais-para-o-tribunal-constitucional/",
+          "data": "2021-03-31",
+          "sentido": "apoia"
+        },
+        {
+          "titulo": "OE2027. Constitucionalistas divergem... (posição de Vital Moreira: \"não tem precedente\")",
+          "entidade": "Observador",
+          "url": "https://observador.pt/2026/11/27/oe2027-constitucionalistas-divergem-sobre-legitimidade-do-governo-para-nao-executar-medidas/",
+          "data": "2026-11-27",
+          "sentido": "contexto"
+        }
+      ],
+      "confianca": "media",
+      "ver_tambem": null
+    },
+    {
+      "id": "f4",
+      "texto": "Isto demonstra bem que o deputado André Ventura parece uma barata tonta.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral do PSD",
+      "data": "2026-11-27",
+      "contexto": "Declarações na Guarda sobre as posições do Chega quanto à norma do IVA zero.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/psd/hugo-soares/psd-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado/20261127/6b0a0b1b0cf2c0fc744b7ebe",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f5",
+      "texto": "Os portugueses sabem que a maior moção de confiança que um Governo pode ter é um Orçamento do Estado aprovado no Parlamento.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral do PSD",
+      "data": "2026-11-27",
+      "contexto": "Resposta ao desafio de Ventura para o Governo apresentar uma moção de confiança.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f6",
+      "texto": "Tanto hoje como ontem, ninguém da oposição foi capaz de contraditar a interpretação que o primeiro-ministro fez da norma que foi aprovada.",
+      "literal": true,
+      "autor": "Hugo Soares",
+      "cargo": "Secretário-geral do PSD",
+      "data": "2026-11-27",
+      "contexto": "Declarações na Guarda sobre a decisão do Governo de não aplicar o IVA zero.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-do-estado/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f7",
+      "texto": "Religiosamente, a Constituição e o Regimento [da Assembleia da República] serão sempre cumpridos.",
+      "literal": true,
+      "autor": "José Pedro Aguiar-Branco",
+      "cargo": "Presidente da Assembleia da República (eleito pelo PSD)",
+      "data": "2026-11-27",
+      "contexto": "Declarações na iniciativa \"Parlamento Próximo\", sobre o conflito entre Governo e Parlamento.",
+      "origem": {
+        "meio": "Público",
+        "url": "https://www.publico.pt/2026/11/27/politica/noticia/carneiro-garante-ps-nao-viabilizara-iniciativas-provoquem-crise-politica-2196543",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "promessa",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f8",
+      "texto": "Mesmo que não haja uma solução global de cada um dos conflitos, Portugal procurará na presidência do Conselho de Segurança da ONU uma espécie de trégua quanto à liberdade de navegação que permita a circulação dos bens alimentares.",
+      "literal": false,
+      "autor": "Paulo Rangel",
+      "cargo": "Ministro dos Negócios Estrangeiros",
+      "data": "2026-11-27",
+      "contexto": "Declarações em Paris após reunião com o ministro francês, sobre a presidência portuguesa do Conselho de Segurança em janeiro de 2027.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/portugal-quer-treguas-na-navegacao-em-ormuz-e-mar-vermelho-para-garantir-circulacao-de-bens-alimentares-na-onu/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f9",
+      "texto": "Vamos ajudar a financiar a escola nacional de restauro, que envolve muitas instituições, mas que terá sede aqui em Seia, no CISE, e é para arrancar também com financiamento do Fundo Ambiental.",
+      "literal": true,
+      "autor": "Maria da Graça Carvalho",
+      "cargo": "Ministra do Ambiente e Energia",
+      "data": "2026-11-27",
+      "contexto": "Visita a Seia e reuniões com autarcas da serra da Estrela.",
+      "origem": {
+        "meio": "Observador (Lusa)",
+        "url": "https://observador.pt/2026/11/27/ministra-do-ambiente-promete-200-mil-euros-para-escola-de-restauro-em-seia-e-resolve-agua-e-saneamento-na-serra-da-estrela/",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "promessa",
+      "tema": "outro",
+      "veredicto": null,
+      "explicacao": "Compromisso futuro; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    },
+    {
+      "id": "f10",
+      "texto": "Este é um orçamento que promove a coesão social.",
+      "literal": true,
+      "autor": "Carlos Moedas",
+      "cargo": "Presidente da Câmara Municipal de Lisboa",
+      "data": "2026-11-27",
+      "contexto": "Nota da autarquia após a aprovação do orçamento municipal para 2027 na Câmara de Lisboa.",
+      "origem": {
+        "meio": "CNN Portugal (Lusa)",
+        "url": "https://cnnportugal.iol.pt/camara-de-lisboa/orcamento-lisboa-2027/camara-de-lisboa-aprova-orcamento-para-2027-com-votos-contra-de-toda-a-oposicao/20261127/6b09cfca0cf22114c91293aa",
+        "data_publicacao": "2026-11-27"
+      },
+      "tipo": "opiniao",
+      "tema": "orcamento",
+      "veredicto": null,
+      "explicacao": "Juízo de valor; regista-se sem veredicto.",
+      "evidencias": [],
+      "confianca": null,
+      "ver_tambem": null
+    }
+  ],
+  "cobertura": {
+    "fontes_consultadas": [
+      "Observador",
+      "CNN Portugal",
+      "Público",
+      "Notícias ao Minuto",
+      "Correio da Manhã",
+      "ECO"
+    ],
+    "limitacoes": [
+      "Redes sociais (X, Facebook, Instagram, TikTok) não consultadas diretamente: exigem sessão iniciada; publicações só entram citadas pela imprensa.",
+      "O WebSearch devolveu sobretudo resultados de anos anteriores; a recolha fez-se a partir das páginas de secção de Notícias ao Minuto, Observador, CM, Público e CNN Portugal.",
+      "Páginas de secção vazias ou geradas só por JavaScript: RTP, DN, TSF, JN, Expresso, SIC Notícias; rr.pt e poligrafo.iol.pt não tentados por bloqueio conhecido. Público: artigos com paywall, lido só o lead.",
+      "Nenhum fact-check publicado na janela sobre o partido foi encontrado.",
+      "Na manhã de 28 de novembro (até cerca das 07:00) não foram encontradas notícias novas sobre o partido.",
+      "psd.pt, portugal.gov.pt e parlamento.pt não consultados; as declarações vêm da Lusa (Observador, CNN Portugal, Notícias ao Minuto) e do Público.",
+      "O acórdão 461/87 do Tribunal Constitucional não foi lido diretamente; usou-se a citação do constitucionalista Tiago Duarte à Lusa.",
+      "Declarações de membros do Governo independentes ou do CDS-PP (ex.: o ministro da Educação, Fernando Alexandre, sobre as propinas; o ministro da Administração Interna, Luís Neves) ficaram de fora.",
+      "Não entrou a frase de Hugo Soares de que o Chega entregou o projeto \"dois dias depois\" da aprovação do Orçamento (foram três: 24 e 27 de novembro), por ser um pormenor menor."
+    ]
+  },
+  "estatisticas": {
+    "n_acontecimentos": 5,
+    "n_afirmacoes": 10,
+    "por_veredicto": {
+      "verdadeiro": 0,
+      "maioritariamente_verdadeiro": 3,
+      "enganador": 0,
+      "maioritariamente_falso": 0,
+      "falso": 0,
+      "nao_verificavel": 0,
+      "sem_veredicto": 7
+    }
+  }
+}
